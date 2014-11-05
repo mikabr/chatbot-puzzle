@@ -1,0 +1,9 @@
+One may define a concept of an n-person game in which each player has a finite set of pure strategies and in which a definite set of payments to the n players corresponds to each n-tuple of pure strategies, one strategy being taken for each player. For mixed strategies, which are probability distributions over the pure strategies, the pay-off functions are the expectations of the players, thus becoming polylinear forms in the probabilities with which the various players play their various pure strategies.
+
+Any n-tuple of strategies, one for each player, may be regarded as a point in the product space obtained by multiplying the n strategy spaces of the players. One such n-tuple counters another if the strategy of each player in the countering n-tuple yields the highest obtainable expectation for its player against the n - 1 strategies of the other players in the countered n-tuple. A self-countering n-tuple is called an equilibrium point.
+
+The correspondence of each n-tuple with its set of countering n-tuples gives a one-to-many mapping of the product space into itself. From the definition of countering we see that the set of countering points of a point is convex. By using the continuity of the pay-off functions we see that the graph of the mapping is closed. The closedness is equivalent to saying: if P1, P2, … and Q1, Q2, …, Qn, … are sequences of points in the product space where Qn → Q, Pn → P and Qn counters Pn then Q counters P.
+
+Since the graph is closed and since the image of each point under the mapping is convex, we infer from Kakutani’s theorem1 that the mapping has a fixed point (i.e., point contained in its image). Hence there is an equilibrium point.
+
+In the two-person zero-sum case the “main theorem” and the existence of an equilibrium point are equivalent. In this case any two equilibrium points lead to the same expectations for the players, but this need not occur in general.

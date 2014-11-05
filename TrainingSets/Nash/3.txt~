@@ -1,0 +1,13 @@
+The path space described here provides a very simple demonstration of the
+topological invariance of the Stiefel-Whitney classes for a differentiable manifold
+M. This invariance has been proved by other means by R. Thom.'
+Actually, Thom proves a more general result, which implies the topological
+invariance of these classes. He shows that the fiber homotopy type of the tangent
+bundle of M depends only on the topological structure of M. Because the Stiefel-
+Whitney classes are dependent only on the fiber homotopy type of the tangent
+bundle, their topological invariance follows.
+The path space we introduce is regarded as a fiber space2 over M, and it turns out
+to have the same fiber homotopy type as the tangent bundle. Since the definition of
+the path space is purely topological, the general result of Thom follows immedi-
+ately. Also, one sees directly that the Stiefel-Whitney classes have an analogue for
+manifolds without differentiability structure.

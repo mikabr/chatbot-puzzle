@@ -1,0 +1,76 @@
+The path space described here provides a very simple demonstration of the
+topological invariance of the Stiefel-Whitney classes for a differentiable manifold
+M. This invariance has been proved by other means by R. Thom.'
+Actually, Thom proves a more general result, which implies the topological
+invariance of these classes. He shows that the fiber homotopy type of the tangent
+bundle of M depends only on the topological structure of M. Because the Stiefel-
+Whitney classes are dependent only on the fiber homotopy type of the tangent
+bundle, their topological invariance follows.
+The path space we introduce is regarded as a fiber space2 over M, and it turns out
+to have the same fiber homotopy type as the tangent bundle. Since the definition of
+the path space is purely topological, the general result of Thom follows immedi-
+ately. Also, one sees directly that the Stiefel-Whitney classes have an analogue for
+manifolds without differentiability structure.
+jection mapping to M by mapping each path  starting point, x(O).
+We can regard M as provided with a smooth Riemannian metric. It is con-
+venient2 to assume that this metric is such that the geodesic distance between any
+pair of conjugate points is always more than one. Then, if two points are not more
+than one unit apart, there is a unique shortest geodesic segment joining them, and
+this segment varies continuously with the points.
+The tangent bundle can now be regarded as formed by the geodesic paths of
+length 1, parametrized by arc length. This makes it a subspace of our fiber space
+of paths. What we prove is that the tangent bundle (thus represented) is a fiber
+deformation retract of the path space.
+The retraction is easy to construct. The essential point is to find a parameter
+value t* for each path which varies continuously with the path and has the property
+that for 0 < t < t* the points x(t) and x(O) are less than one unit of distance apart.
+Then a unique shortest geodesic runs from x(O) to x(t).
+To define 1*, let d(t) be the distance from x(t) to x(O). 
+Using t*, the deformation of the paths into geodesics of unit length can be de-
+fined as a three-stage process. First, contract the path along itself until it becomes
+the subpath ending at the parameter value t*. We may now deform it into the
+geodesic segment -from x(O) to x(t*), with the use of the geodesic segments from
+x(O) to x(t), 0 < I < t*. Finally, the geodesic segment from x(O) to x(t*) is gradually
+extended until it has unit length.
+This note outlines the proofs of theorems on the continuity of solutions of linear
+parabolic and elliptic partial differential equations. These a priori continuity
+theorems are important for their applications to nonlinear equations. Our original
+motivation was the existence problems for fluid flow, especially the general com-
+pressible viscous flow, and the turbulence problem. We were led to the problem
+solved here by a process of reduction, isolating what seemed the essential difficulty
+facing an attack on the general nonlinear equations.
+Such equations characterize diffusion or heat conduction.
+We attack via fundamental solutions, which are conveniently unified in a single
+characterizing function S(xUZ). S is defined and positive whenever t > 7.' For
+fixed x, I S satisfies equation (1) and has unit weight: fS dx = 1, where dx con-
+ventionally stands for the volume element in the Euclidean space. For fixed x, t
+S is similarly a fundamental solution of the adjoint equation
+Our argument has three main stages, in which different inequalities are estab-
+lished. The major result of the first stage is important in itself and is used in all
+later stages. It controls the rate of "spreading out" of a fundamental solution and
+seems the key to the whole problem. We begin by considering a fundamental
+solution T = S(xtOO) with singularity at the origin. 
+In equation (25) the second integral can also be written as duldxr, the conversion of
+the measure into a function, and xi can be any point in space. Using equation (25)
+with relation (10), we control the portion of the weight of the total measure in the
+boundary part dp in terms of the size of \t2,- t1 compared with the distance
+d(x2) from x2 to B. Then we use equation (25) again to establish the approximation
+of do, to S(x2t2xltl) dx1. This reduces the problem of estimating the continuity of T'
+at time t2 to the free-space problem where relation (2) applies. The elliptic bound-
+ary-value problem corresponds to the parabolic one where everything is independent
+of time and a steady state obtains. The best continuity control is obtained by
+selecting t2 - t1 in proper relation to
+ - x2'|, d(x2) and d(x2'), x2 and X2' being
+two points in R. Proceeding crudely, we obtain relation (3).
+Previously, relation (3) was known only up to two dimensions and was obtained
+by somewhat special methods. This limited the study of nonlinear elliptic prob-
+lems to one and two dimensions. Relation (2) was, at most, known only in one
+space dimension. The key inequality (10) contains more strength than we have
+used here to derive relations (2) and (3).
+In all our discussion we have ignored smoothness questions, because, in obtaining
+the results we obtain, the essential thing is that no quantitative smoothness assump-
+tioris are used, while any qualitative smoothness, such as C', assumed for the coef-
+ficients of equation (1) is quite harmless.
+The author wants to thank the Alfred P. Sloan Foundation, the Institute for
+Advanced Study (Princeton), Massachusetts Institute of Technology, New York
+University, and the individuals who helped in various ways.
