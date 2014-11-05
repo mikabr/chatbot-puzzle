@@ -1,0 +1,31 @@
+# Depends on pymarkovchain
+
+from pymarkovchain import MarkovChain
+import itertools
+
+def pairwise(iterable):
+    a, b = tee(iterable)
+    next(b, None)
+    return izip(a, b)
+
+def getScore(chain, string):
+    score = 0
+
+    for word, word2 in pairwise(string.split()):
+        word_score = 0
+        if chain.db.has_key(word) and chain.db[word].has_key(word2):
+            word_score = chain.db[word][word2]
+        score += word_score
+    return score
+
+def test():
+    shakeMC = MarkovChain("./shakespeareDB")
+
+    test_string0 = "I came in like a wrecking ball"
+    score0 = test_string0 = getScore(shakeMC,test_string0)
+
+    test_string1 = "How called you the man"
+    score1 = test_string1 = getScore(shakeMC,test_string1)
+    
+    print test_stirng0," : ",score0
+    print test_string1," : ",score1
