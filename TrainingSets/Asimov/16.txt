@@ -1,0 +1,453 @@
+TREVIZE felt depressed. What few victories he had had since the search began had never been definitive; they had merely been the temporary staving off of defeat
+
+Now he had delayed the Jump to the third of the Spacer worlds till he had spread his unease to the others. When he finally decided that he simply must tell the computer to move the ship through hyperspace, Pelorat was standing solemnly in the doorway to the pilot-room, and Bliss was just behind him and to one side. Even Fallom was standing there, gazing at Trevize owlishly, while one hand gripped Bliss's hand tightly.
+
+Trevize had looked up from the computer and had said, rather churlishly, "Quite the family group!" but that was only his own discomfort speaking.
+
+He instructed the computer to Jump in such a way as to reenter space at a further distance from the star in question than was absolutely necessary. He told himself that that was because he was learning caution as a result of events on the first two Spacer worlds, but he didn't believe that. Well underneath, he knew, he was hoping that he would arrive in space at a great enough distance from the star to be uncertain as to whether it did or did not have a habitable planet. That would give him a few more days of in-space travel before he could find out, and (perhaps) have to stare bitter defeat in the face.
+
+So now, with the "family group" watching, he drew a deep breath, held it, then expelled it in a between-the-lips whistle as he gave the computer its final instruction.
+
+The star-pattern shifted in a silent discontinuity and the viewscreen became barer, for he had been taken into a region in which the stars were somewhat sparser. And there, nearly in the center, was a brightly gleaming star.
+
+Trevize grinned broadly, for this was a victory of sorts. After all, the third set of co-ordinates might have been wrong and there might have been no appropriate G-type star in sight. He glanced toward the other three, and said, "That's it. Star number three."
+
+"Are you sure?" asked Bliss softly.
+
+"Watch!" said Trevize. "I will switch to the equi-centered view in the computer's Galactic map, and if that bright star disappears, it's not recorded on the map, and it's the one we want."
+
+The computer responded to his command, and the star blinked out without any prior dimming. It was as though it had never been, but the rest of the starfield remained as it was, in sublime indifference.
+
+"We've got it," said Trevize.
+
+And yet he sent the Far Star forward at little more than half the speed he might easily have maintained. There was still the question of the presence or absence of a habitable planet, and he was in no hurry to find out. Even after three days of approach, there was still nothing to be said about that, either way.
+
+Or, perhaps, not quite nothing. Circling the star was a large gas giant. It was very far from its star and it gleamed a very pale yellow on its daylight side, which they could see, from their position, as a thick crescent.
+
+Trevize did not like its looks, but he tried not to show it and spoke as matter-of-factly as a guidebook. "There's a big gas giant out there," he said. "It's rather spectacular. It has a thin pair of rings and two sizable satellites that can be made out at the moment."
+
+Bliss said, "Most systems include gas giants, don't they?"
+
+"Yes, but this is a rather large one. Judging from the distance of its satellites, and their periods of revolution, that gas giant is almost two thousand times as massive as a habitable planet would be."
+
+"What's the difference?" said Bliss. "Gas giants are gas giants and it doesn't matter what size they are, does it? They're always present at great distances from the star they circle, and none of them are habitable, thanks to their size and distance. We just have to look closer to the star for a habitable planet."
+
+Trevize hesitated, then decided to place the facts on the table. "The thing is," he said, "that gas giants tend to sweep a volume of planetary space clean. What material they don't absorb into their own structures will coalesce into fairly large bodies that come to make up their satellite system. They prevent other coalescences at even a considerable distance from themselves, so that the larger the gas giant, the more likely it is to be the only sizable planet of a particular star. There'll just be the gas giant and asteroids."
+
+"You mean there is no habitable planet here?"
+
+"The larger the gas giant, the smaller the chance of a habitable planet and that gas giant is so massive it is virtually a dwarf star."
+
+Pelorat said, "May we see it?"
+
+All three now stared at the screen (Fallom was in Bliss's room with the j books).
+
+The view was magnified till the crescent filled the screen. Crossing that crescent a distance above center was a thin dark line, the shadow of the ring system which could itself be seen a small distance beyond the planetary surface as a gleaming curve that stretched into the dark side a short distance before it entered the shadow itself.
+
+Trevize said, "The planet's axis of rotation is inclined about thirty-five degrees to its plane of revolution, and its ring is in the planetary equatorial plane, of course, so that the star's light comes in from below, at this point in its orbit, and casts the ring's shadow well above the equator."
+
+Pelorat watched raptly. "Those are thin rings."
+
+"Rather above average size, actually," said Trevize.
+
+"According to legend, the rings that circle a gas giant in Earth's planetary system are much wider, brighter, and more elaborate than this one. The rings actually dwarf the gas giant by comparison."
+
+"I'm not surprised," said Trevize. "When a story is handed on from person to person for thousands of years, do you suppose it shrinks in the telling?"
+
+Bliss said, "It's beautiful. If you watch the crescent, it seems to writhe and wriggle before your eyes."
+
+"Atmospheric storms," said Trevize. "You can generally see that more clearly if you choose an appropriate wavelength of light. Here, let me try." He placed his hands on the desk and ordered the computer to work its way through the spectrum and stop at the appropriate wavelength.
+
+The mildly lit crescent went into a wilderness of color that shifted so rapidly it almost dazed the eyes that tried to follow. Finally, it settled into a red-orange, and, within the crescent, clear spirals ** drifted, coiling and uncoiling as they moved.
+
+"Unbelievable," muttered Pelorat.
+
+"Delightful," said Bliss.
+
+Quite believable, thought Trevize bitterly, and anything but delightful. Neither Pelorat nor Bliss, lost in the beauty, bothered to think that the planet they admired lowered the chances of solving the mystery Trevize was trying to unravel. But, then, why should they? Both were satisfied that Trevize's decision had been correct, and they accompanied him in his search for certainty without an emotional bond to it. It was useless to blame them for that.
+
+He said, "The dark side seems dark, but if our eyes were sensitive to the range just a little beyond the usual long-wave limit, we would see it as a dull, deep, angry red. The planet is pouring infrared radiation out into space in great quantities because it is massive enough to be almost red-hot. It's more than a gas giant; it's a sub-star."
+
+He waited a little longer and then said, "And now let's put that object out of our mind and look for the habitable planet that may exist."
+
+"Perhaps it does," said Pelorat, smiling. "Don't give up, old fellow."
+
+"I haven't given up," said Trevize, without true conviction. "The formation of planets is too complicated a matter for rules to be hard and fast. We speak only of probabilities. With that monster out in space, the probabilities decrease, but not to zero."
+
+Bliss said, "Why don't you think of it this way? Since the first two sets of co-ordinates each gave you a habitable planet of the Spacers, then this third set, which has already given you an appropriate star, should give you a habitable planet as well. Why speak of probabilities?"
+
+"I certainly hope you're right," said Trevize, who did not feel at all consoled. "Now we will shoot out of the planetary plane and in toward the star."
+
+The computer took care of that almost as soon as he had spoken his intention. He sat back in his pilot's chair and decided, once again, that the one evil of piloting a gravitic ship with a computer so advanced was that one could never-never-pilot any other type of ship again.
+
+Could he ever again bear to do the calculations himself? Could he bear to have to take acceleration into account, and limit it to a reasonable level? In all likelihood, he would forget and pour on the energy till he and everyone on board were smashed against one interior wall or another.
+
+Well, then, he would continue to pilot this one ship-or another exactly like it, if he could even bear to make so much of a change-always.
+
+And because he wanted to keep his mind off the question of the habitable planet, yes or no, he mused on the fact that he had directed the ship to move above the plane, rather than below. Barring any definite reason to go below a plane, pilots almost always chose to go above. Why?
+
+For that matter, why be so intent on considering one direction above and the other below? In the symmetry of space that was pure convention.
+
+Just the same, he was always aware of the direction in which any planet under observation rotated about its axis and revolved about its star. When both were counterclockwise, then the direction of one's raised arm was north, and the direction of one's feet was south. And throughout the Galaxy, north was pictured as above and south as below.
+
+It was pure convention, dating back into the primeval mists, and it was followed slavishly. If one looked at a familiar map with south above, one didn't recognize it. It had to be turned about to make sense. And all things being equal, one turned north-and "above."
+
+Trevize thought of a battle fought by Bel Riose, the Imperial general of three centuries before, who had veered his squadron below the planetary plane at a crucial moment, and caught a squadron of vessels, waiting and unprepared. There were complaints that it had been an unfair maneuver-by the losers, of course.
+
+A convention, so powerful and so primordially old, must have started on Earth-and that brought Trevize's mind, with a jerk, back to the question of the habitable planet.
+
+Pelorat and Bliss continued to watch the gas giant as it slowly turned on the viewscreen in a slow, slow back-somersault. The sunlit portion spread and, as Trevize kept its spectrum fixed in the orange-red wavelengths, the storm-writhing of its surface became ever madder and more hypnotic.
+
+Then Fallom came wandering in and Bliss decided it must take a nap and that so must she.
+
+Trevize said to Pelorat, who remained, "I have to let go of the gas giant, Janov. I want to have the computer concentrate on the search for a gravitational blip of the right size."
+
+"Of course, old fellow," said Pelorat.
+
+But it was more complicated than that. It was not just a blip of the right size that the computer had to search for, it was one of the right size and at the right distance. It would still be several days before he could be sure.
+
+61.
+
+TREVIZE walked into his room, grave, solemn-indeed somber-and started perceptibly.
+
+Bliss was waiting for him and immediately next to her was Fallow, with its loincloth and robe bearing the unmistakable fresh odor of steaming and vacupressing. The youngster looked better in that than in one of Bliss's foreshortened nightgowns.
+
+Bliss said, "I didn't want to disturb you at the computer, but now listen. Go on, Fallow."
+
+Fallow said, in its high-pitched musical voice, "I greet you, Protector Trevize. It is with great pleasure that I am ap-ad-accompanying you on this ship through space. I am happy, too, for the kindness of my friends, Bliss and Pel."
+
+Fallow finished and smiled prettily, and once again Trevize thought to himself: Do I think of it as a boy or as a girl or as both or as neither?
+
+He nodded his head. "Very well memorized. Almost perfectly pronounced."
+
+"Not at all memorized," said Bliss warmly. "Fallow composed this itself and asked if it would be possible to recite it to you. I didn't even know what Fallow would say till I heard it said."
+
+Trevize forced a smile, "In that case, very good indeed." He noticed Bliss avoided pronouns when she could.
+
+Bliss turned to Fallow and said, "I told you Trevize would like it. Now go to Pel and you can have some more reading if you wish."
+
+Fallow ran off, and Bliss said, "It's really astonishing how quickly Fallow is picking up Galactic. The Solarians must have a special aptitude for languages. Think how Bander spoke Galactic merely from hearing it on hyperspatial communications. Those brains may be remarkable in ways other than energy transduction."
+
+Trevize grunted.
+
+Bliss said, "Don't tell me you still don't like Fallom."
+
+"I neither like nor dislike. The creature simply makes me uneasy. For one thing, it's a grisly feeling to be dealing with a hermaphrodite."
+
+Bliss said, "Come, Trevize, that's ridiculous. Fallom is a perfectly acceptable living creature. To a society of hermaphrodites, think how disgusting you and I must seem-males and females generally. Each is half of a whole and, in order to reproduce, there must be a temporary and clumsy union."
+
+"Do you object to that, Bliss?"
+
+"Don't pretend to misunderstand. I am trying to view us from the hermaphroditic standpoint. To them, it must seem repellent in the extreme; to us, it seems natural. So Fallom seems repellent to you, but that's just a shortsighted parochial reaction."
+
+"Frankly," said Trevize, "it's annoying not to know the pronoun to use in connection with the creature. It impedes thought and conversation to hesitate forever at the pronoun."
+
+"But that's the fault of our language," said Bliss, "and not of Fallom. No human language has been devised with hermaphroditism in mind. And I'm glad you brought it up, because I've been thinking about it myself. Saying 'it,' as Bander itself insisted on doing, is no solution. That is a pronoun intended for objects to which sex is irrelevant, and there is no pronoun at all for objects that are sexually active in both senses. Why not just pick one of the pronouns arbitrarily, then? I think of Fallom as a girl. She has the high voice of one, for one thing, and she has the capacity of producing young, which is the vital definition of femininity. Pelorat has agreed; why don't you do so, too? Let it be 'she' and 'her.' "
+
+Trevize shrugged. "Very well. It will sound peculiar to point out that she has testicles, but very well."
+
+Bliss sighed. "You do have this annoying habit of trying to turn everything into a joke, but I know you are under tension and I'll make allowance for that. Just use the feminine pronoun for Fallom, please."
+
+"I will." Trevize hesitated, then, unable to resist, said, "Fallom seems more your surrogate-child every time I see you together. Is it that you want a child and don't think Janov can give you one?"
+
+Bliss's eyes opened wide. "He's not there for children! Do you think I use him as a handy device to help me have a child? It is not time for me to have a child, in any case. And when it is time, it will have to be a Gaian child, something for which Pel doesn't qualify."
+
+"You mean Janov will have to be discarded?"
+
+"Not at all. A temporary diversion, only. It might even be brought about by artificial insemination."
+
+"I presume you can only have a child when Gaia's decision is that one is necessary; when there is a gap produced by the death of an already-existing, Gaian human fragment."
+
+"That is an unfeeling way of putting it, but it is true enough. Gaia must be well proportioned in all its parts and relationships."
+
+"As in the case of the Solarians."
+
+Bliss's lips pressed together and her face grew a little white. "Not at all. '' The Solarians produce more than they need and destroy the excess. We produce just what we need and there is never a necessity of destroying-as you replace the dying outer layers of your skin by just enough new growth for renewal and by not one cell more."
+
+"I see what you mean," said Trevize. "I hope, by the way, that you are considering Janov's feelings."
+
+"In connection with a possible child for me? That has never come up for discussion; nor will it."
+
+"No, I don't mean that. It strikes me you are becoming more and more interested in Fallom. Janov may feel neglected."
+
+"He's not neglected, and he is as interested in Fallom as I am. She is another point of mutual involvement that draws us even closer together. Can it be that you are the one who feels neglected?"
+
+"I?" He was genuinely surprised.
+
+"Yes, you. I don't understand Isolates any more than you understand Gaia, but I have a feeling that you enjoy being the central point of attention on this ship, and you may feel cut out by Fallom."
+
+"That's foolish."
+
+"No more foolish than your suggestion that I am neglecting Pel."
+
+"Then let's declare a truce and stop. I'll try to view Fallom as a girl, and I shall not worry excessively about you being inconsiderate of Janov's feelings."
+
+Bliss smiled. "Thank you. All is well, then."
+
+Trevize turned away, and Bliss then said, "Wait!"
+
+Trevize turned back and said, just a bit wearily, "Yes?"
+
+"It's quite clear to me, Trevize, that you're sad and depressed. I am not going to probe your mind, but you might be willing to tell me what's wrong. Yesterday, you said there was an appropriate planet in this system and you seemed quite pleased. It's still there, I hope. The finding hasn't turned out to be mistaken, has it?"
+
+"There's an appropriate planet in the system, and it's still there," said Trevize.
+
+"Is it the right size?"
+
+Trevize nodded. "Since it's appropriate, it's of the right size. And it's at the right distance from the star as well."
+
+"Well, then, what's wrong?"
+
+"We're close enough now to analyze the atmosphere. It turns out that it has none to speak of."
+
+"No atmosphere?"
+
+"None to speak of. It's a nonhabitable planet, and there is no other circling the sun that has even the remotest capacity for habitability. We have come up with zero on this third attempt."
+
+62.
+
+PELORAT, looking grave, was clearly unwilling to intrude on Trevize's unhappy silence. He watched from the door of the pilot-room, apparently hoping that Trevize would initiate a conversation.
+
+Trevize did not. If ever a silence seemed stubborn, his did.
+
+And finally, Pelorat could stand it no longer, and said, in a rather timid way, "What are we doing?"
+
+Trevize looked up, stared at Pelorat for a moment, turned away, and then said, "We're zeroing in on the planet."
+
+"But since there's no atmosphere-"
+
+"The computer says there's no atmosphere. Till now, it's always told me what I've wanted to hear and I've accepted it. Now it has told me something I don't want to hear, and I'm going to check it. If the computer is ever going to be wrong, this is the time I want it to be wrong."
+
+"Do you think it's wrong?"
+
+"No; I don't."
+
+"Can you think of any reason that might make it wrong?"
+
+"No, I can't."
+
+"Then why are you bothering, Golan?"
+
+And Trevize finally wheeled in his seat to face Pelorat, his face twisted in near-despair, and said, "Don't you see, Janov, that I can't think of anything else to do? We drew blanks on the first two worlds as far as Earth's location is concerned, and now this world is a blank. What do I do now? Wander from world to world, and peer about and say, 'Pardon me. Where's Earth?' Earth has covered its tracks too well. Nowhere has it left any hint. I'm beginning to think that it will see to it that we're incapable of picking up a hint even if one exists."
+
+Pelorat nodded, and said, "I've been thinking along those lines myself. Do you mind if we discuss it? I know you're unhappy, old chap, and don't want to talk, so if you want me to leave you alone, I will."
+
+"Go ahead, discuss it," said Trevize, with something that was remarkably like a groan. "What have I got better to do than listen?"
+
+Pelorat said, "That doesn't sound as though you really want me to talk, but perhaps it will do us good. Please stop me at any time if you decide you can stand it no longer. It seems to me, Golan, that Earth need not take only passive and negative measures to hide itself. It need not merely wipe out references to itself. Might it not plant false evidence and work actively for obscurity in that fashion?"
+
+"How do you mean?"
+
+"Well, we've heard of Earth's radioactivity in several places, and that sort of thing would be designed to make anyone break off any attempt to locate it. If it were truly radioactive, it would be totally unapproachable. In all likelihood, we would not even be able to set foot on it. Even robot explorers, if we had any, might not survive the radiation. So why look? And if it is not radioactive, it remains inviolate, except for accidental approach, and even then it might have other means of masking itself."
+
+Trevize managed a smile. "Oddly enough, Janov, that thought has occurred to me. It has even occurred to me that that improbable giant satellite has been invented and planted in the world's legends. As for the gas giant with the monstrous ring system, that is equally improbable and may be equally planted. It is all designed, perhaps, to have us look for something that doesn't exist, so that we go right through the correct planetary system, staring at Earth and dismissing it because, in actual fact, it lacks a large satellite or a triple-ringed cousin or a radioactive crust. We don't recognize it, therefore, and don't dream we are looking at it. I imagine worse, too."
+
+Pelorat looked downcast. "How can there be worse?"
+
+"Easily-when your mind gets sick in the middle of the night and begins searching the vast realm of fantasy for anything that can deepen despair. What if Earth's ability to hide is ultimate? What if our minds can be clouded? What if we can move right past Earth, with its giant satellite and with its distant ringed gas giant, and never see any of it? What if we have already done so?"
+
+"But if you believe that, why are we-?"
+
+"I don't say I believe that. I'm talking about mad fancies. We'll keep on looking."
+
+Pelorat hesitated, then said, "For how long, Trevize? At some point, surely, we'll have to give up."
+
+"Never," said Trevize fiercely. "If I have to spend the rest of my life going from planet to planet and peering about and saying, 'Please, sir, where's Earth?' then that's what I'll do. At any time, I can take you and Bliss and even Fallom, if you wish, back to Gaia and then take of on my own."
+
+"Oh no. You know I won't leave you, Golan, and neither will Bliss. We'll go planet-hopping with you, if we must. But why?"
+
+"Because I must find Earth, and because I will. I don't know how, but I will. Now, look, I'm trying to reach a position where I can study the sunlit side of the planet without its suit** being too close, so just let me be for a while."
+
+Pelorat fell silent, but did not leave. He continued to watch while Trevize studied the planetary image, more than half in daylight, on the screen. To Pelorat, it seemed featureless, but he knew that Trevize, bound to the computer, saw it under enhanced circumstances.
+
+Trevize whispered, "There's a haze."
+
+"Then there must be an atmosphere," blurted out Pelorat.
+
+"Not necessarily much of one. Not enough to support life, but enough to support a thin wind that will raise dust. It's a well-known characteristic of planets with thin atmospheres. There may even be small polar ice caps. A little water-ice condensed at the poles, you know. This world is too warm for solid carbon dioxide. -I'll have to switch to radar-mapping. And if I do that I can work more easily on the nightside."
+
+"Really?"
+
+"Yes. I should have tried it first, but with a virtually airless and, therefore, cloudless planet, the attempt with visible light seems so natural."
+
+Trevize was silent for a long time, while the viewscreen grew fuzzy with radar-reflections that produced almost the abstraction of a planet, something that an artist of the Cleonian period might have produced. Then he said, "Well-" emphatically, holding the sound for a while, and was silent again.
+
+Pelorat said, at last, "What's the 'well' about?"
+
+Trevize looked at him briefly. "No craters that I can see."
+
+"No craters? Is that good?"
+
+"Totally unexpected," said Trevize. His face broke into a grin, "And very good. In fact, possibly magnificent."
+
+63.
+
+FALLOM remained with her nose pressed against the ship's porthole, where a small segment of the Universe was visible in the precise form in which the eye saw it, without computer enlargement or enhancement.
+
+Bliss, who had been trying to explain it all, sighed and said in a low voice to Pelorat, "I don't know how much she understands, Pel dear. To her, her father's mansion and a small section of the estate it stood upon was all the Universe. I don't think she was ever out at night, or ever saw the stars."
+
+"Do you really think so?"
+
+"I really do. I didn't dare show her any part of it until she had enough vocabulary to understand me just a little-and how fortunate it was that you could speak with her in her own language."
+
+"The trouble is I'm not very good at it," said Pelorat apologetically. "And the Universe is rather hard to grasp if you come at it suddenly. She said to me that if those little lights are giant worlds, each one just like Solaria-they're much larger than Solaria, of course-that they couldn't hang in nothing. They ought to fall, she says."
+
+"And she's right, judging by what she knows. She asks sensible questions, and little by little, she'll understand. At least she's curious and she's not frightened."
+
+"The thing is, Bliss, I'm curious, too. Look how Golan changed as soon as he found out there were no craters on the world we're heading for. I haven't the slightest idea what difference that makes. Do you?"
+
+"Not a bit. Still he knows much more planetology than we do. We can only assume he knows what he's doing."
+
+"I wish I knew."
+
+"Well, ask him."
+
+Pelorat grimaced. "I'm always afraid I'll annoy him. I'm sure he thinks I ought to know these things without being told."
+
+Bliss said, "That's silly, Pel. He has no hesitation in asking you about any aspect of the Galaxy's legends and myths which he thinks might be useful. You're always willing to answer and explain, so why shouldn't he be? You go ask him. If it annoys him, then he'll have a chance to practice sociability, and that will be good for him."
+
+"Will you come with me?"
+
+"No, of course not. I want to stay with Fallom and continue to try to get the concept of the Universe into her head. You can always explain it to me afterward-once he explains it to you."
+
+64.
+
+PELORAT entered the pilot-room diffidently. He was delighted to note that Trevize was whistling to himself and was clearly in a good mood.
+
+"Golan," he said, as brightly as he could.
+
+Trevize looked up. "Janov! You're always tiptoeing in as though you think it's against the law to disturb me. Close the door and sit down. Sit down! Look at that thing."
+
+He pointed to the planet on the viewscreen, and said, "I haven't found more than two or three craters, each quite small."
+
+"Does that make a difference, Golan? Really?"
+
+"A difference? Certainly. How can you ask?"
+
+Pelorat gestured helplessly. "It's all a mystery to me. I was a history major at college. I took sociology and psychology in addition to history, also languages and literature, mostly ancient, and specialized in mythology in graduate school. I never came near planetology, or any of the physical sciences."
+
+"That's no crime, Janov. I'd rather you know what you know. Your facility in ancient languages and in mythology has been of enormous use to us. You know that. And when it comes to a matter of planetology, I'll take care of that."
+
+He went on, "You see, Janov, planets form through the smashing together of smaller objects. The last few objects to collide leave crater marks. Potentially, that is. If the planet is large enough to be a gas giant, it is essentially liquid under a gaseous atmosphere and the final collisions are just splashes and leave no marks.
+
+"Smaller planets which are solid, whether icy or rocky, do show crater marks, and these remain indefinitely unless an agency for removal exists. There are three types of removals.
+
+"First, a world may have an icy surface overlying a liquid ocean. In that case, any colliding object breaks through the ice and splashes water. Behind it the ice refreezes and heals the puncture, so to speak. Such a planet, or satellite, would have to be cold, and would not be what we would consider a habitable world.
+
+"Second, if a planet is intensely active, volcanically, then a perpetual lava flow or ash fallout is forever filling in and obscuring any craters that form. However, such a planet or satellite is not likely to be habitable either.
+
+"That brings us to habitable worlds as a third case. Such worlds may have polar ice caps, but most of the ocean must be freely liquid. They may have active volcanoes, but these must be sparsely distributed. Such worlds can neither heal craters, nor fill them in. There are, however, erosion effects. Wind and flowing water will erode craters, and if there is life, the actions of living things are strongly erosive as well. See?"
+
+Pelorat considered that, then said, "But, Golan, I don't understand you at all. This planet we're approaching-"
+
+"We'll be landing tomorrow," said Trevize cheerfully.
+
+"This planet we're approaching doesn't have an ocean."
+
+"Only some thin polar ice caps."
+
+"Or much of an atmosphere."
+
+"Only a hundredth the density of the atmosphere on Terminus."
+
+"Or life."
+
+"Nothing I can detect."
+
+"Then what could have eroded away the craters?"
+
+"An ocean, an atmosphere, and life," said Trevize. "Look, if this planet had been airless and waterless from the start, any craters that had been formed would still exist and the whole surface would be cratered. The absence of craters proves it can't have been airless and waterless from the start, and may even have had a sizable atmosphere and ocean in the near past. Besides, there are huge basins, visible on this world, that must have held seas, and oceans once, to say nothing of the marks of rivers that are now dry. So you see there was erosion and that erosion has ceased so short a time ago, that new cratering has not yet had time to accumulate."
+
+Pelorat looked doubtful. "I may not be a planetologist, but it seems to me that if a planet is large enough to hang on to a dense atmosphere for perhaps billions of years, it isn't going to suddenly lose it, is it?"
+
+"I shouldn't think so," said Trevize. "But this world undoubtedly held life before its atmosphere vanished, probably human life. My guess is that it was a terraformed world as almost all the human-inhabited worlds of the Galaxy are. The trouble is that we don't really know what its condition was before human life arrived, or what was done to it in order to make it comfortable for human beings, or under what conditions, actually, life vanished. There may have been a catastrophe that sucked off the atmosphere and that brought about the end of human life. Or there may have been some strange imbalance on this planet that human beings controlled as long as they were here and that went into a vicious cycle of atmospheric reduction once they were gone. Maybe we'll find the answer when we land, or maybe we won't. It doesn't matter."
+
+"But surely neither does it matter if there was life here once, if there isn't now. What's the difference if a planet has always been uninhabitable, or is only uninhabitable now?"
+
+"If it is only uninhabitable now, there will be ruins of the one-time inhabitants."
+
+"There were ruins on Aurora-"
+
+"Exactly, but on Aurora there had been twenty thousand years of rain and snow, freezing and thawing, wind and temperature change. And there was also life-don't forget life: There may not have been human beings there, but there was plenty of life. Ruins can be eroded just as craters can. Faster. And in twenty thousand years, not enough was left to do us any good. Here on this planet, however, there has been a passage of time, perhaps twenty thousand years, perhaps less, without wind, or storm, or life. There has been temperature change, I admit, but that's all. The ruins will be in good shape."
+
+"Unless," murmured Pelorat doubtfully, "there are no ruins. Is it possible that there was never any life on the planet, or never any human life at any rate, and that the loss of the atmosphere was due to some event that human beings had nothing to do with?"
+
+"No, no," said Trevize. "You can't turn pessimist on me, because it won't work. Even from here, I've spotted the remains of what I'm sure was a city. So we land tomorrow."
+
+65.
+
+BLISS said, in a worried tone, "Fallow is convinced we're going to take her back to Jemby, her robot.' "
+
+"Umm," said Trevize, studying the surface of the world as it slid back under the drifting ship. Then he looked up as though he had heard the remark only after a delay. "Well, it was the only parent she knew, wasn't it?"
+
+"Yes, of course, but she thinks we've come back to Solaria."
+
+"Does it look like Solaria?"
+
+"How would she know?"
+
+"Tell her it's not Solaria. Look, I'll give you one or two reference bookfilms with graphic illustrations. Show her close-ups of a number of different inhabited worlds and explain that there are millions of them. You'll have time for it. I don't know how long Janov and I will have to wander around, once we pick a likely target and land."
+
+"You and Janov?"
+
+"Yes. Fallom can't come with us, even if I wanted her to, which I would only want if I were a madman. This world requires space suits, Bliss. There's no breathable air. And we don't have a space suit that would fit Fallom. So she and you stay on the ship."
+
+"Why it?"
+
+Trevize's lips stretched into a humorless smile. "I admit," he said, "I would feel safer if you were along, but we can't leave Fallom on this ship alone. She can do damage even if she doesn't mean to. I must have Janov with me because he might be able to make out whatever archaic writing they have here. That means you will have to stay with Fallom. I should think you would want to."
+
+Bliss looked uncertain.
+
+Trevize said, "Look. You wanted Fallom along, when I didn't. I'm convinced she'll be nothing but trouble. So her presence introduces constraints, and you'll have to adjust yourself to that. She's here, so you'll have to be here, too. That's the way it is."
+
+Bliss sighed. "I suppose so."
+
+"Good. Where's Janov?"
+
+"He's with Fallom."
+
+"Very well. Go and take over. I want to talk to him."
+
+Trevize was still studying the planetary surface when Pelorat walked in, clearing his throat to announce his presence. He said, "Is anything wrong, Golan?"
+
+"Not exactly wrong, Janov. I'm just uncertain. This is a peculiar world and I don't know what happened to it. The seas must have been extensive, judging from the basins left behind, but they were shallow. As nearly as I can tell from the traces left behind, this was a world of desalinization and canals-or perhaps the seas weren't very salty. If they weren't very salty, that would account for the absence of extensive salt flats in the basins. Or else, when the ocean was lost, the salt content was lost with it-which certainly makes it look like a human deed."
+
+Pelorat said hesitantly, "Excuse my ignorance about such things, Golan, but does any of this matter as far as what we are looking for is concerned?"
+
+"I suppose not, but I can't help being curious. If I knew just how this planet was terraformed into human habitability and what it was like before terraforming, then perhaps I would understand what has happened to it after it was abandoned-or just before, perhaps. And if we did know what happened to it, we might be forewarned against unpleasant surprises."
+
+"What kind of surprises? It's a dead world, isn't it?"
+
+"Dead enough. Very little water; thin, unbreathable atmosphere; and Bliss detects no signs of mental activity."
+
+"That should settle it, I should think."
+
+"Absence of mental activity doesn't necessarily imply lack of life."
+
+"It must surely imply lack of dangerous life."
+
+"I don't know. But that's not what I want to consult you about. There are two cities that might do for our first inspection. They seem to be in excellent shape; all the cities do. Whatever destroyed the air and oceans did not seem to touch the cities. Anyway, those two cities are particularly large. The larger, however, seems to be short on empty space. There are spaceports far in the outskirts but nothing in the city itself. The one not so large does have empty space, so it will be easier to come down in its midst, though not in formal spaceports-but then, who would care about that?"
+
+Pelorat grimaced. "Do you want me to make the decision, Golan?"
+
+"No, I'll make the decision. I just want your thoughts."
+
+"For what they're worth, a large sprawling city is likely to be a commercial or manufacturing center. A smaller city with open space is likely to be an administrative center. It's the administrative center we'd want. Does it have monumental buildings?"
+
+"What do you mean by a monumental building?"
+
+Pelorat smiled his tight little stretching of the lips. "I scarcely know. Fashions change from world to world and from time to time. I suspect, though, that they always look large, useless, and expensive. Like the place where we were on Comporellon."
+
+Trevize smiled in his turn. "It's hard to tell looking straight down, and when I get a sideways glance as we approach or leave, it's too confusing. Why do you prefer the administrative center?"
+
+"That's where we're likely to find the planetary museum, library, archives, university, and so on."
+
+"Good. That's where we'll go, then; the smaller city. And maybe we'll find something. We've had two misses, but maybe we'll find something this time."
+
+"Perhaps it will be three times lucky."
+
+Trevize raised his eyebrows. "Where did you get that phrase?"
+
+"It's an old one," said Pelorat. "I found it in an ancient legend. It means success on the third try, I should think."
+
+"That sounds right," said Trevize. "Very well, then-three times lucky, Janov."

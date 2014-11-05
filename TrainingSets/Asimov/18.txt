@@ -1,0 +1,366 @@
+
+TREVIZE stared at Pelorat for a long moment, and with an expression of clear displeasure. Then he said, "Is there something you saw that I did not, and that you did not tell me about?"
+
+"No," answered Pelorat mildly. "You saw it and, as I just said, I tried to explain, but you were in no mood to listen to me."
+
+"Well, try again."
+
+Bliss said, "Don't bully him, Trevize."
+
+"I'm not bullying him. I'm asking for information. And don't you baby him."
+
+"Please," said Pelorat, "listen to me, will you, and not to each other. Do you remember, Golan, that we discussed early attempts to discover the origin of the human species? Yariff's project? You know, trying to plot the times of settlement of various planets on the assumption that planets would be settled outward from the world of origin in all directions alike. Then, as we moved from newer to older planets, we would approach the world of origin from all directions."
+
+Trevize nodded impatiently. "What I remember is that it didn't work because the dates of settlement were not reliable."
+
+"That's right, old fellow. But the worlds that Yariff was working with were part of the second expansion of the human race. By then, hyperspatial travel was far advanced, and settlement must have grown quite ragged. Leapfrogging very long distances was very simple and settlement didn't necessarily proceed outward in radial symmetry. That surely added to the problem of unreliable dates of settlement.
+
+"But just think for a moment, Golan, of the Spacer worlds. They were in the first wave of settlement. Hyperspatial travel was less advanced then, and there was probably little or no leapfrogging. Whereas millions of worlds were settled, perhaps chaotically, during the second expansion, only fifty were settled, probably in an orderly manner, in the first. Whereas the millions of worlds of the second expansion were settled over a period of twenty thousand years; the fifty of the first expansion were settled over a period of a few centuries-almost instantaneously, in comparison. Those fifty, taken together, should exist in roughly spherical symmetry about the world of origin.
+
+"We have the co-ordinates of the fifty worlds. You photographed them, remember, from the statue. Whatever or whoever it is that is destroying information that concerns Earth, either overlooked those co-ordinates, or didn't stop to think that they would give us the information we need. All you have to do, Golan, is to adjust the co-ordinates to allow for the last twenty thousand years of stellar motions, then find the center of the sphere. You'll end up fairly close to Earth's sun, or at least to where it was twenty thousand years ago."
+
+Trevize's mouth had fallen slightly open during the recital and it took a few moments for him to close it after Pelorat was done. He said, "Now why didn't I think of that?"
+
+"I tried to tell you while we were still on Melpomenia."
+
+"I'm sure you did. I apologize, Janov, for refusing to listen. The fact is it didn't occur to me that-" He paused in embarrassment.
+
+Pelorat chuckled quietly, "That I could have anything of importance to say. I suppose that ordinarily I wouldn't, but this was something in my own field, you see. I am sure that, as a general rule, you'd be perfectly justified in not listening to me."
+
+"Never," said Trevize. "That's not so, Janov. I feel like a fool, and I well deserve the feeling. My apologies again-and I must now get to the computer."
+
+He and Pelorat walked into the pilot-room, and Pelorat, as always, watched with a combination of marveling and incredulity as Trevize's hands settled down upon the desk, and he became what was almost a single man computer organism.
+
+"I'll have to make certain assumptions, Janov," said Trevize, rather blankfaced from computer-absorption. "I have to assume that the first number is a distance in parsecs, and that the other two numbers are angles in radians, the first being up and down, so to speak, and the other, right and left. I have to assume that the use of plus and minus in the case of the angles is Galactic Standard and that the zero-zero-zero mark is Melpomenia's sun."
+
+"That sounds fair enough," said Pelorat.
+
+"Does it? There are six possible ways of arranging the numbers, four possible ways of arranging the signs, distances may be in light-years rather than parsecs, the angles in degrees, rather than radians. That's ninety-six diferent variations right there. Add to that, the point that if the distances are light-years**, I'm uncertain as to the length of the year used. Add also the fact that I don't know the actual conventions used to measure the angles-from the Melpomenian equator in one case, I suppose, but what's their prime merid-"
+
+Pelorat frowned. "Now you make it sound hopeless."
+
+"Not hopeless. Aurora and Solaria are included in the list, and I know where they are in space. I'll use the co-ordinates, and see if I can locate them. If I end up in the wrong place, I will adjust the co-ordinates until they give me the right place, and that will tell me what mistaken assumptions I am making as far as the standards governing the co-ordinates are concerned. Once my assumptions are corrected, I can look for the center of the sphere."
+
+"With all the possibilities for change, won't it make it difficult to decide what to do?"
+
+"What?" said Trevize. He was increasingly absorbed. Then, when Pelorat repeated the question, he said, "Oh well, chances are that the co-ordinates follow the Galactic Standard and adjusting for an unknown prime meridian isn't difficult. These systems for locating points in space were worked out long ago, and most astronomers are pretty confident they even antedate interstellar travel. Human beings are very conservative in some ways and virtually never change numerical conventions once they grow used to them. They even come to mistake them for laws of nature, I think. Which is just as well, for if every world had its own conventions of measurement that changed every century, I honestly think scientific endeavor would stall and come to a permanent stop."
+
+He was obviously working while he was talking, for his words came haltingly. And now he muttered, "But quiet now."
+
+After that, his face grew furrowed and concentrated until, after several minutes, he leaned back and drew a long breath. He said quietly, "The conventions hold. I've located Aurora. There's no question about it. See?"
+
+Pelorat stared at the field of stars, and at the bright one near the center and said, "Are you sure?"
+
+Trevize said, "My own opinion doesn't matter. The computer is sure. We've visited Aurora, after all. We have its characteristics-its diameter, mass, luminosity, temperature, spectral details, to say nothing of the pattern of neighboring stars. The computer says it's Aurora."
+
+"Then I suppose we must take its word for it."
+
+"Believe me, we must. Let me adjust the viewscreen and the computer can get to work. It has the fifty sets of co-ordinates and it will use them one at a time."
+
+Trevize was working on the screen as he spoke. The computer worked in the four dimensions of space-time routinely, but, for human inspection, the viewscreen was rarely needed in more than two dimensions. Now the screen seemed to unfold into a dark volume as deep as it, was tall and broad. Trevize dimmed the room lights almost totally to make the view of star-shine easier to observe.
+
+"It will begin now," he whispered.
+
+A moment later, a star appeared-then another-then another. The view on the screen shifted with every addition so that all might be included. It was as though space was moving backward from the eye so that a more and more panoramic view could be taken. Combine that with shifts up or down, right or left-
+
+Eventually, fifty dots of light appeared, hovering in three-dimensional space.
+
+Trevize said, "I would have appreciated a beautiful spherical arrangement, but this looks like the skeleton of a snowball that had been patted into shape in a big hurry, out of snow that was too hard and gritty."
+
+"Does that ruin everything?"
+
+"It introduces some difficulties, but that can't be helped, I suppose. The stars themselves aren't uniformly distributed, and certainly habitable planets aren't, so there are bound to be unevennesses in the establishment of new worlds. The computer will adjust each of those dots to its present position, allowing for its likely motion in the last twenty thousand years-even in that time it won't mean much of an adjustment-and then fit them all into a 'bestsphere.' It will find a spherical surface, in other words, from which the distance of all the dots is a minimum. Then we find the center of the sphere, and Earth should be fairly close to that center. Or so we hope. It won't take long."
+
+70.
+
+IT DIDN'T. Trevize, who was used to accepting miracles from the computer, found himself astonished at how little time it took.
+
+Trevize had instructed the computer to sound a soft, reverberating note upon deciding upon the co-ordinates of the best-center. There was no reason for that, except for the satisfaction of hearing it and knowing that perhaps the search had been ended.
+
+The sound came in a matter of minutes, and was like the gentle stroking of a mellow gong. It swelled till they could feel the vibration physically, and then slowly faded.
+
+Bliss appeared at the door almost at once. "What's that?" she asked, her eyes big. "An emergency?"
+
+Trevize said, "Not at all."
+
+Pelorat added eagerly, "We may have located Earth, Bliss. That sound was the computer's way of saying so."
+
+She walked into the room. "I might have been warned."
+
+Trevize said, "I'm sorry, Bliss. I didn't mean it to be quite that loud."
+
+Fallom had followed Bliss into the room and said, "Why was there that sound, Bliss?"
+
+"I see she's curious, too," said Trevize. He sat back, feeling drained. The next step was to try the finding on the real Galaxy, to focus on the coordinates of the center of the Spacer worlds and see if a G-type star was actually present. Once again, he was reluctant to take the obvious step, unable to make himself put the possible solution to the actual test.
+
+"Yes," said Bliss. "Why shouldn't she? She's as human as we are."
+
+"Her parent wouldn't have thought so," said Trevize abstractedly. "I worry about the kid. She's bad news."
+
+"In what way has she proven so?" demanded Bliss.
+
+Trevize spread his arms. "Just a feeling."
+
+Bliss gave him a disdainful look, and turned to Fallom. "We are trying to locate Earth, Fallom."
+
+"What's Earth?"
+
+"Another world, but a special one. It's the world our ancestors came from. Do you know what the word 'ancestors' means from your reading, Fallom?"
+
+"Does it mean ***?" But the last word was not in Galactic.
+
+Pelorat said, "That's an archaic word for 'ancestors,' Bliss. Our word 'forebears' is closer to it."
+
+"Very well," said Bliss, with a sudden brilliant smile. "Earth is the world where our forebears came from, Fallom. Yours and mine and Pel's and Trevize's."
+
+"Yours, Bliss-and mine also." Fallom sounded puzzled. "Both of them?"
+
+"There's just one set of forebears," said Bliss. "We had the same forebears, all of us."
+
+Trevize said, "It sounds to me as though the child knows very well that she's different from us."
+
+Bliss said to Trevize in a low voice, "Don't say that. She must be made to see she isn't. Not in essentials."
+
+"Hermaphrodism is essential, I should think."
+
+"I'm talking about the mind."
+
+"Transducer-lobes are essential, too."
+
+"Now, Trevize, don't be difficult. She's intelligent and human regardless of details."
+
+She turned to Fallom, her voice rising to its normal level. "Think quietly about this, Fallom, and see what it means to you. Your forebears and mine were the same. All the people on all the worlds-many, many worlds-all had the same forebears, and those forebears lived originally on the world named Earth. That means we're all relatives, doesn't it? Now go back to our room and think of that."
+
+Fallom, after bestowing a thoughtful look on Trevize, turned and ran off, hastened on by Bliss's affectionate slap on her backside.
+
+Bliss turned to Trevize, and said, "Please, Trevize, promise me you won't make any comments in her hearing that will lead her to think she's different from us."
+
+Trevize said, "I promise. I have no wish to impede or subvert the educational procedure, but, you know, she is different from us."
+
+"In ways. As I'm different from you, and as Pel is."
+
+"Don't be naive, Bliss. The differences in Fallom's case are much greater."
+
+"A little greater. The similarities are vastly more important. She, and her people, will be part of Galaxia some day, and a very useful part, I'm sure."
+
+"All right. We won't argue." He turned to the computer with clear reluctance. "And meanwhile, I'm afraid I have to check the supposed position of Earth in real space."
+
+"Afraid?"
+
+"Well," Trevize lifted his shoulders in what he hoped was a half-humorous way, "what if there's no suitable star near the place?"
+
+"Then there isn't," said Bliss.
+
+"I'm wondering if there's any point in checking it out now. We won't be able to make a Jump for several days."
+
+"And you'll be spending them agonizing over the possibilities. Find out now. Waiting won't change matters."
+
+Trevize sat there with his lips compressed for a moment, then said, "You're right. Very well, then-here goes."
+
+He turned to the computer, placed his hands on the handmarks on the desk, and the viewscreen went dark.
+
+Bliss said, "I'll leave you, then. I'll make you nervous if I stay." She left, with a wave of her hand.
+
+"The thing is," he muttered, "that we're going to be checking the computer's Galactic map first and even if Earth's sun is in the calculated position, the map should not include it. But we'll then-"
+
+His voice trailed off in astonishment as the viewscreen flashed with a background of stars. These were fairly numerous and dim, with an occasional brighter one sparkling here and there, well scattered over the face of the screen. But quite close to the center was a star that was brighter than all the rest.
+
+"We've got it," said Pelorat jubilantly. "We've got it, old chap. Look how bright it is."
+
+"Any star at centered co-ordinates would look bright," said Trevize, clearly trying to fight off any initial jubilation that might prove unfounded. "The view, after all, is presented from a distance of a parsec from the centered co-ordinates. Still, that centered star certainly isn't a red dwarf, or a red giant, or a hot blue-white. Wait for information; the computer is checking its data banks."
+
+There was silence for a few seconds and then Trevize said, "Spectral class G-2." Another pause, then, "Diameter, 1.4 million kilometers-mass, 1.02 times that of Terminus's sun-surface temperature, 6,000 absolute-rotation slow, just under thirty days-no unusual activity or irregularity."
+
+Pelorat said, "Isn't all that typical of the kind of star about which habitable planets are to be found?"
+
+"Typical," said Trevize, nodding in the dimness. "And, therefore, what we'd expect Earth's sun to be like. If that is where life developed, the sun of Earth would have set the original standard."
+
+"So there is a reasonable chance that there would be a habitable planet circling it."
+
+"We don't have to speculate about that," said Trevize, who sounded puzzled indeed over the matter. "The Galactic map lists it as possessing a planet with human life-but with a question mark."
+
+Pelorat's enthusiasm grew. "That's exactly what we would expect, Golan. The life-bearing planet is there, but the attempt to hide the fact obscures data concerning it and leaves the makers of the map the computer uses uncertain."
+
+"No, that's what bothers me," said Trevize. "That's not what we should expect. We should expect far more than that. Considering the efficiency with which data concerning Earth has been wiped out, the makers of the map should not have known that life exists in the system, let alone human life. They should not even have known Earth's sun exists. The Spacer worlds aren't on the map. Why should Earth's sun be?"
+
+"Well, it's there, just the same. What's the use of arguing the fact? What other information about the star is given?"
+
+"A name."
+
+"Ah! What is it?"
+
+"Alpha."
+
+There was a short pause, then Pelorat said eagerly, "That's it, old man. That's the final bit of evidence. Consider the meaning."
+
+"Does it have a meaning?" said Trevize. "It's just a name to me, and an odd one. It doesn't sound Galactic."
+
+"It isn't Galactic. It's in a prehistoric language of Earth, the same one that gave us Gaia as the name of Bliss's planet."
+
+"What does Alpha mean, then?"
+
+"Alpha is the first letter of the alphabet of that ancient language. That is one of the most firmly attested scraps of knowledge we have about it. In ancient times, 'alpha' was sometimes used to mean the first of anything. To call a sun 'Alpha,' implies that it's the first sun. And wouldn't the first sun be the one around which a planet revolved that was the first planet to bear human life-Earth?"
+
+"Are you sure of that?"
+
+"Absolutely," said Pelorat.
+
+"Is there anything in early legends-you're the mythologist, after all-that gives Earth's sun some very unusual attribute?"
+
+"No, how can there be? It has to be standard by definition, and the characteristics the computer has given us ate as standard as possible, I imagine. Aren't they?"
+
+"Earth's sun is a single star, I suppose?"
+
+Pelorat said, "Well, of course! As far as I know, all inhabited worlds orbit single stars."
+
+"So I would have thought myself," said Trevize. "The trouble is that that star in the center of the viewscreen is not a single star, it is a binary. The brighter of the two stars making up the binary is indeed standard and it is that one for which the computer supplied us with data. Circling that star with a period of roughly eighty years, however, is another star with a mass four fifths that of the brighter one. We can't see the two as separate stars with the unaided eye, but if I were to enlarge the view, I'm sure we would."
+
+"Are you certain of that, Golan?" said Pelorat, taken aback.
+
+"It's what the computer is telling me. And if we are looking at a binary star, then it's not Earth's sun. It can't be."
+
+71.
+
+TREVIZE broke contact with the computer, and the lights brightened.
+
+That was the signal, apparently, for Bliss to return, with Fallow tagging after her. "Well, then, what are the results?" she asked.
+
+Trevize said tonelessly, "Somewhat disappointing. Where I expected to find Earth's sun, I found a binary star, instead. Earth's sun is a single star, so the one centered is not it."
+
+Pelorat said, "Now what, Golan?"
+
+Trevize shrugged. "I didn't really expect to see Earth's sun centered. Even the Spacers wouldn't settle worlds in such a way as to set up an exact sphere. Aurora, the oldest of the Spacer worlds, might have sent out settlers of its own and that may have distorted the sphere, too. Then, too, Earth's sun may not have moved at precisely the average velocity of the Spacer worlds."
+
+Pelorat said, "So the Earth can be anywhere. Is that what you're saying?"
+
+"No. Not quite 'anywhere.' All these possible sources of error can't amount to much. Earth's sun must be in the vicinity of the co-ordinates. The star we've spotted almost exactly at the co-ordinates must be a neighbor of Earth's sun. It's startling that there should be a neighbor that so closely resembles Earth's sun-except for being a binary-but that must be the case."
+
+"But we would see Earth's sun on the map, then, wouldn't we? I mean, near Alpha?"
+
+"No, for I'm certain Earth's sun isn't on the map at all. It was that which shook my confidence when we first spied Alpha. Regardless of how much it might resemble Earth's sun, the mere fact that it was on the map made me suspect it was not the real thing."
+
+"Well, then," said Bliss. "Why not concentrate on the same co-ordinates in real space? Then, if there is any bright star close to the center, a star that does not exist in the computer's map, and if it is very much like Alpha in its properties, but is single, might it not be Earth's sun?"
+
+Trevize sighed. "If all that were so, I'd be willing to wager half my fortune, such as it is, that circling that star you speak of would be the planet Earth. Again, I hesitate to try."
+
+"Because you might fail?"
+
+Trevize nodded. "However," he said, "just give me a moment or two to catch my breath, and I'll force myself to do so."
+
+And while the three adults looked at each other, Fallow approached the computer-desk and stared curiously at the handmarks upon it. She reached out her own hand tentatively toward the markings, and Trevize blocked the motion with a swift outthrusting of his own arm and a sharp, "Mustn't touch, Fallow."
+
+The young Solarian seemed startled, and retreated to the comfort of Bliss's encircling arm.
+
+Pelorat said, "We must face it, Golan. What if you find nothing in real space?"
+
+"Then we will be forced to go back to the earlier plan," said Trevize, "and visit each of the forty-seven Spacer worlds in turn."
+
+"And if that yields nothing, Golan?"
+
+Trevize shook his head in annoyance, as though to prevent that thought from taking too deep a root. Staring down at his knees, he said abruptly, "Then I will think of something else."
+
+"But what if there is no world of forebears at all?"
+
+Trevize looked up sharply at the treble voice. "Who said that?" he asked.
+
+It was a useless question. The moment of disbelief faded, and he knew very well who the questioner was.
+
+"I did," said Fallow.
+
+Trevize looked at her with a slight frown. "Did you understand the conversation?"
+
+Fallow said, "You are looking for the world of forebears, but you haven't found it yet. Maybe there isn't no such world."
+
+"Any such world," said Bliss softly.
+
+"No, Fallow," said Trevize seriously. "There has been a very big effort to hide it. To try so hard to hide something means there is something there to hide. Do you understand what I am saying?"
+
+"Yes," said Fallow. "You do not let me touch the hands on the deck. Because you do not let me do that means it would be interesting to touch them."
+
+"Ah, but not for you, Fallom. Bliss, you are creating a monster that will destroy us all. Don't ever let her in here unless I'm at the desk. And even then, think twice, will you?"
+
+The small byplay, however, seemed to have shaken him out of his irresolution. He said, "Obviously, I had better get to work. If I just sit here, uncertain as to what to do, that little fright will take over the ship."
+
+The lights dimmed, and Bliss said in a low voice, "You promised, Trevize. Do not call her a monster or a fright in her hearing."
+
+"Then keep an eye on her, and teach her some manners. Tell her children should be never heard and seldom seen."
+
+Bliss frowned. "Your attitude toward children is simply appalling, Trevize."
+
+"Maybe, but this is not the time to discuss the matter."
+
+Then he said, in tones in which satisfaction and relief were equally represented, "There's Alpha again in real space. And to its left, and slightly upward, is almost as bright a star and one that isn't in the computer's Galactic map. That is Earth's sun. I'll wager all my fortune on it."
+
+72.
+
+"WELL, Now," said Bliss, "we won't take any part of your fortune if you lose, so why not settle the matter in a forthright manner? Let's visit the star as soon as you can make the Jump."
+
+Trevize shook his head. "No. This time it's not a matter of irresolution or fear. It's a matter of being careful. Three times we've visited an unknown world and three times we've come up against something unexpectedly dangerous. And three times, moreover, we've had to leave that world in a hurry. This time the matter is ultimately crucial and I will not play my cards in ignorance again; or at least in any more ignorance than I can help. So far, all we have are vague stories about radioactivity, and that is not enough. By an odd chance that no one could have anticipated, there is a planet with human life about a parsec from Earth-"
+
+"Do we really know that Alpha has a planet with human life on it?" put in Pelorat. "You said the computer placed a question mark after that."
+
+"Even so," said Trevize, "it's worth trying. Why not take a look at it? If it does indeed have human beings on it, let us find out what they know about Earth. For them, after all, Earth is not a distant thing of legend; it is a neighbor world, bright and prominent in their sky."
+
+Bliss said thoughtfully, "It's not a bad idea. It occurs to me that if Alpha is inhabited and if the inhabitants are not your thoroughly typical Isolates, they may be friendly, and we might be able to get some decent food for a change."
+
+"And meet some pleasant people," said Trevize. "Don't forget that. Will it be all right with you, Janov?"
+
+Pelorat said, "You make the decision, old chap. Wherever you go, I will go, too.
+
+Fallom said suddenly, "Will we find Jemby?"
+
+Bliss said hastily, before Trevize could answer, "We will look for it, Fallom."
+
+And then Trevize said, "It's settled then. On to Alpha."
+
+73.
+
+"Two BIG stars," said Fallom, pointing to the viewscreen.
+
+"That's right," said Trevize. "Two of them. Bliss, do keep an eye on her. I don't want her fiddling with anything."
+
+"She's fascinated by machinery," said Bliss.
+
+"Yes, I know she is," said Trevize, "but I'm not fascinated by her fascination. Though to tell you the truth, I'm as fascinated as she is at seeing two stars that bright in the viewscreen at the same time."
+
+The two stars were bright enough to seem to be on the point of showing a disc-each of them. The screen had automatically increased filtration density in order to remove the hard radiation and dim the light of the bright stars so as to avoid retinal damage. As a result, few other stars were bright enough to be noticeable, and the two that were reigned in haughty near-isolation.
+
+"The thing is," said Trevize, "I've never been this close to a binary system before."
+
+"You haven't?" said Pelorat, open astonishment in his voice. "How is that possible?"
+
+Trevize laughed. "I've been around, Janov, but I'm not the Galactic rover you think I am."
+
+Pelorat said, "I was never in space at all till I met you, Golan, but I always thought that anyone who did manage to get into space-"
+
+"Would go everywhere. I know. That's natural enough. The trouble with planet-bound people is that no matter how much their mind may tell them otherwise, their imaginations just can't take in the true size of the Galaxy. We could travel all our lives and leave most of the Galaxy unpenetrated and untouched. Besides, no one ever goes to binaries."
+
+"Why not?" said Bliss, frowning. "We on Gaia know little astronomy compared to the traveling Isolates of the Galaxy, but I'm under the impression that binaries aren't rare."
+
+"They're not," said Trevize. "There are substantially more binaries than there are single stars. However, the formation of two stars in close association upsets the ordinary processes of planetary formation. Binaries have less planetary material than single stars do. Such planets as do form about them often have relatively unstable orbits and are very rarely of a type that is reasonably habitable.
+
+"Early explorers, I imagine, studied many binaries at close range but, after a while, for settlement purposes, they sought out only singles. And, of course, once you have a densely settled Galaxy, virtually all travel involves trade and communications and is carried on between inhabited worlds circling single stars. In periods of military activity, I suppose bases were sometimes set up on small, otherwise-uninhabited worlds circling one of the stars of a binary that happened to be strategically placed, but as hyperspatial travel came to be perfected, such bases were no longer necessary."
+
+Pelorat said humbly, ".It's amazing how much I don't know."
+
+Trevize merely grinned. "Don't let that impress you, Janov. When I was in the Navy, we listened to an incredible number of lectures on outmoded military tactics that no one ever planned, or intended to use, and were just talked about out of inertia. I was just rattling off a bit of one of them. Consider all you know about mythology, folklore, and archaic languages that I don't know, and that only you and a very few others do know."
+
+Bliss said, "Yes, but those two stars make up a binary system and one of them has an inhabited planet circling it."
+
+"We hope it does, Bliss," said Trevize. "Everything has its exceptions. And with an official question mark in this case, which makes it more puzzling. No, Fallom, those knobs are not toys. Bliss, either keep her in handcuffs, or take her out."
+
+"She won't hurt anything," said Bliss defensively, but pulled the Solarian youngster to herself just the same. "If you're so interested in that habitable planet, why aren't we there already?"
+
+"For one thing," said Trevize, "I'm just human enough to want to see this sight of a binary system at close quarters. Then, too, I'm just human enough to be cautious. As I've already explained, nothing has happened since we left Gaia that would encourage me to be anything but cautious."
+
+Pelorat said, "Which one of those stars is Alpha, Golan?"
+
+"We won't get lost, Janov. The computer knows exactly which one is Alpha, and, for that matter, so do we. It's the hotter and yellower of the two because it's the larger. Now the one on the right has a distinct orange tinge to its light, rather like Aurora's sun, if you recall. Do you notice?"
+
+"Yes, now that you call it to my attention."
+
+"Very well. That's the smaller one. What's the second letter of that ancient language you speak of?"
+
+Pelorat thought a moment, and said, "Beta."
+
+"Then let's call the orange one Beta and the yellow-white one Alpha, and it's Alpha we're heading for right now."

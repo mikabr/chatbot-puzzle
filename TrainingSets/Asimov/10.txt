@@ -1,0 +1,371 @@
+"GOLAN," said Pelorat. "Does it bother you if I watch?"
+
+"Not at all, Janov," said Trevize.
+
+"If I ask questions?"
+
+"Go ahead."
+
+Pelorat said, "What are you doing?"
+
+Trevize took his eyes off the viewscreen. "I've got to measure the distance of each star that seems to be near the Forbidden World on the screen, so that I can determine how near they really are. Their gravitational fields must be known and for that I need mass and distance. Without that knowledge, one can't be sure of a clean Jump."
+
+"How do you do that?"
+
+"Well, each star I see has its co-ordinates in the computer's memory bank and these can be converted into co-ordinates on the Comporellian system. That can, in turn, be slightly corrected for the actual position of the Far Star in space relative to Comporellon's sun, and that gives me the distance of each. Those red dwarfs all look quite near the Forbidden World on the screen, but some might be much closer and some much farther. We need their three-dimensional position, you see."
+
+Pelorat nodded, and said, "And you already have the co-ordinates of the Forbidden World-"
+
+"Yes, but that's not enough. I need the distances of the other stars to within a percent or so. Their gravitational intensity in the neighborhood of the Forbidden World is so small that a slight error makes no perceptible difference. The sun about which the Forbidden World revolves-or might revolve-possesses an enormously intense gravitational field in the neighborhood of the Forbidden World and I must know its distance with perhaps a thousand times the accuracy of that of the other stars. The co-ordinates alone won't do."
+
+"Then what do you do?"
+
+"I measure the apparent separation of the Forbidden World-or, rather, its star-from three nearby stars which are so dim it takes considerable magnification to make them out at all. Presumably, those three are very far away. We then keep one of those three stars centered on the screen and Jump a tenth of a parsec in a direction at right angles to the line of vision to the Forbidden World. We can do that safely enough even without knowing distances to comparatively far-off stars.
+
+"The reference star which is centered would still be centered after the Jump. The two other dim stars, if all three are truly very distant, do not change their positions measurably. The Forbidden World, however, is close enough to change its apparent position in parallactic shift. From the size of the shift, we can determine its distance. If I want to make doubly certain, I choose three other stars and try again."
+
+Pelorat said, "How long does all that take?"
+
+"Not very long. The computer does the heavy work. I just tell it what to do. What really takes the time is that I have to study the results and make sure they look right and that my instructions aren't at fault somehow. If I were one of those daredevils with utter faith in themselves and the computer, it could all be done in a few minutes."
+
+Pelorat said, "It's really astonishing. Think how much the computer does for us."
+
+"I think of it all the time."
+
+"What would you do without it?"
+
+"What would I do without a gravitic ship? What would I do without my astronautic training? What would I do without twenty thousand years of hyperspatial technology behind me? The fact is that I'm myself-here-now. Suppose we were to imagine ourselves twenty thousand additional years into the future. What technological marvels would we have to be grateful for? Or might it be that twenty thousand years hence humanity would not exist?"
+
+"Scarcely that," said Pelorat. "Scarcely not exist. Even if we don't become part of Galaxia, we would still have psychohistory to guide us."
+
+Trevize turned in his chair, releasing his handhold on the computer. "Let it work out distances," he said, "and let it check the matter a number of times. There's no hurry."
+
+He looked quizzically at Pelorat, and said, "Psychohistory! You know, Janov, twice that subject came up on Comporellon, and twice it was described as a superstition. I said so once, and then Deniador said it also. After all, how can you define psychohistory but as a superstition of the Foundation? Isn't it a belief without proof or evidence? What do you think, Janov? It's more your field than mine."
+
+Pelorat said, "Why do you say there's no evidence, Golan? The simulacrum of Hari Seldon has appeared in the Time Vault many times and has discussed events as they happened. He could not have known what those events would be, in his time, had he not been able to predict them psychohistorically."
+
+Trevize nodded. "That sounds impressive. He was wrong about the Mule, but even allowing for that, it's impressive. Still, it has an uncomfortable magical feel to it. Any conjurer can do tricks."
+
+"No conjurer could predict centuries into the future."
+
+"No conjurer could really do what he makes you think he does."
+
+"Come, Golan. I can't think of any trick that would allow me to predict what will happen five centuries from now."
+
+"Nor can you think of a trick that will allow a conjurer to read the contents of a message hidden in a pseudo-tesseract on an unmanned orbiting satellite. Just the same, I've seen a conjurer do it. Has it ever occurred to you that the Time Capsule, along with the Hari Seldon simulacrum, may be rigged by the government?"
+
+Pelorat looked as though he were revolted by the suggestion. "They wouldn't do that."
+
+Trevize made a scornful sound.
+
+Pelorat said, "And they'd be caught if they tried."
+
+"I'm not at all sure of that. The point is, though, that we don't know how psychohistory works at all."
+
+"I don't know how that computer works, but I know it works."
+
+"That's because others know how it works. How would it be if no one knew how it worked? Then, if it stopped working for any reason, we would be helpless to do anything about it. And if psychohistory suddenly stopped working-"
+
+"The Second Foundationers know the workings of psychohistory."
+
+"How do you know that, Janov?"
+
+"So it is said."
+
+"Anything can be said. Ah, we have the distance of the Forbidden World's star, and, I hope, very accurately. Let's consider the figures."
+
+He stared at them for a long time, his lips moving occasionally, as though he were doing some rough calculations in his head. Finally, he said, without lifting his eyes, "What's Bliss doing?"
+
+"Sleeping, old chap," said Pelorat. Then, defensively, "She needs sleep, Golan. Maintaining herself as part of Gaia across hyperspace is energy-consuming."
+
+"I suppose so," said Trevize, and turned back to the computer. He placed his hands on the desk and muttered, "I'll let it go in several Jumps and have it recheck each time." Then he withdrew them again and said, "I'm serious, Janov. What do you know about psychohistory?"
+
+Pelorat looked taken aback. "Nothing. Being a historian, which I am, after a fashion, is worlds different from being a psychohistorian. Of course, I know the two fundamental basics of psychohistory, but everyone knows that."
+
+"Even I do. The first requirement is that the number of human beings involved must be large enough to make statistical treatment valid. But how large is 'large enough'?"
+
+Pelorat said, "The latest estimate of the Galactic population is something like ten quadrillion, and that's probably an underestimate. Surely, that's large enough."
+
+"How do you know?"
+
+"Because psychohistory does work, Golan. No matter how you chop logic, it does work."
+
+"And the second requirement," said Trevize, "is that human beings not be aware of psychohistory, so that the knowledge does not skew their reactions. But they are aware of psychohistory."
+
+"Only of its bare existence, old chap. That's not what counts. The second requirement is that human beings not be aware of the predictions of psychohistory and that they are not-except that the Second Foundationers are supposed to be aware of them, but they're a special case."
+
+"And upon those two requirements alone, the science of psychohistory has been developed. That's hard to believe."
+
+"Not out of those two requirements alone, " said Pelorat. "There are advanced mathematics and elaborate statistical methods. The story is-if you want tradition-that Hari Seldon devised psychohistory by modeling it upon the kinetic theory of gases. Each atom or molecule in a gas moves randomly so that we can't know the position or velocity of any one of them. Nevertheless, using statistics, we can work out the rules governing their overall behavior with great precision. In the same way, Seldon intended to work out the overall behavior of human societies even though the solutions would not apply to the behavior of individual human beings."
+
+"Perhaps, but human beings aren't atoms."
+
+"True," said Pelorat. "A human being has consciousness and his behavior is sufficiently complicated to make it appear to be free will. How Seldon handled that I haven't any idea, and I'm sure I couldn't understand it even if someone who knew tried to explain it to me-but he did it."
+
+Trevize said, "And the whole thing depends on dealing with people who are both numerous and unaware. Doesn't that seem to you a quicksandish foundation on which to build an enormous mathematical structure? If those requirements are not truly met, then everything collapses."
+
+"But since the Plan hasn't collapsed-"
+
+"Or, if the requirements are not exactly false or inadequate but simply weaker than they should be, psychohistory might work adequately for centuries and then, upon reaching some particular crisis, would collapse-as it did temporarily in the time of the Mule. Or what if there is a third requirement?"
+
+"What third requirement?" asked Pelorat, frowning slightly.
+
+"I don't know," said Trevize. "An argument may seem thoroughly logical and elegant and yet contain unexpressed assumptions. Maybe the third requirement is an assumption so taken for granted that no one ever thinks of mentioning it."
+
+"An assumption that is so taken for granted is usually valid enough, or it wouldn't be so taken for granted."
+
+Trevize snorted. "If you knew scientific history as well as you know traditional history, Janov, you would know how wrong that is. But I see that we are now in the neighborhood of the sun of the Forbidden World."
+
+And, indeed, centered on the screen, was a bright star-one so bright that the screen automatically filtered its light to the point where all other stars were washed out.
+
+32.
+
+FACILITIES for washing and for personal hygiene on board the Far Star were compact, and the use of water was always held to a reasonable minimum to avoid overloading the recycling facilities. Both Pelorat and Bliss had been sternly reminded of this by Trevize.
+
+Even so, Bliss maintained an air of freshness at all times and her dark, long hair could be counted on to be glossy, her fingernails to sparkle.
+
+She walked into the pilot-room and said, "There you are!"
+
+Trevize looked up and said, "No need for surprise. We could scarcely have left the ship, and a thirty-second search would be bound to uncover us inside the ship, even if you couldn't detect our presence mentally."
+
+Bliss said, "The expression was purely a form of greeting and not meant to be taken literally, as you well know. Where are we? And don't say, 'In the pilot-room.' "
+
+"Bliss dear," said Pelorat, holding out one arm, "we're at the outer regions of the planetary system of the nearest of the three Forbidden Worlds."
+
+She walked to his side, placing her hand lightly on his shoulder, while his arm moved about her waist. She said, "It can't be very Forbidden. Nothing has stopped us."
+
+Trevize said, "It is only Forbidden because Comporellon and the other worlds of the second wave of settlement have voluntarily placed the worlds of the first wave-the Spacers-out of bounds. If we ourselves don't feel bound by that voluntary agreement, what is to stop us?"
+
+"The Spacers, if any are left, might have voluntarily placed the worlds of the second wave out of bounds, too. Just because we don't mind intruding upon them doesn't mean that they don't mind it."
+
+"True," said Trevize, "If they exist. But so far we don't even know if any planet exists for them to live on. So far, all we see are the usual gas giants. Two of them, and not particularly large ones."
+
+Pelorat said hastily, "But that doesn't mean the Spacer world doesn't exist. Any habitable world would be much closer to the sun and much smaller and very hard to detect in the solar glare from this distance. We'll have to microJump inward to detect such a planet." He seemed rather proud to be speaking like a seasoned space traveler.
+
+"In that case," said Bliss, "why aren't we moving inward?"
+
+"Not just yet," said Trevize. "I'm having the computer check as far as it can for any sign of an artificial structure. We'll move inward by stages-a dozen, if necessary-checking at each stage. I don't want to be trapped this time as we were when we first approached Gaia. Remember, Janov?"
+
+"Traps like that could catch us every day. The one at Gaia brought me Bliss." Pelorat gazed at her fondly.
+
+Trevize grinned. "Are you hoping for a new Bliss every day?"
+
+Pelorat looked hurt, and Bliss said, with a trace of annoyance, "My good chap-or whatever it is that Pel insists on calling you-you might as well move in more quickly. While I am with you, you will not be trapped."
+
+"The power of Gaia?"
+
+"To detect the presence of other minds? Certainly."
+
+"Are you sure you are strong enough, Bliss? I gather you must sleep quite a bit to regain strength expended at maintaining contact with the main body of Gaia. How far can I rely on the perhaps narrow limits of your abilities at this distance from the source?"
+
+Bliss flushed. "The strength of the connection is ample."
+
+Trevize said, "Don't be offended. I'm simply asking. Don't you see this as a disadvantage of being Gaia? I am not Gaia. I am a complete and independent individual. That means I can travel as far as I wish from my world and my people, and remain Golan Trevize. What powers I have, and such as they are, I continue to have, and they remain wherever I go. If I were alone in space, parsecs away from any human being, and unable, for some reason, to communicate with anyone in any way, or even to see the spark of a single star in the sky, I would be and remain Golan Trevize. I might not be able to survive, and I might die, but I would die Golan Trevize."
+
+Bliss said, "Alone in space and far from all others, you would be unable to call on the help of your fellows, on their different talents and knowledge. Alone, as an isolated individual, you would be sadly diminished as compared with youself as part of an integrated society. You know that."
+
+Trevize said, "There would nevertheless not be the same diminution as in your case. There is a bond between you and Gaia that is far stronger than the one between me and my society, and that bond stretches through hyperspace and requires energy for maintenance, so that you must gasp, mentally, with the effort, and feel yourself to be a diminished entity far more than I must."
+
+Bliss's young face set hard and, for a moment, she looked young no more or, rather, she appeared ageless-more Gaia than Bliss, as though to refute Trevize's contention. She said, "Even if everything you say is so, Golan Trevize-that is, was, and will be, that cannot perhaps be less, but certainly cannot be more-even if everything you say is so, do you expect there is no price to be paid for a benefit gained? Is it not better to be a warm-blooded creature such as yourself than a cold-blooded creature such as a fish, or whatever?"
+
+Pelorat said, "Tortoises are cold-blooded. Terminus doesn't have any, but some worlds do. They are shelled creatures, very slow-moving but long-living."
+
+"Well, then, isn't it better to be a human being than a tortoise; to move quickly whatever the temperature, rather than slowly? Isn't it better to support high-energy activities, quickly contracting muscles, quickly working nerve fibers, intense and long-sustained thought-than to creep slowly, and sense gradually, and have only a blurred awareness of the immediate surroundings? Isn't it?"
+
+"Granted," said Trevize. "It is. What of it?"
+
+"Well, don't you know you must pay for warm-bloodedness? To maintain your temperature above that of your surroundings, you must expend energy far more wastefully than a tortoise must. You must be eating almost constantly so that you can pour energy into your body as quickly as it leaks out. You would starve far more quickly than a tortoise would, and die more quickly, too. Would you rather be a tortoise, and live more slowly and longer? Or would you rather pay the price and be a quick-moving, quick-sensing, thinking organism?"
+
+"Is this a true analogy, Bliss?"
+
+"No, Trevize, for the situation with Gaia is more favorable. We don't expend unusual quantities of energy when we are compactly together. It is only when part of Gaia is at hyperspatial distances from the rest of Gaia that energy expenditure rises. And remember that what you have voted for is not merely a larger Gaia, not just a larger individual world. You have decided for Galaxia, for a vast complex of worlds. Anywhere in the Galaxy, you will be part of Galaxia and you will be closely surrounded by parts of something that extends from each interstellar atom to the central black hole. It would then require small amounts of energy to remain a whole. No part would be at any great distance from all other parts. It is all this you have decided for, Trevize. How can you doubt that you have chosen well?"
+
+Trevize's head was bent in thought. Finally, he looked up and said, "I may have chosen well, but I must be convinced of that. The decision I have made it the most important in the history of humanity and it is not enough that it be a good one. I must know it to be a good one."
+
+"What more do you need than what I have told you?"
+
+"I don't know, but I will find it on Earth." He spoke with absolute conviction.
+
+Pelorat said, "Golan, the star shows a disc."
+
+It did. The computer, busy about its own affairs and not the least concerned with any discussion that might swirl about it, had been approaching the star in stages, and had reached the distance Trevize had set for it.
+
+They continued to be well outside the planetary plane and the computer split the screen to show each of three small inner planets.
+
+It was the innermost that had a surface temperature in the liquid-water range, and that had an oxygen atmosphere as well. Trevize waited for its orbit to be computed and the first crude estimate seemed reasonable. He kept that computation going, for the longer the planetary movement was observed, the more accurate the computation of its orbital elements.
+
+Trevize said quite calmly, "We have a habitable planet in view. Very likely habitable."
+
+"Ah." Pelorat looked as nearly delighted as his solemn expression would allow.
+
+"I'm afraid, though," said Trevize, "that there's no giant satellite. In fact, no satellite of any kind has been detected so far. So it isn't Earth. At least, not if we go by tradition."
+
+"Don't worry about that, Golan." said Pelorat. "I rather suspected we weren't going to encounter Earth here when I saw that neither of the gas giants had an unusual ring system."
+
+"Very well, then," said Trevize. "The next step is to find out the nature of the life inhabiting it. From the fact that it has an oxygen atmosphere, we can be absolutely certain that there is plant life upon it, but-"
+
+"Animal life, too," said Bliss abruptly. "And in quantity."
+
+"What?" Trevize turned to her.
+
+"I can sense it. Only faintly at this distance, but the planet is unquestionably not only habitable, but inhabited."
+
+33.
+
+THE Far Star was in polar orbit about the Forbidden World, at a distance great enough to keep the orbital period at a little in excess of six days. Trevize seemed in no hurry to come out of orbit.
+
+"Since the planet is inhabited," he explained, "and since, according to Deniador, it was once inhabited by human beings who were technologically advanced and who represent a first wave of Settlers-the so-called Spacers-they may be technologically advanced still and may have no great love for us of the second wave who have replaced them. I would like them to show themselves, so that we can learn a little about them before risking a landing."
+
+"They may not know we are here," said Pelorat.
+
+"We would, if the situation were reversed. I must assume, then, that, if they exist, they are likely to try to make contact with us. They might even want to come out and get us."
+
+"But if they did come out after us and were technologically advanced, we might be helpless to-"
+
+"I can't believe that," said Trevize. "Technological advancement is not necessarily all one piece. They might conceivably be far beyond us in some ways, but it's clear they don't indulge in interstellar travel. It is we, not they, who have settled the Galaxy, and in all the history of the Empire, I know of nothing that would indicate that they left their worlds and made themselves evident to us. If they haven't been space traveling, how could they be expected to have made serious advances in astronautics? And if they haven't, they can't possibly have anything like a gravitic ship. We may be essentially unarmed but even if they come lumbering after us with a battleship, they couldn't possibly catch us. -No, we wouldn't be helpless."
+
+"Their advance may be in mentalics. It may be that the Mule was a Spacer-"
+
+Trevize shrugged in clear irritation. "The Mule can't be everything. The Gaians have described him as an aberrant Gaian. He's also been considered a random mutant."
+
+Pelorat said, "To be sure, there have also been speculations-not taken very seriously, of course-that he was a mechanical artifact. A robot, in other words, though that word wasn't used."
+
+"If there is something that seems mentally dangerous, we will have to depend on Bliss to neutralize that. She can-Is she asleep now, by the way?"
+
+"She has been," said Pelorat, "but she was stirring when I came out here."
+
+"Stirring, was she? Well, she'll have to be awake on short notice if anything starts happening. You'll have to see to that, Janov."
+
+"Yes, Golan," said Pelorat quietly.
+
+Trevize shifted his attention to the computer. "One thing that bothers me are the entry stations. Ordinarily, they are a sure sign of a planet inhabited by human beings with a high technology. But these-"
+
+"Is there something wrong with them?"
+
+"Several things. In the first place, they're very archaic. They might be thousands of years old. In the second, there's no radiation but thermals."
+
+"What are thermals?"
+
+"Thermal radiation is given off by any object warmer than its surroundings. It's a familiar signature that everything yields and it consists of a broad band of radiation following a fixed pattern depending on temperature. That is what the entry stations are radiating. If there are working human devices aboard the stations, there is bound to be a leakage of nonthermal, nonrandom radiation. Since only thermals are present we can assume that either the stations are empty, and have been, perhaps, for thousands of years; or, if occupied, it is by people with a technology so advanced in this direction that they leak no radiation."
+
+"Perhaps," said Pelorat, "the planet has a high civilization, but the entry stations are empty because the planet has been left so strictly alone for so long by our kind of Settlers that they are no longer concerned about any approach."
+
+"Perhaps. -Or perhaps it is a lure of some sort."**
+
+Bliss entered, and Trevize, noting her out of the corner of his eyes, said grumpily, "Yes, here we are."
+
+"So I see," said Bliss, "and still in an unchanged orbit. I can tell that much."
+
+Pelorat explained hastily. "Golan is being cautious, dear. The entry stations seem unoccupied and we're not sure of the significance of that."
+
+"There's no need to worry about it," said Bliss indifferently. "There are no detectable signs of intelligent life on the planet we're orbiting."
+
+Trevize bent an astonished glare at her. "What are you talking about? You said-"
+
+"I said there was animal life on the planet, and so there is, but where in the Galaxy were you taught that animal life necessarily implies human life?"
+
+"Why didn't you say this when you first detected animal life?"
+
+"Because at that distance, I couldn't tell. I could barely detect the unmistakable wash of animal neural activity, but there was no way I could, at that intensity, tell butterflies from human beings."
+
+"And now?"
+
+"We're much closer now, and you may have thought I was asleep, but I wasn't-or, at least, only briefly. I was, to use an inappropriate word, listening as hard as I could for any sign of mental activity complex enough to signify the presence of intelligence."
+
+"And there isn't any?"
+
+"I would suppose," said Bliss, with sudden caution, "that if I detect nothing at this distance, there can't possibly be more than a few thousand human beings on the planet. If we come closer, I can judge it still more delicately."
+
+"Well, that changes things," said Trevize, with some confusion.
+
+"I suppose," said Bliss, who looked distinctly sleepy and, therefore, irritable. "You can now discard all this business of analyzing radiation and inferring and deducing and who knows what else you may have been doing. My Gaian senses do the job much more efficiently and surely. Perhaps you see what I mean when I say it is better to be a Gaian than an Isolate."
+
+Trevize waited before answering, clearly laboring to hold his temper. When he spoke, it was with a polite, and almost formal tone, "I am grateful to you for the information. Nevertheless, you must understand that, to use an analogy, the thought of the advantage of improving my sense of smell would be insufficient motive for me to decide to abandon my humanity and become a bloodhound."
+
+34.
+
+THEY COULD see the Forbidden World now, as they moved below the cloud layer and drifted through the atmosphere. It looked curiously moth-eaten.
+
+The polar regions were icy, as might be expected, but they were not large in extent. The mountainous regions were barren, with occasional glaciers, but they were not large in extent, either. There were small desert areas, well scattered.
+
+Putting all that aside, the planet was, in potential, beautiful. Its continental areas were quite large, but sinuous, so that there were long shorelines, and rich coastal plains of generous extent. There were lush tracts of both tropical and temperate forests, rimmed by grasslands-and yet the moth-eaten nature of it all was evident.
+
+Scattered through the forests were semibarren areas, and parts of the grasslands were thin and sparse.
+
+"Some sort of plant disease?" said Pelorat wonderingly.
+
+"No," said Bliss slowly. "Something worse than that, and more permanent."
+
+"I've seen a number of worlds," said Trevize, "but nothing like this."
+
+"I have seen very few worlds," said Bliss, "but I think the thoughts of Gaia and this is what you might expect of a world from which humanity has disappeared."
+
+"Why?" said Trevize.
+
+"Think about it," said Bliss tartly. "No inhabited world has a true ecological balance. Earth must have had one originally, for if that was the world on which humanity evolved, there must have been long ages when humanity did not exist, or any species capable of developing an advanced technology and the ability to modify the environment. In that case, a natural balance-everchanging, of course-must have existed. On all other inhabited worlds, however, human beings have carefully terraformed their new environments and established plant and animal life, but the ecological system they introduce is bound to be unbalanced. It would possess only a limited number of species and only those that human beings wanted, or couldn't help introducing-"
+
+Pelorat said, "You know what that reminds me of? Pardon me, Bliss, for interrupting, but it so fits that I can't resist telling you right now before I forget. There's an old creation myth I once came across; a myth in which life was formed on a planet and consisted of only a limited assortment of species, just those useful to or pleasant for humanity. The first human beings then did something silly-never mind what, old fellow, because those old myths are usually symbolic and only confusing if they are taken literally-and the planet's soil was cursed. 'Thorns also and thistles shall it bring forth to thee,' is the way the curse was quoted though the passage sounds much better in the archaic Galactic in which it was written. The point is, though, was it really a curse? Things human beings don't like and don't want, such as thorns and thistles, may be needed to balance the ecology."
+
+Bliss smiled. "It's really amazing, Pel, how everything reminds you of a legend, and how illuminating they are sometimes. Human beings, in terraforming a world, leave out the thorns and thistles, whatever they may be, and human beings then have to labor to keep the world going. It isn't a self-supporting organism as Gaia is. It is rather a miscellaneous collection of Isolates and the collection isn't miscellaneous enough to allow the ecological balance to persist indefinitely. If humanity disappears, and if its guiding hands are removed, the world's pattern of life inevitably begins to fall apart. The planet unterraforms itself."
+
+Trevize said skeptically, "If that's what's happening, it doesn't happen quickly. This world may have been free of human beings for twenty thousand years and yet most of it still seems to be very much a going concern."
+
+"Surely," said Bliss, "that depends on how well the ecological balance was set up in the first place. If it is a fairly good balance to begin with, it might last for a long time without human beings. After all, twenty thousand years, though very long in terms of human affairs, is just overnight when compared to a planetary lifetime."
+
+"I suppose," said Pelorat, staring intently at the planetary vista, "that if the planet is degenerating, we can be sure that the human beings are gone."
+
+Bliss said, "I still detect no mental activity at the human level and I am willing to suppose that the planet is safely free of humanity. There is the steady hum and buzz of lower levels of consciousness, however, levels high enough to represent birds and mammals. Just the same, I'm not sure that unterraforming is enough to show human beings are gone. A planet might deteriorate even if human beings existed upon it, if the society were itself abnormal and did not understand the importance of preserving the environment."
+
+"Surely," said Pelorat, "such a society would quickly be destroyed. I don't think it would be possible for human beings to fail to understand the importance of retaining the very factors that are keeping them alive."
+
+Bliss said, "I don't have your pleasant faith in human reason, Pel. It seems to me to be quite conceivable that when a planetary society consists only of Isolates, local and even individual concerns might easily be allowed to overcome planetary concerns."
+
+"I don't think that's conceivable," said Trevize, "anymore than Pelorat does. In fact, since human-occupied worlds exist by the million and none of them have deteriorated in an unterraforming fashion, your fear of Isolatism may be exaggerated, Bliss."
+
+The ship now moved out of the daylit hemisphere into the night. The effect was that of a rapidly deepening twilight, and then utter darkness outside, except for starlight where the sky was clear.
+
+The ship maintained its height by accurately monitoring the atmospheric pressure and gravitational intensity. They were at a height too great to encounter any upthrusting mountainous massif, for the planet was at a stage when mountain-building had not recently taken place. Still, the computer felt its way forward with its microwave finger-tips, just in case.
+
+Trevize regarded the velvety darkness and said, thoughtfully, "Somehow what I find most convincing as the sign of a deserted planet is the absence of visible light on the dark side. No technological society could possibly endure darkness. As soon as we get into the dayside, we'll go lower."
+
+"What would be the use of that?" said Pelorat. "There's nothing there."
+
+"Who said there's nothing there?"
+
+"Bliss did. And you did."
+
+"No, Janov. I said there's no radiation of technological origin and Bliss said there's no sign of human mental activity, but that doesn't mean there's nothing there. Even if there are no human beings on the planet, there would surely be relics of some sort. I'm after information, Janov, and the remainders of a technology may have its uses in that direction."
+
+"After twenty thousand years?" Pelorat's voice climbed in pitch. "What do you think can survive twenty thousand years? There will be no films, no paper, no print; metal will have rusted, wood will have decayed, plastic will be in shattered grains. Even stone will have crumbled and eroded."
+
+"It may not be twenty thousand years," said Trevize patiently. "I mentioned that time as the longest period the planet may have been left empty of human beings because Comporellian legend has this world flourishing at that time. But suppose the last human beings had died or vanished or fled only a thousand years ago."
+
+They arrived at the other end of the nightside and the dawn came and brightened into sunlight almost instantaneously.
+
+The Far Star sank downward and slowed its progress until the details of the land surface were clearly visible. The small islands that dotted the continental shores could now be clearly seen. Most were green with vegetation.
+
+Trevize said, "It's my idea that we ought to study the spoiled areas particularly. It seems to me that those places where human beings were most concentrated would be where the ecological balance was most lacking. Those areas might be the nucleus of the spreading blight of unterraforming. What do you think, Bliss?"
+
+"It's possible. In any case, in the absence of definite knowledge, we might as well look where it's easiest to see. The grasslands and forest would have swallowed most signs of human habitation so that looking there might prove a waste of time."
+
+"It strikes me," said Pelorat, "that a world might eventually establish a balance with what it has; that new species might develop; and that the bad areas might be recolonized on a new basis."
+
+"Possibly, Pel," said Bliss. "It depends on how badly out of balance the world was in the first place. And for a world to heal itself and achieve a new balance through evolution would take far more than twenty thousand years. We'd be talking millions of years."
+
+The Far Star was no longer circling the world. It was drifting slowly across a five-hundred-kilometer-wide stretch of scattered heath and furze, with occasional clumps of trees.
+
+"What do you think of that?" said Trevize suddenly, pointing. The ship came to a drifting halt and hovered in mid-air. There was a low, but persistent, hum as the gravitic engines shifted into high, neutralizing the planetary gravitational field almost entirely.
+
+There was nothing much to see where Trevize pointed. Tumbled mounds bearing soil and sparse grass were all that was visible.
+
+"It doesn't look like anything to me," said Pelorat.
+
+"There's a straight-line arrangement to that junk. Parallel lines, and you can make out some faint lines at right angles, too. See? See? You can't get that in any natural formation. That's human architecture, marking out foundations and walls, just as clearly as though they were still standing there to be looked at."
+
+"Suppose it is," said Pelorat. "That's just a ruin. If we're going to do archeological research, we're going to have to dig and dig. Professionals would take years to do it properly-"
+
+"Yes, but we can't take the time to do it properly. That may be the faint outline of an ancient city and something of it may still be standing. Let's follow those lines and see where they take us."
+
+It was toward one end of the area, at a place where the trees were somewhat more thickly clumped, that they came to standing walls-or partially standing ones.
+
+Trevize said, "Good enough for a beginning. We're landing."
