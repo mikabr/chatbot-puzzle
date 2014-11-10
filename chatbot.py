@@ -3,15 +3,18 @@ import string
 import re
 import os
 import nltk
-from nltk.corpus import gutenberg
+from nltk.probability import *
+from ngram import NgramModel
+#from kneserney import KneserNeyProbDist
 
 
 class ChatBot:
 
-    def __init__(self, characters, models, ngram):
+    def __init__(self, characters, models, ngram, debug=False):
         self.characters = characters
         self.models = models
         self.n = ngram
+        self.debug = debug
 
     @staticmethod
     def join_punctuation(seq, punct='.,;?!'):
@@ -33,11 +36,9 @@ class ChatBot:
         while response and not response[-1][-1] in {'.', '!', '?', '?!'}:
             word = model._generate_one(response)
             response.append(word)
-        print response
         response = self.process_response(response[len(initial_words):])
-        print response
-        if len(response) < 3:
-            response = model.generate_response
+#        if len(response) < 3:
+#            response = self.generate_response(character, seed)
         return response
 
     # given a list of words, sanitizes it to return something sentence-like
@@ -63,19 +64,23 @@ class ChatBot:
 
     # given a character and an input string, scores how similar the string is to that character's corpus
     # return cross-entropy between character's corpus and input string
-    def score_character(self, character, inp):
+    def score_character(self, character, words):
         model = self.models[character]
         if len(words) < self.n:
             for i in range(self.n - len(words)):
                 model = model._backoff
-        return model.entropy(nltk.word_tokenize(inp))
+        return model.entropy(words)
 
     # given an input string, scores it's similarity to each character and selects min scoring character
     def classify_input(self, inp):
-        scores = {character: self.score_character(character, inp) for character in self.characters}
-        print scores
-        best = min(scores, key=lambda c: scores[c])
-        return best
+        words = nltk.word_tokenize(inp)
+        scores = {character: self.score_character(character, words) for character in self.characters}
+        scores = {character: score for character, score in scores.iteritems() if score}
+        if self.debug:
+            print scores
+        if scores:
+            best = min(scores, key=lambda c: scores[c])
+            return best
 
     # given a character, returns the next character in the characters list (wrapping last to first)
     def pick_responder(self, input_character):
@@ -95,16 +100,23 @@ class ChatBot:
 
             # classify input as character it's most similar to
             input_character = self.classify_input(inp)
+            if self.debug:
+                print input_character
+                
+            if input_character:
 
-            # deterministically pick character to respond as
-            responder = self.pick_responder(input_character)
-            print responder
+                # deterministically pick character to respond as
+                responder = self.pick_responder(input_character)
+    
+                # generate response from selected character, seeded with user's input
+                response = self.generate_response(responder, inp)
+                print response
+                
+            else:
 
-            # generate response from selected character, seeded with user's input
-            response = self.generate_response(responder, inp)
-            print response
+                print "That's not very interesting..."
 
-def initialize_bot(characters):
+def load_corpora(characters):
 
     char_corps = {}
     for char in characters:
@@ -116,14 +128,20 @@ def initialize_bot(characters):
             data = nltk.word_tokenize(data)
             corpus += data
         char_corps[char] = corpus
-    est = lambda fdist, bins: nltk.probability.LidstoneProbDist(fdist, 0.2)
-    models = {character: nltk.NgramModel(3, corp, estimator=est)
-              for character, corp in char_corps.iteritems()}
-    bot = ChatBot(chararacters, models, ngram=3)
-    return bot
+    return char_corps
+#    return models
 
 
 if __name__ == "__main__":
-    chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera']
-    bot = initialize_bot(chars)
+    n = 3
+    chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic']
+#    chars = ['Grande', 'Asimov', 'Marx', 'Einstein']
+    char_corps = load_corpora(chars)
+    est = lambda fdist, bins: MLEProbDist(fdist)
+#    est = lambda fdist, bins: LidstoneProbDist(fdist, 0.2)
+#    est = lambda fdist, bins: WittenBellProbDist(fdist)
+#    est = lambda fdist, bins: KneserNeyProbDist(fdist)
+    models = {character: NgramModel(n, corp, estimator=est)
+              for character, corp in char_corps.iteritems()}
+    bot = ChatBot(chars, models, ngram=n, debug=False)
     bot.run()
