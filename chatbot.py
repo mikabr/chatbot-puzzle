@@ -31,13 +31,16 @@ class ChatBot:
 
     def generate_response(self, character, seed):
         model = self.models[character]
-        initial_words = seed.split()
-        response = seed.split()
+        len_seed = len(seed)
+        response = seed[:]
         while response and not response[-1][-1] in {'.', '!', '?', '?!'}:
             word = model._generate_one(response)
             response.append(word)
-        response = self.process_response(response[len(initial_words):])
-#        if len(response) < 3:
+        response = response[len_seed:]
+        response = self.process_response(response)
+#        if not response:
+#            response = self.generate_response(character, seed)
+#        if len(response.split()) < 3:
 #            response = self.generate_response(character, seed)
         return response
 
@@ -46,14 +49,22 @@ class ChatBot:
     def process_response(response):
 
         # removes potentially unmatched punctuation
-        response = [word for word in response if word not in {'(', ')', '[', ']', '{', '}', '\"', '`', '<', '>', '~'}]
+        bad_punct = {'(', ')', '[', ']', '{', '}', '\"', '`', '<', '>', '~', '``'}
+        response = filter(lambda word: all([char not in bad_punct for char in word]), response)
+#        response = [word for word in response if word not in {'(', ')', '[', ']', '{', '}', '\"', '`', '<', '>', '~'}]
 
         if response:
-
             # removes any leading punctuation
-            if response[0] in string.punctuation:
-                response = response[1:]
+            first = 0
+            for i in range(len(response)):
+                if all([c not in string.punctuation for c in response[i]]):
+                    first = i
+                    break
+            response = response[i:]
+#            if response[0] in string.punctuation:
+#                response = response[1:]
 
+        if response:
             # capitalizes the first letter of the first word
             response[0] = response[0].capitalize()
 
@@ -72,10 +83,11 @@ class ChatBot:
         return model.entropy(words)
 
     # given an input string, scores it's similarity to each character and selects min scoring character
-    def classify_input(self, inp):
-        words = nltk.word_tokenize(inp)
-        scores = {character: self.score_character(character, words) for character in self.characters}
-        scores = {character: score for character, score in scores.iteritems() if score}
+    def classify_input(self, words):
+        scores = {}
+        if words:
+            scores = {character: self.score_character(character, words) for character in self.characters}
+            scores = {character: score for character, score in scores.iteritems() if score}
         if self.debug:
             print scores
         if scores:
@@ -98,8 +110,12 @@ class ChatBot:
             if inp.lower() == 'q':
                 break
 
+            words = nltk.word_tokenize(inp)
+            words = filter(lambda word: all([char not in string.punctuation for char in word]), words)
+            print words
+
             # classify input as character it's most similar to
-            input_character = self.classify_input(inp)
+            input_character = self.classify_input(words)
             if self.debug:
                 print input_character
                 
@@ -109,7 +125,7 @@ class ChatBot:
                 responder = self.pick_responder(input_character)
     
                 # generate response from selected character, seeded with user's input
-                response = self.generate_response(responder, inp)
+                response = self.generate_response(responder, words)
                 print response
                 
             else:
@@ -121,7 +137,6 @@ def load_corpora(characters):
     char_corps = {}
     for char in characters:
         assert(char in os.listdir('TrainingSets/'))
-        print 'loading', char
         corpus = []
         for datafile in os.listdir('TrainingSets/' + char):
             data = open('TrainingSets/' + char + '/' + datafile, 'r').read()
@@ -133,6 +148,7 @@ def load_corpora(characters):
 
 
 if __name__ == "__main__":
+    print 'Please wait...'
     n = 3
     chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic']
 #    chars = ['Grande', 'Asimov', 'Marx', 'Einstein']
@@ -143,5 +159,5 @@ if __name__ == "__main__":
 #    est = lambda fdist, bins: KneserNeyProbDist(fdist)
     models = {character: NgramModel(n, corp, estimator=est)
               for character, corp in char_corps.iteritems()}
-    bot = ChatBot(chars, models, ngram=n, debug=False)
+    bot = ChatBot(chars, models, ngram=n, debug=True)
     bot.run()
