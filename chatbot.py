@@ -80,6 +80,8 @@ class ChatBot:
         if len(words) < self.n:
             for i in range(self.n - len(words)):
                 model = model._backoff
+        if self.debug:
+            print model
         return model.entropy(words)
 
     # given an input string, scores it's similarity to each character and selects min scoring character
@@ -111,26 +113,31 @@ class ChatBot:
                 break
 
             words = nltk.word_tokenize(inp)
-            words = filter(lambda word: all([char not in string.punctuation for char in word]), words)
-            print words
-
-            # classify input as character it's most similar to
-            input_character = self.classify_input(words)
+            words = filter(lambda word: all([char not in string.punctuation.replace('-','') for char in word]), words)
             if self.debug:
-                print input_character
-                
-            if input_character:
+                print words
 
-                # deterministically pick character to respond as
-                responder = self.pick_responder(input_character)
+            try:
+
+                # classify input as character it's most similar to
+                input_character = self.classify_input(words)
+                if self.debug:
+                    print input_character
+                    
+                if input_character:
     
-                # generate response from selected character, seeded with user's input
-                response = self.generate_response(responder, words)
-                print response
-                
-            else:
-
-                print "That's not very interesting..."
+                    # deterministically pick character to respond as
+                    responder = self.pick_responder(input_character)
+        
+                    # generate response from selected character, seeded with user's input
+                    response = self.generate_response(responder, words)
+                    print response
+                    
+                else:    
+                    print "That's not very interesting..."
+                    
+            except IOError:
+                print "Your input caused a bug. This is NOT part of the puzzle. Please report this bug in testsolving feedback so we can fix it."
 
 def load_corpora(characters):
 
@@ -159,5 +166,5 @@ if __name__ == "__main__":
 #    est = lambda fdist, bins: KneserNeyProbDist(fdist)
     models = {character: NgramModel(n, corp, estimator=est)
               for character, corp in char_corps.iteritems()}
-    bot = ChatBot(chars, models, ngram=n, debug=True)
+    bot = ChatBot(chars, models, ngram=n, debug=False)
     bot.run()

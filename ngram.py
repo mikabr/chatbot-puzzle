@@ -116,6 +116,64 @@ class NgramModel(ModelI):
         if n > 1:
             self._backoff = NgramModel(n-1, train, pad_left, pad_right,
                                        estimator, *estimator_args, **estimator_kwargs)
+            
+            # calculate alphas for Katz backoff smoothing
+            #if self._backoff is not None:
+            #    self._backoff_alphas = dict()
+            #
+            #    # For each condition (or context)
+            #    for context in cfd.conditions():
+            #        pd = self._model[context] # prob dist for this context
+            #
+            #        backoff_context = context[1:]
+            #        backoff_total_pr = 0
+            #        total_observed_pr = 0
+            #        for word in cfd[context].keys(): # this is the subset of words that we OBSERVED
+            #            backoff_total_pr += self._backoff.prob(word, backoff_context) 
+            #            total_observed_pr += pd.prob(word)
+            #            
+            #        print context, total_observed_pr, backoff_total_pr
+            #
+            #        assert total_observed_pr <= 1 and total_observed_pr > 0
+            #        assert backoff_total_pr <= 1 and backoff_total_pr > 0
+            #
+            #        alpha_ctxt = (1.0-total_observed_pr) / (1.0-backoff_total_pr)
+            #        self._backoff_alphas[context] = alpha_ctxt
+
+#    def _alpha(self, tokens):
+#        """Get the backoff alpha value for the given context
+#        """
+#        if tokens in self._backoff_alphas:
+#            return self._backoff_alphas[tokens]
+#        else:
+#            return 1
+
+    def _alpha(self, tokens):
+#        backoff = self._backoff._beta(tokens[1:])
+#        if backoff:
+#            return self._beta(tokens) / backoff
+#        else:
+#            return self._beta(tokens)
+#        print 'calculating alpha with tokens', tokens
+        return self._beta(tokens) / self._backoff._beta(tokens[1:])
+#        return self._beta(tokens) / sum([self._backoff.prob(word, tokens[1:]) for word in ])
+
+    def _beta(self, tokens):
+#        print 'calculating beta with tokens', tokens
+        if self._n == 1:
+            tokens = tuple()
+        beta = 0.0
+        for ngram in self._ngrams:
+            context, word = ngram[:-1], ngram[-1]
+            if tokens == context:
+#                print self[tokens].prob(word)
+                beta += self[tokens].prob(word)
+#                print beta
+#        print 'beta', beta
+        return 1.0 - beta
+#        return 1.0 - beta
+#        return 1.0 - sum([self[tokens].prob(word) for (tokens + (word,)) in self._ngrams])
+#        return (self[tokens].discount() if tokens in self else 1)
 
     def prob(self, word, context):
         """
@@ -126,22 +184,18 @@ class NgramModel(ModelI):
         :param context: the context the word is in
         :type context: list(str)
         """
-
+#        print 'calculating probability of word', word, 'in context', context
         context = tuple(context)
         if (context + (word,) in self._ngrams) or (self._n == 1):
+#            print 'have context, got probability', self[context].prob(word)
             return self[context].prob(word)
         else:
-            return self._alpha(context) * self._backoff.prob(word, context[1:])
-
-    def _alpha(self, tokens):
-        backoff = self._backoff._beta(tokens[1:])
-        if backoff:
-            return self._beta(tokens) / backoff
-        else:
-            return self._beta(tokens)
-
-    def _beta(self, tokens):
-        return (self[tokens].discount() if tokens in self else 1)
+            alpha = float(self._n - 1) / self._n
+            return alpha * self._backoff.prob(word, context[1:])
+#            return self._backoff.prob(word, context[1:])
+#            alpha = self._alpha(context)
+#            print "don't have context, got alpha", alpha, 'and probability', self._backoff.prob(word, context[1:])
+#            return alpha * self._backoff.prob(word, context[1:])
 
     def logprob(self, word, context):
         """
