@@ -170,7 +170,7 @@ def load_corpora(characters):
         corpus = []
         for datafile in os.listdir(directory + char):
             data = open(directory + char + '/' + datafile, 'r').read()
-            data = nltk.word_tokenize(data.decode('utf-8', errors='ignore'))
+            data = nltk.word_tokenize(data)
             corpus += data
         char_corps[char] = corpus
     return char_corps
