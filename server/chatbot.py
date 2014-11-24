@@ -164,10 +164,11 @@ def load_corpora(characters):
 
     char_corps = {}
     for char in characters:
-        assert(char in os.listdir('TrainingSets/'))
+        directory = os.path.dirname(__file__) + '/TrainingSets/'
+        assert(char in os.listdir(directory))
         corpus = []
-        for datafile in os.listdir('TrainingSets/' + char):
-            data = open('TrainingSets/' + char + '/' + datafile, 'r').read()
+        for datafile in os.listdir(directory + char):
+            data = open(directory + char + '/' + datafile, 'r').read()
             data = nltk.word_tokenize(data)
             corpus += data
         char_corps[char] = corpus
@@ -185,17 +186,19 @@ def initialize_bot(chars):
               for character, corp in char_corps.iteritems()}
     return ChatBot(chars, models, ngram=n, debug=False)
 
-bot1 = {}
+bots = {}
 
 def bot1():
-    if bots[1]:
+    global bots
+    if 1 in bots:
         return bots[1]
     else:
         chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic']
         return initialize_bot(chars)
 
 def bot2():
-    if bots[2]:
+    global bots
+    if 2 in bots:
         return bots[2]
     else:
         chars = ['Grande', 'Asimov', 'Marx', 'Einstein']

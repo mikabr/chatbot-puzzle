@@ -1,7 +1,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-5">
-      <div class="panel panel-primary chatbox" id='chatbox-1'>
+      <div class="panel panel-primary chatbox" id='chatbox-1' data-chatbot='chatbot_1'>
         <div class="panel-heading">
           <span class="glyphicon glyphicon-comment"></span> Chat
         </div>
@@ -21,7 +21,7 @@
       </div>
     </div>
      <div class="col-md-5">
-      <div class="panel panel-primary chatbox" id='chatbox-2'>
+      <div class="panel panel-primary chatbox" id='chatbox-2' data-chatbot='chatbot_2'>
         <div class="panel-heading">
           <span class="glyphicon glyphicon-comment"></span> Chat
         </div>
@@ -120,11 +120,19 @@ function clickChat(chatbox){
   if(text.length > 0){
     insertChat(chatbox, 'You', text);
     input.val('');
-    insertChat(chatbox, 'Server', 'Test Response');
-
-    var panel = chatbox.find('.panel-body');
-    panel.animate({ scrollTop: panel[0].scrollHeight}, 200);
+    scrollchat(chatbox);
+    $.get(chatbox.data('chatbot'), { data: text }, function(data) {
+      insertChat(chatbox, 'Chatbot', data);
+      scrollchat(chatbox);
+    });
+    
+    
   }
+}
+
+function scrollchat(chatbox){
+  var panel = chatbox.find('.panel-body');
+  panel.animate({ scrollTop: panel[0].scrollHeight}, 200);
 }
 
 function insertChat(chatbox, user, text){
