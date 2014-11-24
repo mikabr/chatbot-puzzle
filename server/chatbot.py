@@ -100,6 +100,27 @@ class ChatBot:
     def pick_responder(self, input_character):
         return self.characters[(self.characters.index(input_character) + 1) % len(self.characters)]
 
+    def response(self, inp):
+        tokens = nltk.word_tokenize(inp)
+        words = filter(lambda word: all([char not in string.punctuation.replace('-', '') for char in word]), tokens)
+        if self.debug:
+            print words
+
+        try:
+            # classify input as character it's most similar to
+            input_character = self.classify_input(words)
+            if self.debug:
+                print input_character
+            if input_character:
+                # deterministically pick character to respond as
+                responder = self.pick_responder(input_character)
+                # generate response from selected character, seeded with user's input
+                return self.generate_response(responder, words)
+            else:
+                return "That's not very interesting..."
+        except IOError:
+            return "Your input caused a bug. This is NOT part of the puzzle. Please report this bug in testsolving feedback so we can fix it."
+
     # runs chatbot input/response interface
     def run(self):
 
@@ -153,12 +174,8 @@ def load_corpora(characters):
     return char_corps
 #    return models
 
-
-if __name__ == "__main__":
-    print 'Please wait...'
+def initialize_bot(chars):
     n = 3
-    chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic']
-#    chars = ['Grande', 'Asimov', 'Marx', 'Einstein']
     char_corps = load_corpora(chars)
     est = lambda fdist, bins: MLEProbDist(fdist)
 #    est = lambda fdist, bins: LidstoneProbDist(fdist, 0.2)
@@ -166,5 +183,25 @@ if __name__ == "__main__":
 #    est = lambda fdist, bins: KneserNeyProbDist(fdist)
     models = {character: NgramModel(n, corp, estimator=est)
               for character, corp in char_corps.iteritems()}
-    bot = ChatBot(chars, models, ngram=n, debug=False)
+    return ChatBot(chars, models, ngram=n, debug=False)
+
+bot1 = {}
+
+def bot1():
+    if bots[1]:
+        return bots[1]
+    else:
+        chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic']
+        return initialize_bot(chars)
+
+def bot2():
+    if bots[2]:
+        return bots[2]
+    else:
+        chars = ['Grande', 'Asimov', 'Marx', 'Einstein']
+        return initialize_bot(chars)
+
+if __name__ == "__main__":
+    print 'Please wait...'
+    bot = initialize_bot1
     bot.run()
