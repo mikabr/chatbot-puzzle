@@ -60,7 +60,7 @@ class ChatBot:
                 if all([c not in string.punctuation for c in response[i]]):
                     first = i
                     break
-            response = response[i:]
+            response = response[first:]
 #            if response[0] in string.punctuation:
 #                response = response[1:]
 
@@ -101,6 +101,7 @@ class ChatBot:
         return self.characters[(self.characters.index(input_character) + 1) % len(self.characters)]
 
     def response(self, inp):
+        print inp
         tokens = nltk.word_tokenize(inp)
         words = filter(lambda word: all([char not in string.punctuation.replace('-', '') for char in word]), tokens)
         if self.debug:
@@ -164,12 +165,12 @@ def load_corpora(characters):
 
     char_corps = {}
     for char in characters:
-        directory = os.path.dirname(__file__) + '/TrainingSets/'
+        directory = os.path.join(os.path.dirname(__file__), 'TrainingSets/')
         assert(char in os.listdir(directory))
         corpus = []
         for datafile in os.listdir(directory + char):
             data = open(directory + char + '/' + datafile, 'r').read()
-            data = nltk.word_tokenize(data)
+            data = nltk.word_tokenize(data.decode('utf-8', errors='ignore'))
             corpus += data
         char_corps[char] = corpus
     return char_corps
@@ -186,25 +187,32 @@ def initialize_bot(chars):
               for character, corp in char_corps.iteritems()}
     return ChatBot(chars, models, ngram=n, debug=False)
 
-bots = {}
 
+class memorize(dict):
+    def __init__(self, func):
+        self.func = func
+
+    def __call__(self, *args):
+        return self[args]
+
+    def __missing__(self, key):
+        result = self[key] = self.func(*key)
+        return result
+
+@memorize
 def bot1():
-    global bots
-    if 1 in bots:
-        return bots[1]
-    else:
-        chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic']
-        return initialize_bot(chars)
+    print 'Initializing bot1'
+    chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic']
+    return initialize_bot(chars)
+    print 'Initialized bot 1'
 
+@memorize
 def bot2():
-    global bots
-    if 2 in bots:
-        return bots[2]
-    else:
-        chars = ['Grande', 'Asimov', 'Marx', 'Einstein']
-        return initialize_bot(chars)
+    print 'Initializing bot2'
+    chars = ['Grande', 'Asimov', 'Marx', 'Einstein']
+    return initialize_bot(chars)
+    print 'Initialized bot 2'
 
 if __name__ == "__main__":
     print 'Please wait...'
-    bot = initialize_bot1
-    bot.run()
+    bot1().run()
