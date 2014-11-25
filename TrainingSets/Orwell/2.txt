@@ -2291,7 +2291,7 @@ weeklies, often inaccurately described as 'penny dreadfuls'. Falling
 strictly within this class there are at present ten papers, the GEM,
 MAGNET, MODERN BOY, TRIUMPH and CHAMPION, all owned by the Amalgamated
 Press, and the WIZARD, ROVER, SKIPPER, HOTSPUR and ADVENTURE, all owned
-by D. C. Thomson &amp; Co. What the circulations of these papers are, I do
+by D. C. Thomson and Co. What the circulations of these papers are, I do
 not know. The editors and proprietors refuse to name any figures, and in
 any case the circulation of a paper carrying serial stories is bound to
 fluctuate widely. But there is no question that the combined public of
@@ -2359,7 +2359,7 @@ There were six of them in the soup! Only one of the six uttered sounds of
 woe and lamentation. But that one, William George Bunter, uttered enough
 for the whole party and a little over.
 
-Harry Wharton &amp; Go. stood in a wrathy and worried group. They were landed
+Harry Wharton and Go. stood in a wrathy and worried group. They were landed
 and stranded, diddled, dished and done! etc., etc., etc.
 
 Here is one from the Gem:
@@ -2396,7 +2396,7 @@ quarter of a column or thereabouts consists of 'Ha! ha! ha!' The slang
 has never been altered, so that the boys are now using slang which is at
 least thirty years out of date. In addition, the various nicknames are
 rubbed in on every possible occasion. Every few lines we are reminded
-that Harry Wharton &amp; Co. are 'the Famous Five', Bunter is always 'the fat
+that Harry Wharton and Co. are 'the Famous Five', Bunter is always 'the fat
 Owl' or 'the Owl of the Remove', Vernon-Smith is always 'the Bounder of
 Greyfriars', Gussy (the Honourable Arthur Augustus D'Arcy) is always 'the
 swell of St Jim's', and so on and so forth. There is a constant, untiring
@@ -2461,13 +2461,13 @@ models. In so far as Greyfriars and St Jim's are like real schools at
 all, they are much more like Tom Brown's Rugby than a modern public
 school. Neither school has an O.T.G., for instance, games are not
 compulsory, and the boys are even allowed to wear what clothes they like.
-But without doubt the main origin of these papers is STALKY &amp; CO. This
+But without doubt the main origin of these papers is STALKY and CO. This
 book has had an immense influence on boys' literature, and it is one of
 those books which have a sort of traditional reputation among people who
 have never even seen a copy of it. More than once in boys' weekly papers
-I have come across a reference to STALKY &amp; CO. in which the word was
+I have come across a reference to STALKY and CO. in which the word was
 spelt 'Storky'. Even the name of the chief comic among the Greyfriars
-masters, Mr Prout, is taken from STALKY &amp; CO., and so is much of the
+masters, Mr Prout, is taken from STALKY and CO., and so is much of the
 slang; 'jape', 'merry','giddy', 'bizney' (business), 'frabjous', 'don't'
 for 'doesn't'--all of them out of date even when GEM and MAGNET started.
 There are also traces of earlier origins. The name 'Greyfriars' is
@@ -2545,12 +2545,12 @@ adults. It is quite common for people to write to the editor and say that
 they have read every number of the GEM or MAGNET for the past thirty
 years. Here, for instance, is a letter from a lady in Salisbury:
 
-I can say of your splendid yams of Harry Wharton &amp; Co. of Greyfriars,
+I can say of your splendid yams of Harry Wharton and Co. of Greyfriars,
 that they never fail to reach a high standard. Without doubt they are the
 finest stories of their type on the market to-day, which is saying a good
 deal. They seem to bring you face to face with Nature. I have taken the
 Magnet from the start, and have followed the adventures of Harry Wharton
-&amp; Co. with rapt interest. I have no sons, but two daughters, and there's
+and Co. with rapt interest. I have no sons, but two daughters, and there's
 always a rush to be the first to read the grand old paper. My husband,
 too, was a staunch reader of the Magnet until he was suddenly taken away
 from us.
@@ -2657,7 +2657,7 @@ cads probably have their following. Loder, for instance, 'the rotter of
 the Sixth', is a cad, but he is also a highbrow and given to saying
 sarcastic things about football and the team spirit. The boys of the
 Remove only think him all the more of a cad for this, but a certain type
-of boy would probably identify with him. Even Racke, Grooke &amp; Co. are
+of boy would probably identify with him. Even Racke, Grooke and Co. are
 probably admired by small boys who think it diabolically wicked to smoke
 cigarettes. (A frequent question in the correspondence column; 'What
 brand of cigarettes does Racke smoke?')
@@ -3414,7 +3414,7 @@ One crying evil of his time that Dickens says very little about is child
 labour. There are plenty of pictures of suffering children in his books,
 but usually they are suffering in schools rather than in factories. The
 one detailed account of child labour that he gives is the description in
-DAVID COPPERFIELD of little David washing bottles in Murdstone &amp; Grinby's
+DAVID COPPERFIELD of little David washing bottles in Murdstone and Grinby's
 warehouse. This, of course, is autobiography. Dickens himself, at the age
 of ten, had worked in Warren's blacking factory in the Strand, very much
 as he describes it here. It was a terribly bitter memory to him, partly
@@ -3427,7 +3427,7 @@ easily thrown away at such an age. A child of excellent abilities and
 with strong powers of observation, quick, eager, delicate, and soon hurt
 bodily or mentally, it seems wonderful to me that nobody should have made
 any sign in my behalf. But none was made; and I became, at ten years old,
-a little labouring hind in the service of Murdstone &amp; Grinby.
+a little labouring hind in the service of Murdstone and Grinby.
 
 And again, having described the rough boys among whom he worked:
 
@@ -3722,7 +3722,7 @@ gritty insistence on 'facts'. What, then, DOES he want? As always, what
 he appears to want is a moralized version of the existing thing--the old
 type of school, but with no caning, no bullying or underfeeding, and not
 quite so much Greek. Doctor Strong's school, to which David Copperfield
-goes after he escapes from Murdstone &amp; Grinby's, is simply Salem House
+goes after he escapes from Murdstone and Grinby's, is simply Salem House
 with the vices left out and a good deal of 'old grey stones' atmosphere
 thrown in:
 
@@ -5935,7 +5935,7 @@ for information or statement. Then first requirement is to have something
 to say, and after that you must say it as well as you can.
 
 In other words, 'purpose' has come back, the younger writers have 'gone
-into politics'. As I have pointed out already, Eliot &amp; Co. are not really
+into politics'. As I have pointed out already, Eliot and Co. are not really
 so non-partisan as Mr MacNeice seems to suggest. Still, it is broadly
 true that in the twenties the literary emphasis was more on technique and
 less on subject matter than it is now.
@@ -5990,8 +5990,8 @@ the masses. Even allowing for the time-lag, Auden and Spender are
 somewhat farther from being popular writers than Joyce and Eliot, let
 alone Lawrence. As before, there are many contemporary writers who are
 outside the current, but there is not much doubt about what is the
-current. For the middle and late thirties, Auden Spender &amp; Co. ARE 'the
-movement', just as Joyce, Eliot &amp; Co. were for the twenties. And the
+current. For the middle and late thirties, Auden Spender and Co. ARE 'the
+movement', just as Joyce, Eliot and Co. were for the twenties. And the
 movement is in the direction of some rather ill-defined thing called
 Communism. As early as 1934 or 1935 it was considered eccentric in
 literary circles not to be more or less 'left', and in another year or
