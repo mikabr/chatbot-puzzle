@@ -60,7 +60,7 @@ class ChatBot:
                 if all([c not in string.punctuation for c in response[i]]):
                     first = i
                     break
-            response = response[i:]
+            response = response[first:]
 #            if response[0] in string.punctuation:
 #                response = response[1:]
 
@@ -99,6 +99,28 @@ class ChatBot:
     # given a character, returns the next character in the characters list (wrapping last to first)
     def pick_responder(self, input_character):
         return self.characters[(self.characters.index(input_character) + 1) % len(self.characters)]
+
+    def response(self, inp):
+        print inp
+        tokens = nltk.word_tokenize(inp)
+        words = filter(lambda word: all([char not in string.punctuation.replace('-', '') for char in word]), tokens)
+        if self.debug:
+            print words
+
+        try:
+            # classify input as character it's most similar to
+            input_character = self.classify_input(words)
+            if self.debug:
+                print input_character
+            if input_character:
+                # deterministically pick character to respond as
+                responder = self.pick_responder(input_character)
+                # generate response from selected character, seeded with user's input
+                return self.generate_response(responder, words)
+            else:
+                return "That's not very interesting..."
+        except IOError:
+            return "Your input caused a bug. This is NOT part of the puzzle. Please report this bug in testsolving feedback so we can fix it."
 
     # runs chatbot input/response interface
     def run(self):
@@ -143,22 +165,19 @@ def load_corpora(characters):
 
     char_corps = {}
     for char in characters:
-        assert(char in os.listdir('TrainingSets/'))
+        directory = os.path.join(os.path.dirname(__file__), 'TrainingSets/')
+        assert(char in os.listdir(directory))
         corpus = []
-        for datafile in os.listdir('TrainingSets/' + char):
-            data = open('TrainingSets/' + char + '/' + datafile, 'r').read()
+        for datafile in os.listdir(directory + char):
+            data = open(directory + char + '/' + datafile, 'r').read()
             data = nltk.word_tokenize(data)
             corpus += data
         char_corps[char] = corpus
     return char_corps
 #    return models
 
-
-if __name__ == "__main__":
-    print 'Please wait...'
+def initialize_bot(chars):
     n = 3
-    chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic']
-#    chars = ['Grande', 'Asimov', 'Marx', 'Einstein']
     char_corps = load_corpora(chars)
     est = lambda fdist, bins: MLEProbDist(fdist)
 #    est = lambda fdist, bins: LidstoneProbDist(fdist, 0.2)
@@ -166,5 +185,34 @@ if __name__ == "__main__":
 #    est = lambda fdist, bins: KneserNeyProbDist(fdist)
     models = {character: NgramModel(n, corp, estimator=est)
               for character, corp in char_corps.iteritems()}
-    bot = ChatBot(chars, models, ngram=n, debug=False)
-    bot.run()
+    return ChatBot(chars, models, ngram=n, debug=False)
+
+
+class memorize(dict):
+    def __init__(self, func):
+        self.func = func
+
+    def __call__(self, *args):
+        return self[args]
+
+    def __missing__(self, key):
+        result = self[key] = self.func(*key)
+        return result
+
+@memorize
+def bot1():
+    print 'Initializing bot1'
+    chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic']
+    return initialize_bot(chars)
+    print 'Initialized bot 1'
+
+@memorize
+def bot2():
+    print 'Initializing bot2'
+    chars = ['Grande', 'Asimov', 'Marx', 'Einstein']
+    return initialize_bot(chars)
+    print 'Initialized bot 2'
+
+if __name__ == "__main__":
+    print 'Please wait...'
+    bot1().run()
