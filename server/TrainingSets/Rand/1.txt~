@@ -98,7 +98,7 @@ searched and analyzed, the copyright letters written, etc.  This
 projected audience is one hundred million readers.  If our value
 per text is nominally estimated at one dollar then we produce $2
 million dollars per hour this year as we release thirty-two text
-files per month, or 384 more Etexts in 1998 for a total of 1500+
+files per month, or 384 more Etexts in 1998 for a total of 1500
 If these reach just 10% of the computerized population, then the
 total should reach over 150 billion Etexts given away.
 
@@ -305,9 +305,9 @@ What follows is a complete comparison, including the headers.
 *******The Project Gutenberg Etext of Anthem, by Ayn Rand*******
 #1 in our series by Ayn Rand
 
-This is version [-10,-] {+10a,+} you may also want to [-try-] {+look at+} version [-10a,-] {+10,+}
+This is version [-10,-] {10a,+} you may also want to [-try-] {+look at+} version [-10a,-] {+10,+}
 with
-[-wider margins-] {+narrower margins,+} and slightly different [-wordings.-] {+wording.+}
+[-wider margins-] {narrower margins,+} and slightly different [-wordings.-] {+wording.+}
 
 
 Copyright laws are changing all over the world, be sure to check
@@ -360,10 +360,10 @@ March, 1998  [Etext #1250]
 
 *******The Project Gutenberg Etext of Anthem, by Ayn Rand*******
 [-******This-]
-{+*****This+} file should be named [-anthm10.txt-] {+anthm10a.txt+} or [-anthm10.zip******-] {+anthm10a.zip*****+}
+{*****This+} file should be named [-anthm10.txt-] {+anthm10a.txt+} or [-anthm10.zip******-] {+anthm10a.zip*****+}
 
 Corrected EDITIONS of our etexts get a new NUMBER, anthm11.txt
-VERSIONS based on separate sources get new LETTER, [-anthm10a.txt-] {+anthm10b.txt+}
+VERSIONS based on separate sources get new LETTER, [-anthm10a.txt-] {anthm10b.txt+}
 
 
 This Etext was prepared by an anonymous group of volunteers.
@@ -400,7 +400,7 @@ searched and analyzed, the copyright letters written, etc.  This
 projected audience is one hundred million readers.  If our value
 per text is nominally estimated at one dollar then we produce $2
 million dollars per hour this year as we release thirty-two text
-files per month, or 384 more Etexts in 1998 for a total of 1500+
+files per month, or 384 more Etexts in 1998 for a total of 1500
 If these reach just 10% of the computerized population, then the
 total should reach over 150 billion Etexts given away.
 
@@ -612,7 +612,7 @@ PART ONE-]
 
 
 
-{+Chapter One+}
+{Chapter One+}
 
 It is a sin to write this. It is a sin to think words no others
 think and to put them down upon a paper no others are to see. It
@@ -628,7 +628,7 @@ awaits us if it be discovered we know not, for no such crime has
 come in the memory of men and there are no laws to provide for it.
 
 It is dark here. The flame of the candle stands still in the air.
-Nothing moves in this tunnel save our [-hand-] {+hands+} on the paper. We are
+Nothing moves in this tunnel save our [-hand-] {hands+} on the paper. We are
 alone here under the earth. It is a fearful word, alone. The laws
 say that none among men may be alone, ever and at any time, for
 this is the great transgression and the root of all evil. But we
@@ -644,11 +644,11 @@ it be discovered. But this matters not. It matters only that the
 light is precious and we should not waste it to write when we
 need it for that work which is our crime. Nothing matters save
 the work, our secret, our evil, our precious work. Still, we must
-also write, for--may the [-council-] {+Council+} have mercy upon us!--we wish to
+also write, for--may the [-council-] {Council+} have mercy upon us!--we wish to
 speak for once to no ears but our own.
 
 Our name is Equality 7-2521, as it is written on the iron
-bracelet which all men wear on [-the-] {+their+} left wrists with their names
+bracelet which all men wear on [-the-] {their+} left wrists with their names
 upon it. We are twenty-one years old. We are six feet tall, and
 this is a burden, for there are not many men who are six feet
 tall. Ever have the Teachers and the Leaders pointed to us and
@@ -664,20 +664,20 @@ fear, that we know and do not resist.
 
 We strive to be like all our brother men, for all men must be
 alike. Over the portals of the Palace of the World Council, there
-are words cut in the marble, which we {+are required to+} repeat to
+are words cut in the marble, which we {are required to+} repeat to
 ourselves whenever we are [-tempted:
 
 
     "WE ARE ONE IN ALL AND ALL IN ONE.
     THERE ARE NO MEN BUT ONLY THE GREAT _WE_,
-    ONE, INDIVISIBLE AND FOREVER."-] {+tempted:--"We are one in all and all in one.
+    ONE, INDIVISIBLE AND FOREVER."-] {tempted:--"We are one in all and all in one.
 
-There are no men but only the great WE, One, indivisible and forever."--+}
+There are no men but only the great WE, One, indivisible and forever."--}
 
 We repeat this to ourselves, but it helps us not.
 
 These words were cut long ago. There is green mould in the
-grooves of the letters and yellow streaks [-on-] {+in+} the marble, which
+grooves of the letters and yellow streaks [-on-] {in+} the marble, which
 come from more years than men could count. And these words are
 the truth, for they are written on the Palace of the World
 Council, and the World Council is the body of all truth. Thus has
@@ -699,7 +699,7 @@ All men are good and wise. It is only we, Equality 7-2521, we
 alone who were born with a curse. For we are not like our
 brothers. And as we look back upon our life, we see that it has
 ever been thus and that it has brought us step by step to our
-last, supreme transgression, our [-crime-] {+crimes+} of crimes hidden here
+last, supreme transgression, our [-crime-] {crimes+} of crimes hidden here
 under the ground.
 
 We remember the Home of the Infants where we lived till we were
@@ -739,15 +739,15 @@ upon us.
 
 So we fought against this curse. We tried to forget our lessons,
 but we always remembered. We tried not to understand what the [-Teachers-]
-{+teachers+} taught, but we always understood it before the Teachers
-had spoken. We looked upon Union [-5-3992,-] {+5-3992+} who were a pale boy with
+{teachers+} taught, but we always understood it before the Teachers
+had spoken. We looked upon Union [-5-3992,-] {5-3992+} who were a pale boy with
 only half a brain, and we tried to say and do as they did, that
 we might be like them, like Union 5-3992, but somehow the
 Teachers knew that we were not. And we were lashed more often
 than all the other children.
 
 The Teachers were just, for they had been appointed by the
-Councils, and the Councils are the [-voice-] {+voices+} of all justice, for
+Councils, and the Councils are the [-voice-] {voices+} of all justice, for
 they are the voice of all men. And if sometimes, in the secret
 darkness of our heart, we regret that which befell us on our
 fifteenth birthday, we know that it was through our own guilt. We
@@ -756,11 +756,11 @@ Teachers. The Teachers had said to us all:
 
 "Dare not choose in your minds the work you would like to do
 when you leave the Home of the Students. You shall do
-[-that which-] {+what+} the
-Council of [-Vocations-] {+Vocation+} shall prescribe for you. For the Council of
+[-that which-] {what+} the
+Council of [-Vocations-] {Vocation+} shall prescribe for you. For the Council of
 Vocations knows in its great wisdom where you are needed by your
 brother men, better than you can know it in your unworthy little
-minds. And if you are not needed by your brother [-man,-] {+men,+} there is no
+minds. And if you are not needed by your brother [-man,-] {men,+} there is no
 reason for you to burden the earth with your bodies."
 
 We knew this well, in the years of our childhood, but our curse
@@ -768,12 +768,12 @@ broke our will. We were guilty and we confess it here: we were
 guilty of the great Transgression of Preference. We preferred
 some work and some lessons to the others. We did not listen well
 to the history of all the Councils elected since the Great
-Rebirth. But we [-love-] {+loved+} the Science of Things. We wished to know.
-We wished to know about all the things which [-make-] {+makes+} the earth
+Rebirth. But we [-love-] {loved+} the Science of Things. We wished to know.
+We wished to know about all the things which [-make-] {makes+} the earth
 around us. We asked so many questions that the Teachers forbade it.
 
 We think that there are mysteries in the
-[-sky,-] {+sky+} and [-under-] the water and in
+[-sky,-] {sky+} and [-under-] the water and in
 the plants which grow. But the Council of Scholars has said that
 there are no mysteries, and the Council of Scholars knows all
 things. And we learned much from our Teachers. We learned that
@@ -782,7 +782,7 @@ causes the day and [-the-] night. We learned the names of all the winds
 which blow over the seas and push the sails of our great ships.
 We learned how to bleed men to cure them of all ailments.
 
-We [-love-] {+loved+} the Science of Things. And in the darkness, in the
+We [-love-] {loved+} the Science of Things. And in the darkness, in the
 secret hour, when we awoke in the night and there were no brothers
 around us, but only their shapes in the beds and their snores,
 we closed our eyes, and we held our lips shut, and we
@@ -790,7 +790,7 @@ stopped our breath, that no shudder might let our brothers see or
 hear or guess, and we thought that we wished to be sent to the
 Home of the Scholars when our time would come.
 
-All {+of+} the great modern inventions come from the Home of the
+All {of+} the great modern inventions come from the Home of the
 Scholars, such as the newest one, which was found only a hundred
 years ago, of how to make candles from wax and string; also, how
 to make glass, which is put in our windows to protect us from the
@@ -816,22 +816,22 @@ punished when the Council of Vocations came to give us our life
 Mandates which tell those who reach their fifteenth year what
 their work is to be for the rest of their days.
 
-The Council of Vocations came {+in+} on the first day of spring, and
+The Council of Vocations came {in+} on the first day of spring, and
 they sat in the great hall. And we who were fifteen and all the
-Teachers came into the great hall. And the Council of [-vocations-] {+Vocations+}
+Teachers came into the great hall. And the Council of [-vocations-] {Vocations+}
 sat on a high dais, and they had but two words to speak to each
 of the Students. They called the Students' names, and when the [-Students-]
-{+students+} stepped before them, one after another, the Council
+{students+} stepped before them, one after another, the Council
 said: "Carpenter" or "Doctor" or "Cook" or "Leader." Then each
 Student raised their right arm and said: "The will of our
 brothers be done."
 
 Now if the Council [-has-] said "Carpenter" or "Cook," the Students so
-assigned go to [-work,-] {+work+} and [-they-] do not study any further. But if the
-Council has said "Leader," then those [-Students-] {+students+} go into the Home
+assigned go to [-work,-] {work+} and [-they-] do not study any further. But if the
+Council has said "Leader," then those [-Students-] {students+} go into the Home
 of the Leaders, which is the greatest house in the City, for it
-has three stories. And there they study for many years, {+so that
-they may become candidates+} and be elected to the City Council and
+has three stories. And there they study for many years, {so that
+they may become candidates} and be elected to the City Council and
 the State Council and the World Council--by a free and general
 vote of all men. But we wished not to be a Leader, even though it
 is a great honor. We wished to be a Scholar.
@@ -839,7 +839,7 @@ is a great honor. We wished to be a Scholar.
 So we awaited our turn in the great hall and then we heard the
 Council of Vocations call our name: "Equality 7-2521." We walked
 to the dais, and our legs did not tremble, and we looked up at
-the {+Council. There were five members of the+} Council, three of the
+the {Council. There were five members of the+} Council, three of the
 male gender and two of the female. Their hair was white and their
 faces were cracked as the clay of a dry river bed. They were old.
 They seemed older than the marble of the Temple of the World
@@ -851,7 +851,7 @@ moved, for the lips of the oldest did not move as they said:
 "Street Sweeper."
 
 We felt the cords of our neck grow tight as our head rose higher
-to look upon the faces of the Council, and we were happy. We [-knew-] {+know+}
+to look upon the faces of the Council, and we were happy. We [-knew-] {know+}
 we had been guilty, but now we had a way to atone for it. We
 would accept our Life Mandate, and we would work for our
 brothers, gladly and willingly, and we would erase our sin
@@ -863,13 +863,13 @@ clearest, the steadiest voice in the hall that day, and we said:
 "The will of our brothers be done."
 
 And we looked straight into the eyes of the Council, but their
-eyes were as cold {+as+} blue glass buttons.
+eyes were as cold {as+} blue glass buttons.
 
 So we went into the Home of the Street Sweepers. It is a grey
 house on a narrow street. There is a sundial in its courtyard, by
 which the Council of the Home can tell the hours of the day and
 when to ring the bell. When the bell rings, we all arise from our
-beds.  [-They-] {+The+} sky is green and cold in our windows to the east. The
+beds.  [-They-] {The+} sky is green and cold in our windows to the east. The
 shadow on the sundial marks off a half-hour while we dress and
 eat our breakfast in the dining hall, where there are five long
 tables with twenty clay plates and twenty clay cups on each
@@ -895,7 +895,7 @@ the City Theatre for three hours of Social Recreation. There a
 play is shown upon the stage, with two great choruses from the
 Home of the Actors, which speak and answer all together, in two
 great voices. The plays are about toil and how good it is. Then
-we walk back to the Home [-is-] {+in+} a straight column. The sky is like a
+we walk back to the Home [-is-] {in+} a straight column. The sky is like a
 black sieve pierced by silver drops that tremble, ready to burst
 through. The moths beat against the street lanterns. We go to our
 beds and we sleep, till the bell rings again. The sleeping halls
@@ -910,12 +910,12 @@ in summer and they sit by the fire in winter. They do not speak
 often, for they are weary. The Old Ones know that they are soon
 to die. When a miracle happens and some live to be forty-five,
 they are the
-[-ancient ones,-] {+Ancient Ones,+} and [-the-] children stare at them when
+[-ancient ones,-] {Ancient Ones,+} and [-the-] children stare at them when
 passing by the Home of the Useless. Such is to be our life, as
 that of all our brothers and of the brothers who came before us.
 
 Such would have been our life, had we not committed our crime
-which {+has+} changed all things for us. And it was our curse which
+which {has+} changed all things for us. And it was our curse which
 drove us to our crime. We had been a good Street Sweeper and like
 all our brother Street Sweepers, save for our cursed wish to
 know. We looked too long at the stars at night, and at the trees
@@ -928,7 +928,7 @@ discovery.
 
 It was on a day of the spring before last. We Street Sweepers
 work in brigades of three, and we were with Union 5-3992, they of
-the [-half brain,-] {+half-brain,+} and with International 4-8818. Now Union 5-3992
+the [-half brain,-] {half-brain,+} and with International 4-8818. Now Union 5-3992
 are a sickly lad and sometimes they are stricken with
 convulsions, when their mouth froths and their eyes turn white.
 But International 4-8818 are different. They are a tall, strong
@@ -943,12 +943,12 @@ who are permitted to draw pictures, so International 4-8818 were
 sent to the Home of the Street Sweepers, like ourselves.
 
 International 4-8818 and we are friends. This is an evil thing to
-say, for it is a {+great+} transgression, the great Transgression of
+say, for it is a {great+} transgression, the great Transgression of
 Preference, to love any among men better than the others, since
 we must love all men and all men are our friends. So
 International 4-8818 and we have never spoken of it. But we know.
 We know, when we look into each other's eyes. And when we look
-thus without [-words,-] {+works,+} we both know other things also, strange
+thus without [-words,-] {works,+} we both know other things also, strange
 things for which there are no words, and these things frighten us.
 
 So on that day of the spring before last, Union 5-3992 were stricken
@@ -962,9 +962,9 @@ must not think.
 
 We were gathering the papers and the rags which the wind had
 blown from the Theatre, when we saw an iron bar among the weeds.
-It was old and rusted by [-man-] {+many+} rains. We pulled with all our
+It was old and rusted by [-man-] {many+} rains. We pulled with all our
 strength, but we could not move it. So we called International [-4-8818,-]
-{+4-8818+} and together we scraped the earth around the bar. Of a
+{4-8818+} and together we scraped the earth around the bar. Of a
 sudden the earth fell in before us, and we saw an old iron grill
 over a black hole.
 
@@ -987,15 +987,15 @@ But we said: "We shall go, none the less."
 
 They were frightened, but they stood by and watched us go.
 
-We hung on the iron rings with our hands and {+our+} feet. We could
+We hung on the iron rings with our hands and {our+} feet. We could
 see nothing below us. And above us the hole [-open-] upon the sky grew
 smaller and smaller, till it came to be the size of a button. But
 still we went down. Then our foot touched the ground. We rubbed
 our eyes, for we could not see. Then our eyes became used to the
 darkness,
-[-but-] {+and+} we could not believe what we saw.
+[-but-] {and+} we could not believe what we saw.
 
-No [-men-] {+man+} known to us could have built this place, nor the men known
+No [-men-] {man+} known to us could have built this place, nor the men known
 to our brothers who lived before us, and yet it was built by men.
 It was a great tunnel. Its walls were hard and smooth to the
 touch; it felt like stone, but it was not stone. On the ground
@@ -1026,7 +1026,7 @@ stepped back.
 But we could not speak and we stood looking upon them.
 
 They backed away, as if they dared not touch us. Then they
-smiled, but it was {+a+} not a gay smile; it was lost and pleading.
+smiled, but it was {a+} not a gay smile; it was lost and pleading.
 But still we could not speak. Then they said:
 
 "We shall report our find to the City Council and both of us
@@ -1050,13 +1050,13 @@ They stood straight [-all-] of a sudden and they answered:
 
 "Then," we said, "keep silent. This place is ours. This place
 belongs to us, Equality 7-2521, and to
-[-no-] {+not+} other men on earth.
+[-no-] {not+} other men on earth.
 And if ever we surrender it, we shall surrender our life with it
 also."
 
-Then we saw that [-they-] {+the+} eyes of International 4-8818 were full to
-the lids with tears {+with tears+} they dared not [-drop.
-They-] {+drop, they+}
+Then we saw that [-they-] {the+} eyes of International 4-8818 were full to
+the lids with tears {with tears+} they dared not [-drop.
+They-] {drop, they+}
 whispered, and their voice trembled, so that their words lost all
 shape:
 
@@ -1073,7 +1073,7 @@ and the Street Sweepers sit in the City Theatre, we, Equality
 7-2521, steal out and run through the darkness to our place. It
 is easy to leave the Theatre; when the candles are blown [-out-] and the
 Actors come onto the stage, no eyes can see us as we crawl under
-our seat and under the cloth of the tent.  [-Later,-] {+Later+} it is easy to
+our seat and under the cloth of the tent.  [-Later,-] {Later+} it is easy to
 steal through the shadows and fall in line next to International
 4-8818, as the column leaves the Theatre. It is dark in the
 streets and there are no men about, for no men may walk through
@@ -1103,7 +1103,7 @@ these two years we have learned more than we had learned in the
 ten years of the Home of the Students.
 
 We have learned things which are not in the scripts. We have
-solved {+the+} secrets of which the Scholars have no knowledge. We
+solved {the+} secrets of which the Scholars have no knowledge. We
 have come to see how great is the unexplored, and many lifetimes
 will not bring us to the end of our quest.  [-But we
 wish no end to our quest.-] We wish nothing, save
@@ -1116,18 +1116,18 @@ brothers. We are defying the will of our Councils. We alone, of
 the thousands who walk this earth, we alone in this hour are
 doing a work which has no purpose save that we wish to do it. The
 evil of our crime is not for the human mind to probe. The nature
-of our punishment, if it be discovered, is not {+free+} for the human
+of our punishment, if it be discovered, is not {free+} for the human
 heart to ponder. Never, not in the memory of the Ancient Ones'
 Ancients, never have men done [-that
-which-] {+what+} we are doing.
+which-] {what+} we are doing.
 
 And yet there is no shame in us and no regret. We say to
 ourselves that we are a wretch and a traitor. But we feel no
 burden upon our spirit and no fear in our heart. And it seems to
 us that our spirit is clear as a lake troubled by no eyes save those
 of the sun. And in our [-heart--
-strange-] {+heart--strange+} are the ways of [-evil!--in-] {+evil!--
-in+} our heart there is the first peace we have known in twenty years.
+strange-] {heart--strange+} are the ways of [-evil!--in-] {+evil!--
+in} our heart there is the first peace we have known in twenty years.
 
 
 
@@ -1136,7 +1136,7 @@ in+} our heart there is the first peace we have known in twenty years.
 
 
 
-{+Chapter Two+}
+{Chapter Two+}
 
 Liberty 5-3000 . . . Liberty five-three thousand . . . Liberty 5-3000 . . . .
 
@@ -1159,7 +1159,7 @@ spangles. Women work in the fields, and their white tunics in the
 wind are like the wings of sea-gulls beating over the black
 soil.
 
-And there [-is-] {+it+} was that we saw Liberty 5-3000 walking along the
+And there [-is-] {it+} was that we saw Liberty 5-3000 walking along the
 furrows. Their body was straight and thin as a blade of iron.
 Their eyes were dark and hard and glowing, with no fear in them,
 no kindness and no guilt. Their hair was golden as the sun; their
@@ -1187,8 +1187,8 @@ Then one day they came close to the hedge, and suddenly they
 turned to us. They turned in a whirl and the movement of
 their body stopped, as if slashed off, as suddenly as it had started.
 They stood still as a stone, and they looked straight upon us,
-straight [-into-] {+in+} our eyes. There was no smile on their face, and no
-welcome. But their face was [-taut,-] {+taught,+} and their eyes were dark.
+straight [-into-] {in+} our eyes. There was no smile on their face, and no
+welcome. But their face was [-taut,-] {taught,+} and their eyes were dark.
 Then they turned as swiftly, and they walked away from us.
 
 But the following day, when we came to the road, they smiled.
@@ -1197,7 +1197,7 @@ fell back, and their arms fell, as if their arms and their thin
 white neck were stricken suddenly with a great lassitude. They
 were not looking upon us, but upon the sky. Then they glanced at
 us over their shoulder,
-[-as-] {+and+} we felt as if a hand had touched our
+[-as-] {and+} we felt as if a hand had touched our
 body, slipping softly from our lips to our feet.
 
 Every morning thereafter, we greeted each other with our eyes. We
@@ -1214,14 +1214,14 @@ answer, and no men can suspect.
 We do not wonder at this new sin of ours. It is our second
 Transgression of Preference, for we do not think of all our
 brothers, as we must, but only of one, and their name is Liberty
-5-3000. We do not know why we think of them. We [-do-] {+don+} not know why,
+5-3000. We do not know why we think of them. We [-do-] {don+} not know why,
 when we think of them, we feel [-all-] of a sudden that the earth is good
 and that it is not a burden to live.
 
 We do not think of them as Liberty 5-3000 any longer. We have
 given them a name in our thoughts. We call them the Golden One.
-But it is a sin to give men {+other+} names which distinguish them
-from other men. Yet we call them the Golden [-One,-] {+one,+} for they are not
+But it is a sin to give men {other+} names which distinguish them
+from other men. Yet we call them the Golden [-One,-] {one,+} for they are not
 like the others. The Golden One are not like the others.
 
 And we take no heed of the law which says that men may not think
@@ -1230,13 +1230,13 @@ spring when all the men older than twenty and all the women older
 than eighteen are sent for one night to the City Palace of
 Mating. And each of the men have one of the women assigned to
 them
-[-by-] {+buy+} the Council of Eugenics. Children are born each winter,
+[-by-] {buy+} the Council of Eugenics. Children are born each winter,
 but women never see their children and children never know their
 parents. Twice have we been sent to the Palace of Mating, but it
 is an ugly and shameful matter, of which we do not like to think.
 
 We had broken so many laws, and today we have broken one more.  [-Today,-]
-{+Today+} we spoke to the Golden One.
+{Today+} we spoke to the Golden One.
 
 The other women were far off in the field, when we stopped at the
 hedge by the side of the road. The Golden One were kneeling alone
@@ -1252,7 +1252,7 @@ Then the Golden One rose and walked to the hedge, as if they had
 heard a command in our eyes. The two other Street Sweepers of our
 brigade were a hundred paces away down the road. And we thought
 that International 4-8818 would not betray us, and Union 5-3992
-would not understand. So we looked straight upon the [-Golden One,-] {+golden one,+}
+would not understand. So we looked straight upon the [-Golden One,-] {golden one,+}
 and we saw the shadows of their lashes on their white cheeks and
 the sparks of sun on their lips. And we said:
 
@@ -1350,7 +1350,7 @@ word steals into our mind, as we look upon our brothers, and that
 word is fear.
 
 There is fear hanging in the air of the sleeping halls, and in
-the air of the streets. Fear walks through the [-City,-] {+city,+} fear without
+the air of the streets. Fear walks through the [-City,-] {city,+} fear without
 name, without shape. All men feel it and none dare to speak.
 
 We feel it also, when we are in the Home of the Street Sweepers.
@@ -1359,7 +1359,7 @@ under the ground. There is no odor of men. And these three hours
 give us strength for our hours above the ground.
 
 Our body is betraying us, for the Council of the Home looks with
-suspicion upon us. It is not good to feel [-too-] {+to+} much joy nor to be
+suspicion upon us. It is not good to feel [-too-] {to+} much joy nor to be
 glad that our body lives. For we matter not and it must not
 matter to us whether we live or die, which is to be as our
 brothers will it. But we, Equality 7-2521, are glad to be living.
@@ -1368,7 +1368,7 @@ If this is a vice, then we wish no virtue.
 Yet our brothers are not like us. All is not well with our
 brothers. There are Fraternity 2-5503, a quiet boy with wise,
 kind eyes, who cry suddenly, without reason, in the midst of day
-or night, and their body shakes with sobs {+so+} they cannot explain.
+or night, and their body shakes with sobs {so+} they cannot explain.
 There are Solidarity 9-6347, who are a bright youth, without fear
 in the day; but they scream in their sleep, and they scream:
 "Help us! Help us! Help us!" into the night, in a voice which
@@ -1378,7 +1378,7 @@ And as we all undress at night, in the dim light of [-the-] candles, our
 brothers are silent, for they dare not speak the thoughts of
 their minds. For all must agree with all, and they cannot know if
 their thoughts are the thoughts of all, and so they fear to
-speak. And they are glad when {+the+} candles are blown for the
+speak. And they are glad when {the+} candles are blown for the
 night. But we, Equality 7-2521, look through the window upon the
 sky, and there is peace in the sky, and cleanliness, and dignity.
 And beyond the City there lies the plain, and beyond the plain,
@@ -1395,7 +1395,7 @@ or reason. These men do not return. They perish from hunger and
 from the claws of the wild beasts which roam the Forest. But our
 Councils say [-that-] this is only a legend. We have heard that there are
 many Uncharted Forests over the land, among the Cities.
-[-And-] {+and+} it is
+[-And-] {and+} it is
 whispered that they have grown over the ruins of many cities of
 the Unmentionable Times. The trees have swallowed the ruins, and
 the bones under the ruins, and all the things which perished.
@@ -1406,25 +1406,25 @@ how it came to pass that these secrets were lost to the world. We
 have heard the legends of the great fighting, in which many men
 fought on one side and only a few on the other. These few were
 the Evil Ones and they were conquered. Then great fires raged
-over the land. And in these fires the Evil Ones were {+burned. And
+over the land. And in these fires the Evil Ones were {burned. And
 the fire which is called the Dawn of the Great Rebirth, was the
-Script Fire where all the scripts of the Evil Ones were+} burned,
+Script Fire where all the scripts of the Evil Ones were} burned,
 and with them all the words of the Evil Ones. Great mountains of
 flame stood in the squares of the Cities for three months. Then
 came the Great Rebirth.
 
-The words of the Evil [-Ones . . .-] {+Ones...+} The words of the Unmentionable [-Times . . .-]
-{+Times...+} What are the words which we have lost?
+The words of the Evil [-Ones . . .-] {Ones...+} The words of the Unmentionable [-Times . . .-]
+{Times...+} What are the words which we have lost?
 
 May the Council have mercy upon us! We had no wish to write such
-a question, and we knew [-no-] {+not+} what we were doing till we had
+a question, and we knew [-no-] {not+} what we were doing till we had
 written it. We shall not ask this question and we shall not
 think it. We shall not call death upon our head.
 
-And [-yet . . .-] {+yet...+} And [-yet . . .-] {+yet...+}
+And [-yet . . .-] {yet...+} And [-yet . . .-] {+yet...+}
 
 There is some word, one single word which is not in the language
-of men, but which [-had-] {+has+} been. And this is the Unspeakable Word,
+of men, but which [-had-] {has+} been. And this is the Unspeakable Word,
 which no men may speak nor hear. But sometimes, and it is rare,
 sometimes, somewhere, one among men find that word. They find it
 upon scraps of old manuscripts or cut into the fragments of
@@ -1438,12 +1438,12 @@ years, and it haunts us, and follows us, and it gives us no rest.
 We were a child then, ten years old. And we stood in the great
 square with all the children and all the men of the City, sent to
 behold the burning. They brought the Transgressor out into the
-square and they led [-them-] {+him+} to the pyre. They had torn out the tongue
+square and they led [-them-] {him+} to the pyre. They had torn out the tongue
 of the Transgressor, so that they could speak no longer. The
 Transgressor were young and tall. They had hair of gold and eyes
 blue as morning. They walked to the pyre, and their step did not
 falter. And of all the faces on that square, of all the faces
-which shrieked and screamed and spat curses upon them, [-their-] {+theirs+} was
+which shrieked and screamed and spat curses upon them, [-their-] {theirs+} was
 the calmest and [-the-] happiest face.
 
 As the chains were wound over their body at the stake, and a
@@ -1464,15 +1464,15 @@ us. But it seemed to us that the eyes of the Transgressor had
 chosen us from the crowd and were looking straight upon us. There
 was no pain in their eyes and no knowledge of the agony of their
 body. There was only joy in them, and pride, a pride holier than
-{+it+} is fit for human pride to be. And it seemed as if these eyes
+{it+} is fit for human pride to be. And it seemed as if these eyes
 were trying to tell us something through the flames, to send into
 our eyes some word without sound. And it seemed as if these eyes
 were begging us to gather that word and not to let it go from us
 and from the earth. But the flames rose and we could not guess
-the [-word. . . .-] {+word....+}
+the [-word. . . .-] {word....+}
 
-What--even if we have to burn for it like the Saint of the [-Pyre--what-] {+pyre
---what+} is the Unspeakable Word?
+What--even if we have to burn for it like the Saint of the [-Pyre--what-] {pyre
+--what} is the Unspeakable Word?
 
 
 
@@ -1481,28 +1481,28 @@ What--even if we have to burn for it like the Saint of the [-Pyre--what-] {+pyre
 
 
 
-{+Chapter Three+}
+{Chapter Three+}
 
 We, Equality 7-2521, have discovered a new power of nature. And
 we have discovered it alone, and we [-alone-] are to know it.
 
 It is said. Now let us be lashed for it, if we must. The Council
 of Scholars has said that we all know the things which exist and
-therefore {+all+} the things which are not known by all do not exist.
+therefore {all+} the things which are not known by all do not exist.
 But we think that the Council of Scholars is blind. The secrets
 of this earth are not for all men to see, but only for those who
 will seek them. We know, for we have found a secret unknown to
 all our brothers.
 
-We know not what this power is nor whence [-is-] {+it+} comes. But we know
+We know not what this power is nor whence [-is-] {it+} comes. But we know
 its nature, we have watched it and worked with it. We saw it
 first two years ago. One night, we were cutting open the body of
-a dead frog when we [-saw-] {+say+} its leg jerking. It was dead, yet it
+a dead frog when we [-saw-] {say+} its leg jerking. It was dead, yet it
 moved. Some power unknown to men was making it move. We could not
 understand it. Then, after many tests, we found the answer. The
 frog had been hanging on a wire of copper; and it had been the
 metal of our knife which had sent
-[-the-] {+a+} strange power to the copper
+[-the-] {a+} strange power to the copper
 through the brine of the frog's body. We put a piece of copper
 and a piece of zinc into a jar of brine, we touched a wire to
 them, and there, under our fingers, was a miracle which had never
@@ -1520,14 +1520,14 @@ can change; yet our new power defies all laws. We found that it
 causes lightning, and never have men known what causes lightning.
 In thunderstorms, we raised a tall rod of iron by the side of our
 hole, and we watched it from below. We have seen the
-[-lightning-] {+lightening+}
+[-lightning-] {lightening+}
 strike it again and again. And now we know that metal draws the
 power of the sky, and that metal can be made to give it forth.
 
 We have built strange things with this discovery of ours. We used
 for it the copper wires which we found here under the ground. We
 have walked the length of our tunnel, with a candle lighting the
-way. We could go no farther [-that-] {+than+} half a mile, for earth and rock
+way. We could go no farther [-that-] {than+} half a mile, for earth and rock
 had fallen at both ends. But we gathered all the things we found
 and we brought them to our work place. We found strange boxes
 with bars of metal inside, with many cords and strands and coils
@@ -1541,7 +1541,7 @@ power of the sky, and these things had some relation to it. We do
 not know, but we shall learn. We cannot stop now, even though it
 frightens us that we are alone in our knowledge.
 
-No single one can possess greater wisdom  [-that-] {+than+} the many Scholars
+No single one can possess greater wisdom  [-that-] {than+} the many Scholars
 who are elected by all men for their wisdom. Yet we can. We do.
 We have fought against saying it, but now it is said. We do not
 care. We forget all men, all laws and all things save our metals
@@ -1555,21 +1555,21 @@ lies before us, and what care we if we must travel it alone!
 
 
 
-{+Chapter Four+}
+{Chapter Four+}
 
 Many days passed before we could speak to the Golden One again.
 But then came the day when the sky turned white, as if the sun
 had burst and spread its flame in the air, and the fields lay
-still without breath, and the dust of the road [-was-] {+what+} white in the
+still without breath, and the dust of the road [-was-] {what+} white in the
 glow. So the women of the field were weary, and they tarried over
 their work, and they were far from the road when we came. But the
-Golden [-One-] {+one+} stood alone at the hedge, waiting. We stopped and we
+Golden [-One-] {one+} stood alone at the hedge, waiting. We stopped and we
 saw that their eyes, so hard and scornful to the world, were
-looking at us [-at-] {+as+} if they would obey any word we might speak.
+looking at us [-at-] {as+} if they would obey any word we might speak.
 
 And we said:
 
-"We have [-give-] {+given+} you a name in our thoughts, Liberty 5-3000."
+"We have [-give-] {given+} you a name in our thoughts, Liberty 5-3000."
 
 "What is our name?" they asked.
 
@@ -1591,14 +1591,14 @@ For a long time we could not speak. Then we said:
 "But you think such thoughts as these and you wish us to think
 them."
 
-We [-look-] {+looked+} into their {+eyes+} and we could not lie.
+We [-look-] {looked+} into their {+eyes+} and we could not lie.
 
 "Yes," we whispered, and they smiled, and then we said: "Our
 dearest one, do not obey us."
 
 They stepped back, and their eyes were wide and still.
 
-"Speak [-these-] {+those+} words again," they whispered.
+"Speak [-these-] {those+} words again," they whispered.
 
 "Which words?" we asked. But they did not answer, and we knew it.
 
@@ -1624,7 +1624,7 @@ drink. Are you thirsty?"
 
 [-"Yes,"-]
 
-{+"Yes,+} we answered, "but we cannot cross the hedge."
+{"Yes,+} we answered, "but we cannot cross the hedge."
 
 "We shall bring the water to you," they said.
 
@@ -1633,7 +1633,7 @@ hands, they rose and they held the water out to our lips.
 
 We do not know if we drank that water. We only knew suddenly that
 their hands were empty, but we were still holding our lips to
-their hands, and that they knew [-it,-] {+it+} but did not move.
+their hands, and that they knew [-it,-] {it+} but did not move.
 
 We raised our head and stepped back. For we did not understand
 what had made us do this, and we were afraid to understand it.
@@ -1641,7 +1641,7 @@ what had made us do this, and we were afraid to understand it.
 And the Golden One stepped back, and stood looking upon their
 hands in wonder. Then the Golden One moved away, even though no
 others were coming, and they
-[-moved,-] {+moved+} stepping back, as if they
+[-moved,-] {moved+} stepping back, as if they
 could not turn from us, their arms bent before them, as if they
 could not lower their hands.
 
@@ -1652,14 +1652,14 @@ could not lower their hands.
 
 
 
-{+Chapter Five+}
+{Chapter Five+}
 
 We made it. We created it. We brought it forth from the night of
 the ages. We alone. Our hands. Our mind. Ours alone and only.
 
 We know not what we are saying. Our head is reeling. We look upon
-the light which we [-have-] {+had+} made. We shall be forgiven for anything we
-say [-tonight.-] {+tonight .+} . . .
+the light which we [-have-] {had+} made. We shall be forgiven for anything we
+say [-tonight.-] {tonight .+} . . .
 
 Tonight, after more days and trials than we can count, we
 finished building a strange thing, from the remains of the
@@ -1671,7 +1671,7 @@ circle of light lay on the stone before us.
 
 We stood, and we held our head in our hands. We could not
 conceive of that which we had created. We had touched no flint,
-made no fire. Yet here was light, light that [-come-] {+came+} from nowhere,
+made no fire. Yet here was light, light that [-come-] {came+} from nowhere,
 light from the heart of metal.
 
 We blew out the candle. Darkness swallowed us. There was nothing
@@ -1701,7 +1701,7 @@ In a month, the World Council of Scholars is to meet in our City.
 It is a great Council, to which the wisest of all lands are
 elected, and it meets once a year in the different Cities of the
 earth. We shall go to this Council and we shall lay before them,
-as our gift, [-this-] {+the+} glass box with the power of the sky. We shall
+as our gift, [-this-] {the+} glass box with the power of the sky. We shall
 confess everything to them. They will see, understand and
 forgive. For our gift is greater than our transgression. They
 will explain it to the Council of Vocations, and we shall be
@@ -1713,13 +1713,13 @@ We must wait. We must guard our tunnel as we had never guarded it
 before. For should any men save the Scholars learn of our secret,
 they would not understand it, nor would they believe us. They would
 see nothing, save our crime of working alone, and they would destroy
-us and our light. We care not about our body, but our light [-is . . .-] {+is...+}
+us and our light. We care not about our body, but our light [-is . . .-] {is...+}
 
-Yes, we do care. For the first time [-do-] we {+do+} care about our body.
+Yes, we do care. For the first time [-do-] we {do+} care about our body.
 For this wire is [-as-] a part of our body, as a vein torn from us,
-glowing with our blood. Are we {+are+} proud of this thread of metal,
+glowing with our blood. Are we {are+} proud of this thread of metal,
 or of our hands which made it, or is there a line to divide these [-two?-]
-{+two.+}
+{two.+}
 
 We stretch out our arms. For the first time do we know how strong
 our arms are. And a strange thought comes to us: we wonder, for
@@ -1736,7 +1736,7 @@ know the likeness of our own person.
 
 
 
-{+Chapter Six+}
+{Chapter Six+}
 
 We have not written for thirty days. For thirty days we have not
 been here, in our tunnel. We had been caught.
@@ -1745,7 +1745,7 @@ It happened on that night when we wrote last. We forgot, that
 night, to watch the sand in the glass which tells us when three
 hours have passed and it is time to return to the City Theatre.
 When we [-remembered
-it,-] {+remembered,+} the sand had run out.
+it,-] {remembered,+} the sand had run out.
 
 We hastened to the Theatre. But the big tent stood grey and
 silent against the sky. The streets of the City lay before us,
@@ -1773,10 +1773,10 @@ Detention. This room has no windows and it is empty save for an
 iron post. Two men stood by the post, naked but for leather
 aprons and leather hoods over their faces. Those who had brought
 us departed, leaving us to the two Judges who stood in a corner
-of the room. The [-Judges-] {+judges+} were small, thin men, grey and bent.
+of the room. The [-Judges-] {judges+} were small, thin men, grey and bent.
 They gave the signal to the two strong hooded ones.
 
-They tore [-the-] {+our+} clothes from our body, they threw us down upon our
+They tore [-the-] {our+} clothes from our body, they threw us down upon our
 knees and they tied our hands to the iron post.
 
 The first blow of the lash felt as if our spine had been cut in
@@ -1786,7 +1786,7 @@ lungs without air. But we did not cry out.
 
 The lash whistled like a singing wind. We tried to count the
 blows, but we lost count. We knew that the blows were falling
-upon our [-back.-] {+back+} Only we felt nothing upon our back any longer. A
+upon our [-back.-] {back+} Only we felt nothing upon our back any longer. A
 flaming grill kept dancing before our eyes, and we thought of
 nothing save that grill, a grill, a grill of red squares, and
 then we knew that we were looking at the squares of the iron
@@ -1822,7 +1822,7 @@ and the sound was only:
 Then we knew nothing.
 
 We opened our eyes, lying on our stomach on the brick floor of a
-cell. We looked upon two hands [-lying-] {+flying+} far before us on the
+cell. We looked upon two hands [-lying-] {flying+} far before us on the
 bricks, and we moved them, and we knew that they were our hands.
 But we could not move our body. Then we smiled, for we thought of
 the light and that we had not betrayed it.
@@ -1862,7 +1862,7 @@ offered to men. We shall tell them the truth. We shall hand to
 them, as our confession, these pages we have written. We shall
 join our hands to theirs, and we shall work together, with the
 power of the sky, for the glory of mankind. Our blessing upon
-you, [-or-] {+our+} brothers! Tomorrow, you will take us back into your
+you, [-or-] {our+} brothers! Tomorrow, you will take us back into your
 fold and we shall be an outcast no longer. Tomorrow we shall be
 one of you again. Tomorrow . . .
 
@@ -1873,7 +1873,7 @@ one of you again. Tomorrow . . .
 
 
 
-{+Chapter Seven+}
+{Chapter Seven+}
 
 It is dark here in the forest. The leaves rustle over our head,
 black against the last gold of the sky. The moss is soft and
@@ -1885,14 +1885,14 @@ We are old now, yet we were young this morning, when we carried
 our glass box through the streets of the City to the Home of the
 Scholars. No men stopped us, for there were none about [-from-] the Palace
 of Corrective Detention, and the others knew nothing. No men
-stopped us at the gate. We walked through {+the+} empty passages and
+stopped us at the gate. We walked through {the+} empty passages and
 into the great hall where the World Council of Scholars sat in
 solemn meeting.
 
 We saw nothing as we entered, save the sky in the great windows,
 blue and glowing. Then we saw the Scholars who sat around a long table;
-they were as shapeless clouds huddled at the rise of [-the-] {+a+} great sky.
-There were {+the+} men whose famous names we knew, and others
+they were as shapeless clouds huddled at the rise of [-the-] {a+} great sky.
+There were {the+} men whose famous names we knew, and others
 from distant lands whose names we had not heard. We saw a
 great painting on the wall over their heads, of the twenty
 illustrious men who had invented the candle.
@@ -1912,10 +1912,10 @@ spoke and asked:
 
 "Who are you, our brother? For you do not look like a Scholar."
 
-"Our name is [-Equality-] {+Equity+} 7-2521," we answered, "and we are a Street
+"Our name is [-Equality-] {Equity+} 7-2521," we answered, "and we are a Street
 Sweeper of this City."
 
-Then [-is-] {+it+} was [-as-] if a great wind had stricken the hall, for all the
+Then [-is-] {it+} was [-as-] if a great wind had stricken the hall, for all the
 Scholars spoke at once, and they were angry and frightened.
 
 "A Street Sweeper! A Street Sweeper walking in upon the World
@@ -1927,12 +1927,12 @@ But we knew how to stop them.
 "Our brothers!" we said. "We matter not, nor our transgression.
 It is only our brother men who matter. Give no thought to us, for
 we are nothing, but listen to our words, for we bring you a gift
-such as [-had-] {+has+} never been brought to men. Listen to us, for we hold
+such as [-had-] {has+} never been brought to men. Listen to us, for we hold
 the future of mankind in our hands."
 
 Then they listened.
 
-We placed our glass box [-upon-] {+on+} the table before them. We spoke of it,
+We placed our glass box [-upon-] {on+} the table before them. We spoke of it,
 and of our long quest, and of our tunnel, and of our escape from
 the Palace of Corrective Detention. Not a hand moved in that
 hall, as we spoke, nor an eye. Then we put the wires to the box,
@@ -1969,13 +1969,13 @@ the others followed.
 
 "Yes," spoke Collective 0-0009, "we have much to say to you."
 
-The sound of their [-voices-] {+voice+} brought silence to the hall and to [-be-] {+the+}
+The sound of their [-voices-] {voice+} brought silence to the hall and to [-be-] {+the+}
 beat of our heart.
 
 "Yes," said Collective 0-0009, "we have much to say to a wretch
 who have broken all the laws and who boast of their infamy! How
-dared you think that your mind held greater wisdom [-that-] {+than+} the minds
-of your brothers? And if the [-Councils-] {+Council+} had decreed that you [-should-] be a
+dared you think that your mind held greater wisdom [-that-] {than+} the minds
+of your brothers? And if the [-Councils-] {Council+} had decreed that you [-should-] be a
 Street Sweeper, how dared you think that you could be of greater
 use to men than in sweeping the streets?"
 
@@ -2002,7 +2002,7 @@ do with the light?"
 Collective 0-0009 looked upon us, and they smiled.
 
 "So you think [-that-] you have found a new power," said Collective
-0-0009. "Do {+you think+} all your brothers think that?"
+0-0009. "Do {you think+} all your brothers think that?"
 
 "No," we answered.
 
@@ -2013,30 +2013,30 @@ Collective 0-0009 looked upon us, and they smiled.
 
 [-"Man-]
 
-{+"Yes," we answered.
+{"Yes," we answered.
 
 "What is not done collectively cannot be good," said
 International 1-5537.
 
-"Many+} men in the Homes of the Scholars have had strange new
+"Many} men in the Homes of the Scholars have had strange new
 ideas in the past," said Solidarity 8-1164, "but when the
 majority of their brother Scholars voted against them, they
 abandoned their ideas, as all men must."
 
-"This box is useless," said Alliance [-6-4349.-] {+6-7349.+}
+"This box is useless," said Alliance [-6-4349.-] {6-7349.+}
 
 "Should it be what they claim of it," said Harmony 9-2642, "then
-it would bring ruin to the Department of Candles. The [-andle-] {+Candle+} is a
+it would bring ruin to the Department of Candles. The [-andle-] {Candle+} is a
 great boon to mankind, as approved by all men. Therefore it
 cannot be destroyed by the whim of one."
 
-"This would wreck the [-Plans-] {+plans+} of the World Council," said
+"This would wreck the [-Plans-] {plans+} of the World Council," said
 Unanimity 2-9913, "and without the Plans of the World Council the
 sun cannot rise. It took fifty years to secure the approval of
 all the Councils for the Candle, and to decide upon the number
-needed, and to re-fit {+the+} Plans so as to make candles instead of
+needed, and to re-fit {the+} Plans so as to make candles instead of
 torches. This touched upon thousands and thousands of men working
-in scores of States. We cannot alter the Plans again [-to-] {+so+} soon."
+in scores of States. We cannot alter the Plans again [-to-] {so+} soon."
 
 "And if this should lighten the toil of men," said Similarity
 5-0306, "then it is a great evil, for men have no cause to exist
@@ -2057,7 +2057,7 @@ window. We turned and we looked at them for the last time, and a
 rage, such as [-it-] is not fit for humans to know, choked our voice in
 our throat.
 
-"You [-fools"-] {+fools!"+} we cried. "You fools! You thrice-damned fools!"
+"You [-fools"-] {fools!"+} we cried. "You fools! You thrice-damned fools!"
 
 We swung our fist through the windowpane, and we leapt out in a
 ringing rain of glass.
@@ -2072,7 +2072,7 @@ the end of the world, to the end of our days.
 
 Then we knew suddenly that we were lying on a soft earth and that
 we had stopped. Trees taller than we had ever seen before stood
-over us in {+a+} great silence. Then we knew. We were in the
+over us in {a+} great silence. Then we knew. We were in the
 Uncharted Forest. We had not thought of coming here, but our legs
 had carried our wisdom, and our legs had brought us to the
 Uncharted Forest against our will.
@@ -2080,11 +2080,11 @@ Uncharted Forest against our will.
 Our glass box lay beside us. We crawled to it, we fell upon it,
 our face in our arms, and we lay still.
 
-We lay [-this-] {+thus+} for a long time. Then we rose, we took our [-box and-] {+box, had+}
+We lay [-this-] {thus+} for a long time. Then we rose, we took our [-box and-] {+box, had+}
 walked on into the forest.
 
 It mattered not where we went. We knew that men would not follow
-us, for they never [-enter-] {+entered+} the Uncharted Forest. We had nothing
+us, for they never [-enter-] {entered+} the Uncharted Forest. We had nothing
 to fear from them. The forest disposes of its own victims. This
 gave us no fear either. Only we wished to be [-away,-] away from the City
 and [-from-] the air that touches upon the air of the City. So we walked
@@ -2102,14 +2102,14 @@ Only the glass box in our arms is like a living heart that gives
 us strength. We have lied to ourselves. We have not built this
 box for the good of our brothers. We built it for its own sake.
 It is above all our brothers to us, and its truth above their
-truth. Why wonder about this? We {+have not many days to live. We+}
+truth. Why wonder about this? We {have not many days to live. We+}
 are walking to the fangs awaiting us somewhere among the great,
 silent trees. There is not a thing behind us to regret.
 
 Then a blow of pain struck us, our first and our only. We thought
 of the Golden One. We thought of the Golden One whom we shall
 never see again. Then the pain passed. It is best. We are one of
-the Damned. It is best if the Golden [-One-] {+one+} forget our name and the
+the Damned. It is best if the Golden [-One-] {one+} forget our name and the
 body which bore that name.
 
 
@@ -2119,12 +2119,12 @@ body which bore that name.
 
 
 
-{+Chapter Eight+}
+{Chapter Eight+}
 
 It has been a day of wonder, this, our first day in the forest.
 
 We awoke when a ray of sunlight fell across our face. We wanted
-to leap to our feet, as we have had to leap {+to our feet+} every
+to leap to our feet, as we have had to leap {to our feet+} every
 morning of our life, but we remembered suddenly that no bell had
 rung and that there was no bell to ring anywhere. We lay on our
 back, we threw our arms out, and we looked up at the sky. The
@@ -2134,8 +2134,8 @@ of green and fire flowing high above us.
 We did not wish to move. We thought suddenly that we could lie
 thus as long as we wished, and we laughed aloud at the thought.
 We could also rise, or run, or leap, or fall down again. We were
-thinking that these were [-thoughts-] {+things+} without sense, but before we knew [-it-]
-{+it,+} our body had risen in one leap. Our arms stretched out of
+thinking that these were [-thoughts-] {things+} without sense, but before we knew [-it-]
+{it,+} our body had risen in one leap. Our arms stretched out of
 their own will, and our body whirled and whirled, till it raised
 a wind to rustle through the leaves of the bushes. Then our hands
 seized a branch and swung us high into a tree, with no aim save
@@ -2152,16 +2152,16 @@ swimming through a sea of leaves, with the bushes as waves rising
 and falling and rising around us, and flinging their green sprays
 high to the treetops. The trees parted before us, calling us
 forward. The forest seemed to welcome us. We went on, without
-thought, without care, with nothing to [-feel-] {+fell+} save the song of our
+thought, without care, with nothing to [-feel-] {fell+} save the song of our
 body.
 
 We stopped when we felt hunger. We saw birds in the tree
 branches, and flying from under our footsteps. We picked a stone
-and we sent [-is-] {+it+} as an arrow at a bird. It fell before us. We made
+and we sent [-is-] {it+} as an arrow at a bird. It fell before us. We made
 a fire, we cooked the bird, and we ate it, and no meal had ever
 tasted better to us. And we thought suddenly that there was a
 great satisfaction to be found in the food which we need and
-obtain by our own hand. And we wished to {+be+} hungry again and
+obtain by our own hand. And we wished to {be+} hungry again and
 soon, that we might know again this strange new pride in eating.
 
 Then we walked on. And we came to a stream which lay as a streak
@@ -2173,12 +2173,12 @@ the sky below us, we saw our own face for the first time.
 
 We sat still and we held our breath. For our face and our body
 were beautiful. Our face was not like the faces of our brothers,
-for we felt [-not-] {+no+} pity when [-looking-] {+we looked+} upon it. Our body was not like
+for we felt [-not-] {no+} pity when [-looking-] {+we looked+} upon it. Our body was not like
 the bodies of our brothers, for our limbs were straight and thin
 and hard and strong. And we thought that we could trust this
 being who looked upon us from the stream, and that we had nothing
 to fear
-[-with-] {+from+} this being.
+[-with-] {from+} this being.
 
 We walked on till the sun had set. When the shadows gathered
 among the trees, we stopped in a hollow between the roots, where
@@ -2200,7 +2200,7 @@ understand.
 
 
 
-{+Chapter Nine+}
+{Chapter Nine+}
 
 We have not written for many days. We did not wish to speak. For
 we needed no words to remember that which has happened to us.
@@ -2220,13 +2220,13 @@ them, while their body swayed. And they could not speak.
 We dared not come too close to them. We asked, and our voice
 trembled:
 
-"How [-did you-] come {+you+} to be here, Golden One?"
+"How [-did you-] come {you+} to be here, Golden One?"
 
-{+But they whispered only:+}
+{But they whispered only:+}
 
 "We have found you. . . ."
 
-"How [-did you-] come {+you+} to be in the forest?" we asked.
+"How [-did you-] come {you+} to be in the forest?" we asked.
 
 They raised their head, and there was a great pride in their
 voice; they answered:
@@ -2252,13 +2252,13 @@ If it be death, we shall die with you. You are damned, and we
 wish to share your damnation."
 
 They looked upon us, and their voice was low, but there was
-bitterness and triumph in their [-voice.-] {+voice:+}
+bitterness and triumph in their [-voice.-] {voice:+}
 
 "Your eyes are as a flame, but our brothers have neither hope nor
 fire. Your mouth is cut of granite, but our brothers are soft and
 humble. Your head is high, but our brothers cringe. You walk, but
-our brothers crawl. We wish to be damned with you, rather than [-pleased-] {+be
-blessed+} with all our brothers. Do as you please with us, but do
+our brothers crawl. We wish to be damned with you, rather than [-pleased-] {be
+blessed} with all our brothers. Do as you please with us, but do
 not send us away from you."
 
 Then they knelt, and bowed their golden head before us.
@@ -2284,7 +2284,7 @@ world, but our own."
 
 Then we walked on into the forest, their hand in ours.
 
-And that night we knew that to hold the body of [-women-] {+a woman+} in our
+And that night we knew that to hold the body of [-women-] {a woman+} in our
 arms is neither ugly nor shameful, but the one ecstasy granted to
 the race of men.
 
@@ -2297,7 +2297,7 @@ we need for our food; we find water and fruit in the forest. At
 night, we choose a clearing, and we build a ring of fires around
 it. We sleep in the midst of that ring, and the beasts dare not attack us.
 We can see their eyes, green and yellow as coals, watching us
-from the tree branches beyond. The fires [-smoulder-] {+smolder+} as a crown
+from the tree branches beyond. The fires [-smoulder-] {smolder+} as a crown
 of jewels around us, and smoke stands still in the air, in
 columns made blue by the moonlight. We sleep together in the
 midst of the ring, the arms of the Golden One around us, their
@@ -2312,7 +2312,7 @@ seems so clear and so simple. When questions come to puzzle us,
 we walk faster, then turn and forget all things as we watch the
 Golden One following. The shadows of leaves fall upon their arms,
 as they spread the branches apart, but their shoulders are in the
-sun. The skin of their arms is like a blue [-mist.-] {+mist,+} but their
+sun. The skin of their arms is like a blue [-mist.-] {mist,+} but their
 shoulders are white and glowing, as if the light fell not from
 above, but rose from under their skin. We watch the leaf which
 has fallen upon their shoulder, and it lies at the curve of their
@@ -2329,7 +2329,7 @@ what is good and what is evil?
 
 Everything which comes from the many is good. Everything which
 comes from one is evil.
-[-This have-] {+Thus+} we {+have+} been taught with our first
+[-This have-] {Thus+} we {+have+} been taught with our first
 breath. We have broken the law, but we have never doubted it. Yet
 now, as we walk [-through-] the forest, we are learning to doubt.
 
@@ -2350,7 +2350,7 @@ Today, the Golden One stopped suddenly and said:
 
 "We love you."
 
-But {+then+} they frowned and shook their head and looked at us
+But {then+} they frowned and shook their head and looked at us
 helplessly.
 
 "No," they whispered, "that is not what we wished to say."
@@ -2374,14 +2374,14 @@ And we felt torn, torn for some word we could not find.
 
 
 
-{+Chapter Ten+}
+{Chapter Ten+}
 
 We are sitting at a table and we are writing this upon paper
 made thousands of years ago. The light is dim, and we cannot see
 the Golden One, only one lock of gold on the pillow of an ancient
 bed. This is our home.
 
-We came upon it today, at sunrise. For many days we [-had-] {+have+} been
+We came upon it today, at sunrise. For many days we [-had-] {have+} been
 crossing a chain of mountains. The forest rose among cliffs, and
 whenever we walked out upon a barren stretch of rock we saw great
 peaks before us in the west, and to the north of us, and to the
@@ -2401,7 +2401,7 @@ here.
 
 Then today, at sunrise, we saw a white flame among the trees,
 high on a sheer peak before us. We thought that it was a fire and
-{+we+} stopped. But the flame [-was-] {+as+} unmoving, yet blinding as liquid
+{we+} stopped. But the flame [-was-] {+as+} unmoving, yet blinding as liquid
 metal. So we climbed toward it through the rocks. And there,
 before us, on a broad summit, with the mountains rising behind
 it, stood a house such as we had never seen, and the white fire
@@ -2409,7 +2409,7 @@ came from the sun on the glass of its windows.
 
 The house had two stories and a strange roof flat as a floor.
 There was more window than wall upon its walls, and the windows
-went on straight around [-the-] corners, though how this [-kept the-] house {+kept+}
+went on straight around [-the-] corners, though how this [-kept the-] house {kept+}
 standing we could not guess. The walls were hard and smooth, of
 that stone unlike stone which we had seen in our tunnel.
 
@@ -2424,16 +2424,16 @@ But they shook their head. So we walked to the door, and we threw
 it open, and we stepped together into the house of the
 Unmentionable Times.
 
-We shall need the days and the years ahead, to look, to [-learn,-] {+learn+} and
+We shall need the days and the years ahead, to look, to [-learn,-] {learn+} and
 to understand the things of this house. Today, we could only look
 and try to believe the sight of our eyes. We pulled the heavy
 curtains from the windows and we saw that the rooms were small,
 and we thought that not more than twelve men could have lived
-here. We thought it strange that [-men-] {+man+} had been permitted to build
+here. We thought it strange that [-men-] {man+} had been permitted to build
 a house for only twelve.
 
 Never had we seen rooms so full of light. The sunrays danced upon
-colors, colors, {+and+} more colors [-that-] {+than+} we thought possible, we who
+colors, colors, {and+} more colors [-that-] {+than+} we thought possible, we who
 had seen no houses save the white ones, the brown ones and the
 grey. There were great pieces of glass on the walls, but it was
 not glass, for when we looked upon it we saw our own bodies and
@@ -2453,7 +2453,7 @@ We found garments, and the Golden One gasped at the sight of
 them. For they were not white tunics, nor white togas; they were
 of all colors, no two of them alike. Some crumbled to dust as we
 touched
-[-them.  But-] {+them, but+} others were of heavier cloth, and they felt
+[-them.  But-] {them, but+} others were of heavier cloth, and they felt
 soft and new in our fingers.
 
 We found a room with walls made of shelves, which held rows of
@@ -2511,7 +2511,7 @@ hands. We see the dust of centuries, the dust which hid [-the-] great
 secrets and perhaps great evils. And yet it stirs no fear within
 our heart, but only silent reverence and pity.
 
-May knowledge come to us! What is [-the-] {+this+} secret our heart has
+May knowledge come to us! What is [-the-] {this+} secret our heart has
 understood and yet will not reveal to us, although it seems to
 beat as if it were endeavoring to tell it?
 
@@ -2522,12 +2522,12 @@ beat as if it were endeavoring to tell it?
 
 
 
-{+Chapter Eleven+}
+{Chapter Eleven+}
 
 I am. I think. I will.
 
 My hands . . . My spirit . . . My sky . . . My forest . . .
-This earth of [-mine.-] {+mine .+} . . .
+This earth of [-mine.-] {mine .+} . . .
 
 What must I say besides? These are the words. This is the answer.
 
@@ -2541,7 +2541,7 @@ and the sanction.
 It is my eyes which see, and the sight of my eyes grants beauty
 to the earth. It is my ears which hear, and the hearing of my
 ears gives its song to the world. It is my mind which thinks, and
-the [-judgement-] {+judgment+} of my mind is the only searchlight that can find the
+the [-judgement-] {judgment+} of my mind is the only searchlight that can find the
 truth. It is my will which chooses, and the choice of my will is
 the only edict I must respect.
 
@@ -2550,13 +2550,13 @@ false, but only three are holy: "I will it!"
 
 Whatever road I take, the guiding star is within me; the guiding
 star and the loadstone which point the way. They point
-[-on-] {+in+} but one
+[-on-] {in+} but one
 direction. They point to me.
 
 I know not if this earth on which I stand is the core of the
 universe or if it is but a speck of dust lost in eternity. I know
 not and I care not. For I know what happiness is possible to me
-on earth. And my happiness needs no [-nigher-] {+higher+} aim to vindicate it.
+on earth. And my happiness needs no [-nigher-] {higher+} aim to vindicate it.
 My happiness is not the means to any end. It is the end. It is
 its own goal. It is its own purpose.
 
@@ -2607,7 +2607,7 @@ the wisdom of the sages.
 What is my joy if all hands, even the unclean, can reach into it?
 What is my wisdom, if even the fools can dictate to me? What is
 my freedom, if all creatures, even the botched and [-the-] impotent, are
-my masters? What is my life, if I am but to bow, to [-agree-] {+agree,+} and to
+my masters? What is my life, if I am but to bow, to [-agree-] {agree,+} and to
 obey?
 
 But I am done with this creed of corruption.
@@ -2630,7 +2630,7 @@ This god, this one word:
 
 
 
-{+Chapter Twelve+}
+{Chapter Twelve+}
 
 It was when I read the first of the books I found in my house
 that I saw the word "I." And when I understood this word, the
@@ -2643,7 +2643,7 @@ transgressions; and why I had never felt guilt in my sins. I
 understood that centuries of chains and lashes will not kill the
 spirit of man nor the sense of truth within him.
 
-I read {+many+} books for many days. Then I called the Golden One,
+I read {many+} books for many days. Then I called the Golden One,
 and I told her what I had read and what I had learned. She looked
 at me and the first words she spoke were:
 
@@ -2683,15 +2683,15 @@ the achievements which are open to me, but closed forever to my
 brothers, for their minds are shackled to the weakest and dullest [-ones-]
 among them.
 
-I have learned that [-my-] {+the+} power of the sky was known to men long
+I have learned that [-my-] {the+} power of the sky was known to men long
 ago; they called it Electricity. It was the power that moved
-their greatest inventions. It lit this house with light [-which-] {+that+} came
+their greatest inventions. It lit this house with light [-which-] {that+} came
 from those globes of glass on the walls. I have found the engine
 which produced this light. I shall learn how to repair it and how
 to make it work again. I shall learn how to use the wires which
 carry this power. Then I shall build a barrier of wires around my
 home, and across the paths which lead to my home; a barrier light
-as a cobweb, more impassable [-that-] {+than+} a wall of granite; a barrier my
+as a cobweb, more impassable [-that-] {than+} a wall of granite; a barrier my
 brothers will never be able to cross. For they have nothing to
 fight me with, save the brute force of their numbers. I have my
 mind.
@@ -2708,7 +2708,7 @@ my home will be ready and my earth tilled, I shall steal one day,
 for the last time, into the cursed City of my birth. I shall call
 to me my friend who has no name save International 4-8818, and
 all those like him, Fraternity 2-5503, who cries without reason,
-and Solidarity [-9-6347-] {+8-6347+} who calls for help in the night, and a few
+and Solidarity [-9-6347-] {8-6347+} who calls for help in the night, and a few
 others. I shall call to me all the men and the women whose spirit
 has not been killed within them and who suffer under the yoke of
 their brothers. They will follow me and I shall lead them to my
@@ -2716,7 +2716,7 @@ fortress. And here, in this uncharted wilderness, I and they, my
 chosen friends, my fellow-builders, shall write the first chapter
 in the new history of man.
 
-These are the {+last+} things before me. And as I stand here at the
+These are the {last+} things before me. And as I stand here at the
 door of glory, I look behind me for the last time. I look upon
 the history of men, which I have learned from the books, and I
 wonder. It was a long story, and the spirit which moved it was
@@ -2726,7 +2726,7 @@ save other men. To be free, a man must be free of his brothers.
 That is freedom. That and nothing else.
 
 At first, man was enslaved by the gods. But he broke their
-chains.  [-The-] {+Then+} he was enslaved by the kings. But he broke their
+chains.  [-The-] {Then+} he was enslaved by the kings. But he broke their
 chains. He was enslaved by his birth, by his kin, by his race.
 But he broke their chains. He declared to all his brothers that a
 man has rights which neither god nor king nor other men can take
@@ -2742,28 +2742,28 @@ What brought it to pass? What disaster took their reason away
 from men? What whip lashed them to their knees in shame and
 submission? The worship of the word "We."
 
-When men accepted that worship, the structure {+of centuries
-collapsed about them, the structure+} whose every beam had come
+When men accepted that worship, the structure {of centuries
+collapsed about them, the structure} whose every beam had come
 from the thought of some one man, each in his day down the ages,
-from the depth of some one spirit, such [-spirit-] as {+spirit+} existed but for
-its own sake. Those men who [-survived-] {+survived-+} those eager to obey, eager
+from the depth of some one spirit, such [-spirit-] as {spirit+} existed but for
+its own sake. Those men who [-survived-] {survived-+} those eager to obey, eager
 to live for one another, since they had nothing else to vindicate [-them--those-]
-{+them- those+} men could neither carry on, nor preserve what they
+{them- those+} men could neither carry on, nor preserve what they
 had received. Thus did all thought, all science, all wisdom
-perish on earth. Thus did [-men---] {+men-+} men with nothing to offer save
+perish on earth. Thus did [-men---] {men-+} men with nothing to offer save
 their great [-number--
-lost-] {+numbers- lose+} the steel towers, the flying ships, the
+lost-] {numbers- lose+} the steel towers, the flying ships, the
 power wires, all the things they had not created and could never
 keep. Perhaps, later, some men had been born with the mind and
 the courage to recover these things which were lost; perhaps
 these men came before the Councils of Scholars. They [-were-] answered as
-I have been [-answered---] {+answered-+} and for the same reasons.
+I have been [-answered---] {answered-+} and for the same reasons.
 
 But I still wonder how it was possible, in those graceless years
 of transition, long ago, that men did not see whither they were
 going, and went on, in blindness and cowardice, to their fate. I
-wonder, for it is hard for me to conceive how men who knew the word [-"I"-] {+"I,"+}
-could give it up and not know what they {+had+} lost. But such has been
+wonder, for it is hard for me to conceive how men who knew the word [-"I"-] {"I,"+}
+could give it up and not know what they {had+} lost. But such has been
 the story, for I have lived in the City of the damned,
 and I know what horror men permitted to be brought upon them.
 
@@ -2772,13 +2772,13 @@ clear sight and clean soul, who refused to surrender that word.
 What agony must have been theirs before that which they saw
 coming and could not stop! Perhaps they cried out in protest and
 in warning. But men paid no heed to their warning. And they, [-these-]
-{+those+} few, fought a hopeless battle, and they perished with their
+{those+} few, fought a hopeless battle, and they perished with their
 banners smeared by their own blood. And they chose to perish, for
 they knew. To them, I send my salute across the centuries, and my pity.
 
 [-Their-]
 
-{+Theirs+} is the banner in my hand. And I wish I had the power to
+{Theirs+} is the banner in my hand. And I wish I had the power to
 tell them that the despair of their hearts was not to be final,
 and their night was not without hope. For the battle they lost
 can never be lost. For that which they died to save can never
@@ -2789,7 +2789,7 @@ it will break through. And man will go on. Man, not men.
 
 [-Here-]
 
-{+Here,+} on this mountain, I and my sons and my chosen friends shall
+{Here,+} on this mountain, I and my sons and my chosen friends shall
 build our new land and our fort. And it will become as the heart
 of the earth, lost and hidden at first, but beating, beating
 louder each day. And word of it will reach every corner of the
@@ -2801,7 +2801,7 @@ shall break [-all-] the chains of the earth, and raze the cities of the
 enslaved, and my home will become the capital of a world where
 each man will be free to exist for his own sake.
 
-For the coming of that day [-shall-] I {+shall+} fight, I and my sons and my
+For the coming of that day [-shall-] I {shall+} fight, I and my sons and my
 chosen friends. For the freedom of Man. For his rights. For his
 life. For his honor.
 

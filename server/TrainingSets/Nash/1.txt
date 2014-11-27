@@ -6,4 +6,4 @@ The correspondence of each n-tuple with its set of countering n-tuples gives a o
 
 Since the graph is closed and since the image of each point under the mapping is convex, we infer from Kakutani’s theorem1 that the mapping has a fixed point (i.e., point contained in its image). Hence there is an equilibrium point.
 
-In the two-person zero-sum case the “main theorem” and the existence of an equilibrium point are equivalent. In this case any two equilibrium points lead to the same expectations for the players, but this need not occur in general.
+In the two-person zero-sum case the "main theorem" and the existence of an equilibrium point are equivalent. In this case any two equilibrium points lead to the same expectations for the players, but this need not occur in general.
