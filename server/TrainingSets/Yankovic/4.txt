@@ -30,7 +30,7 @@ We'll all be crispy critters after World War III.
 There's nowhere you can run to, nowhere you can hide.
 When they drop the big one, we all get fried.
 .
-(Come on boys and girls, sing along, ok?).
+(Come on boys and girls, sing along, ok?
 .
 Happy birthday.
 Happy birthday to you.
@@ -52,7 +52,7 @@ Happy birthday.
 Happy birthday to you.
 Happy birthday.
 Happy birthday to you.
-wow!.
+wow!
 .
 Happy birthday.
 Happy birthday to you.
@@ -61,4 +61,4 @@ Happy birthday to you.
 .
 (Happy Birthday!).
 .
-And a pinch to grow an inch!.
+And a pinch to grow an inch!
