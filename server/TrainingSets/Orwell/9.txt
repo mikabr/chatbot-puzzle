@@ -412,13 +412,6 @@ country before the villa-civilization began to close in upon us again,
 and then the outer slums, and then the slag-heaps, belching chimneys,
 blast-furnaces, canals, and gaso-meters of another industrial town.
 
-
-
-
-  2
-
-
-
 Our civilization, _pace_ Chesterton, is founded on coal, more completely
 than one realizes until one stops to think about it. The machines that
 keep us alive, and the machines that make machines, are all directly or
@@ -808,11 +801,6 @@ decency of our lives to poor drudges underground, blackened to the eyes,
 with their throats full of coal dust, driving their shovels forward with
 arms and belly muscles of steel.
 
-
-
-
-3
-
 When the miner comes up from the pit his face is so pale that it is
 noticeable even through the mask of coal dust. This is due to the foul
 air that he has been breathing, and will wear off presently. To a
@@ -976,20 +964,6 @@ are _gross_ earnings. On top of this there are all kinds of stoppages
 which are deducted from the miner's wages every week. Here is a list of
 weekly stoppages which was given me as typical in one Lancashire
 district:
-
-                                        s. d.
-
-Insurance (unemployment and health)     1  5
-Hire of lamp                               6
-For sharpening tools                       6
-Check-weighman                             9
-Infirmary                                  2
-Hospital                                   1
-Benevolent Fund                            6
-Union fees                                 6
-                                        ----
-Total                                    4 5
-                                        ----
 
 Some of these stoppages, such as the Benevolent Fund and the union fees,
 are, so to speak, the miner's own responsibility, others are imposed by
@@ -1213,11 +1187,6 @@ watch, another because he 'had an intelligent face'. I should not like
 to be shot for having an intelligent face, but I do agree that in almost
 any revolt the leaders would tend to be people who could pronounce their
 aitches.
-
-
-
-
-4
 
 AS you walk through the industrial towns you lose yourself in labyrinths
 of little brick houses blackened by smoke, festering in planless chaos
@@ -1900,28 +1869,6 @@ probably tell him to go to hell. This only happened to me once, and in
 that case the woman was slightly deaf and took me for a Means Test nark;
 but even she relented after a while and gave me the information I
 wanted.
-
-I am told that it is bad form for a writer to quote his own reviews, but
-I want here to contradict a reviewer in the _Manchester Guardian_ who
-says apropos of one of my books:
-
-
-Set down in Wigan or Whitechapel Mr Orwell would still exercise an
-unerring power of closing his vision to all that is good in order to
-proceed with his wholehearted vilification of humanity.
-
-
-Wrong. Mr Orwell was 'set down' in Wigan for quite a while and it did
-not inspire him with any wish to vilify humanity. He liked Wigan very
-much--the people, not the scenery. Indeed, he has only one fault to find
-with it, and that is in respect of the celebrated Wigan Pier, which he
-had set his heart on seeing. Alas! Wigan Pier had been demolished, and
-even the spot where it used to stand is no longer certain.
-
-
-
-
-5
 
 When you see the unemployment figures quoted at two millions, it is
 fatally easy to take this as meaning that two million people are out of
@@ -4883,9 +4830,7 @@ dull, tasteless, and bad. Consider the situation in England at the
 present moment. A whole generation has grown up more or less in
 familiarity with the idea of Socialism; and yet the higher-water mark,
 so to speak, of Socialist literature is W. H. Auden, a sort of gutless
-Kipling,[Orwell somewhat retracted this remark later. See 'Inside the
-Whale', _England Your England_, p. 120 (Seeker and Warburg Collected
-Edition).] and the even feebler poets who are associated with him. Every
+Kipling, and the even feebler poets who are associated with him. Every
 writer of consequence and every book worth reading is on the other side.
 I am willing to believe that it is otherwise in Russia--about which I
 know nothing, however--for presumably in post-revolutionary Russia the
