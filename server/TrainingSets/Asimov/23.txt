@@ -128,8 +128,6 @@ Daneel accepted the statement without its rueful self-deprecation. "On the contr
 
 Daneel's face, always expressionless, somehow managed to seem despairing. "No, sir. The mere decision is no longer enough. I brought you here, as best I could in my present condition, for something far more desperate. I am dying."
 
-102.
-
 PERHAPS it was because of the matter-of-fact way in which Daneel said it; or perhaps because a lifetime of twenty thousand years made death seem no tragedy to one doomed to live less than half a percent of that period; but, in any case, Trevize felt no stir of sympathy.
 
 "Die? Can a machine die?"
@@ -255,8 +253,6 @@ Bliss said, "I am Gaia. I must know your decision, and its reason, for the sake 
 Daneel said, "Tell her, sir. Your mind, as Gaia is aware, is untouched."
 
 And Trevize said, "The decision is for Galaxia. There is no further doubt in my mind on that point."
-
-104.
 
 Bliss remained motionless for the time one might take to count to fifty at a moderate rate, as though she were allowing the information to reach all parts of Gaia, and then she said, "Why?"
 

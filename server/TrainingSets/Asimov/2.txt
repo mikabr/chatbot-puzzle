@@ -1,7 +1,3 @@
-How can entropy be reversed
-The Last Question by Isaac Asimov © 1956
-
-
 The last question was asked for the first time, half in jest, on May 21, 2061, at a time when humanity first stepped into the light. The question came about as a result of a five dollar bet over highballs, and it happened this way:
 Alexander Adell and Bertram Lupov were two of the faithful attendants of Multivac. As well as any human beings could, they knew what lay behind the cold, clicking, flashing face -- miles and miles of face -- of that giant computer. They had at least a vague notion of the general plan of relays and circuits that had long since grown past the point where any single human could possibly have a firm grasp of the whole.
 
@@ -29,7 +25,7 @@ Lupov cocked his head sideways. He had a trick of doing that when he wanted to b
 
 Lupov put his fingers through his thinning hair as though to reassure himself that some was still left and sipped gently at his own drink. "Twenty billion years isn't forever."
 
-"Will, it will last our time, won't it?"
+"Well, it will last our time, won't it?"
 
 "So would the coal and uranium."
 

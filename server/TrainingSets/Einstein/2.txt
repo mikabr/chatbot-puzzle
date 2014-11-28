@@ -54,7 +54,7 @@ Current kinematics tacitly assumes that the lengths determined by these two oper
 
 We imagine further that at the two ends A and B of the rod, clocks are placed which synchronize with the clocks of the stationary system, that is to say that their indications correspond at any instant to the “time of the stationary system” at the places where they happen to be. These clocks are therefore “synchronous in the stationary system.”
 
-We imagine further that with each clock there is a moving observer, and that these observers apply to both clocks the criterion established in § 1 for the synchronization of two clocks. Let a ray of light depart from A at the time4 $t_{\rm A}$, let it be reflected at B at the time $t_{\rm B}$, and reach A again at the time $t'_{\rm A}$. Taking into consideration the principle of the constancy of the velocity of light we find that
+We imagine further that with each clock there is a moving observer, and that these observers apply to both clocks the criterion established in § 1 for the synchronization of two clocks. Let a ray of light depart from A at the time4 t_A, let it be reflected at B at the time t_B, and reach A again at the time t'_A. Taking into consideration the principle of the constancy of the velocity of light we find that
 
 where r denotes the length of the moving rod—measured in the stationary system. Observers moving with the moving rod would thus find that the two clocks were not synchronous, while observers in the stationary system would declare the clocks to be synchronous.
 
@@ -107,11 +107,11 @@ Transforming this equation with the aid of our equations of transformation we ob
 
 The wave under consideration is therefore no less a spherical wave with velocity of propagation c when viewed in the moving system. This shows that our two fundamental principles are compatible.
 
-In the equations of transformation which have been developed there enters an unknown function $\phi$ of v, which we will now determine.
+In the equations of transformation which have been developed there enters an unknown function phi of v, which we will now determine.
 
 For this purpose we introduce a third system of co-ordinates K', which relatively to the system k is in a state of parallel translatory motion parallel to the axis of Xi, such that the origin of co-ordinates of system K', moves with velocity -v on the axis of  Xi. At the time t=0 let all three origins coincide, and when t=x=y=z=0 let the time t' of the system K' be zero. We call the co-ordinates, measured in the system K', x', y', z', and by a twofold application of our equations of transformation we obtain
 
-Since the relations between x', y', z' and x, y, z do not contain the time t, the systems K and ${\rm K}'$ are at rest with respect to one another, and it is clear that the transformation from K to K' must be the identical transformation. Thus
+Since the relations between x', y', z' and x, y, z do not contain the time t, the systems K and K' are at rest with respect to one another, and it is clear that the transformation from K to K' must be the identical transformation. Thus
 
 We now inquire into the signification of phi(v). We give our attention to that part of the axis of Y of system k which lies between xi=0, eta=0, zeta=0 and xi=0, eta=l, zeta=0. This part of the axis of Y is a rod moving perpendicularly to its axis with velocity v relatively to system K. Its ends possess in K the co-ordinates
 
@@ -131,9 +131,9 @@ Thus, whereas the Y and Z dimensions of the sphere (and therefore of every rigid
 
 It is clear that the same results hold good of bodies at rest in the “stationary” system, viewed from a system in uniform motion.
 
-Further, we imagine one of the clocks which are qualified to mark the time t when at rest relatively to the stationary system, and the time $\tau$ when at rest relatively to the moving system, to be located at the origin of the co-ordinates of k, and so adjusted that it marks the time $\tau$. What is the rate of this clock, when viewed from the stationary system?
+Further, we imagine one of the clocks which are qualified to mark the time t when at rest relatively to the stationary system, and the time tau when at rest relatively to the moving system, to be located at the origin of the co-ordinates of k, and so adjusted that it marks the time tau. What is the rate of this clock, when viewed from the stationary system?
 
-Between the quantities x, t, and $\tau$, which refer to the position of the clock, we have, evidently, x=vt and
+Between the quantities x, t, and tau, which refer to the position of the clock, we have, evidently, x=vt and
 
 whence it follows that the time marked by the clock (viewed in the stationary system) is slow by 1-sqrt(1-v^2/c^2) seconds per second, or—neglecting magnitudes of fourth and higher order—by (1/2)v^2/c^2.
 
@@ -181,7 +181,7 @@ Now the principle of relativity requires that if the Maxwell-Hertz equations for
 
 Evidently the two systems of equations found for system k must express exactly the same thing, since both systems of equations are equivalent to the Maxwell-Hertz equations for system K. Since, further, the equations of the two systems agree, with the exception of the symbols for the vectors, it follows that the functions occurring in the systems of equations at corresponding places must agree, with the exception of a factor psi(v), which is common for all functions of the one system of equations, and is independent of xi, eta, zeta and tau but depends upon v. Thus we have the relations
 
-If we now form the reciprocal of this system of equations, firstly by solving the equations just obtained, and secondly by applying the equations to the inverse transformation (from k to K), which is characterized by the velocity -v, it follows, when we consider that the two systems of equations thus obtained must be identical, that psi(v)psi(-v)=1$. Further, from reasons of symmetry8 and therefore
+If we now form the reciprocal of this system of equations, firstly by solving the equations just obtained, and secondly by applying the equations to the inverse transformation (from k to K), which is characterized by the velocity -v, it follows, when we consider that the two systems of equations thus obtained must be identical, that psi(v)psi(-v)=1. Further, from reasons of symmetry8 and therefore
 
 and our equations assume the form
 
@@ -221,7 +221,7 @@ It follows from these results that to an observer approaching a source of light 
 
 Transformation of the Energy of Light Rays. Theory of the Pressure of Radiation Exerted on Perfect Reflectors
 
-Since A^2/8pi equals the energy of light per unit of volume, we have to regard A'^2/8pi$, by the principle of relativity, as the energy of light in the moving system. Thus A'^2/ A^2 would be the ratio of the “measured in motion” to the “measured at rest” energy of a given light complex, if the volume of a light complex were the same, whether measured in K or in k. But this is not the case. If l, m, n are the direction-cosines of the wave-normals of the light in the stationary system, no energy passes through the surface elements of a spherical surface moving with the velocity of light:
+Since A^2/8pi equals the energy of light per unit of volume, we have to regard A'^2/8pi, by the principle of relativity, as the energy of light in the moving system. Thus A'^2/ A^2 would be the ratio of the “measured in motion” to the “measured at rest” energy of a given light complex, if the volume of a light complex were the same, whether measured in K or in k. But this is not the case. If l, m, n are the direction-cosines of the wave-normals of the light in the stationary system, no energy passes through the surface elements of a spherical surface moving with the velocity of light:
 
 We may therefore say that this surface permanently encloses the same light complex. We inquire as to the quantity of energy enclosed by this surface, viewed in system k, that is, as to the energy of the light complex relatively to the system k.
 
@@ -231,7 +231,7 @@ If S is the volume of the sphere, and S' that of this ellipsoid, then by a simpl
 
 Thus, if we call the light energy enclosed by this surface E when it is measured in the stationary system, and E' when measured in the moving system, we obtain
 
-and this formula, when $\phi=0$, simplifies into
+and this formula, when phi=0, simplifies into
 
 It is remarkable that the energy and the frequency of a light complex vary with the state of motion of the observer in accordance with the same law.
 
@@ -243,7 +243,7 @@ For the reflected light, referring the process to system k, we obtain
 
 Finally, by transforming back to the stationary system K, we obtain for the reflected light
 
-The energy (measured in the stationary system) which is incident upon unit area of the mirror in unit time is evidently ${\rm A}^2(c\cos\phi-v)/8\pi$. The energy leaving the unit of surface of the mirror in the unit of time is A}'''^2(-c*cos(phi)'''+v)/8pi$. The difference of these two expressions is, by the principle of energy, the work done by the pressure of light in the unit of time. If we set down this work as equal to the product Pv, where P is the pressure of light, we obtain
+The energy (measured in the stationary system) which is incident upon unit area of the mirror in unit time is evidently A^2*c*cos(phi)-v)/8pi. The energy leaving the unit of surface of the mirror in the unit of time is A'''^2(-c*cos(phi)'''+v)/8pi. The difference of these two expressions is, by the principle of energy, the work done by the pressure of light in the unit of time. If we set down this work as equal to the product Pv, where P is the pressure of light, we obtain
 
 In agreement with experiment and with other theories, we obtain to a first approximation
 

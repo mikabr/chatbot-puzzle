@@ -71,8 +71,6 @@ Trevize said, "I would have appreciated a beautiful spherical arrangement, but t
 
 "It introduces some difficulties, but that can't be helped, I suppose. The stars themselves aren't uniformly distributed, and certainly habitable planets aren't, so there are bound to be unevennesses in the establishment of new worlds. The computer will adjust each of those dots to its present position, allowing for its likely motion in the last twenty thousand years-even in that time it won't mean much of an adjustment-and then fit them all into a 'bestsphere.' It will find a spherical surface, in other words, from which the distance of all the dots is a minimum. Then we find the center of the sphere, and Earth should be fairly close to that center. Or so we hope. It won't take long."
 
-70.
-
 IT DIDN'T. Trevize, who was used to accepting miracles from the computer, found himself astonished at how little time it took.
 
 Trevize had instructed the computer to sound a soft, reverberating note upon deciding upon the co-ordinates of the best-center. There was no reason for that, except for the satisfaction of hearing it and knowing that perhaps the search had been ended.
@@ -219,8 +217,6 @@ Pelorat said, "Well, of course! As far as I know, all inhabited worlds orbit sin
 
 "It's what the computer is telling me. And if we are looking at a binary star, then it's not Earth's sun. It can't be."
 
-71.
-
 TREVIZE broke contact with the computer, and the lights brightened.
 
 That was the signal, apparently, for Bliss to return, with Fallow tagging after her. "Well, then, what are the results?" she asked.
@@ -290,8 +286,6 @@ Bliss frowned. "Your attitude toward children is simply appalling, Trevize."
 "Maybe, but this is not the time to discuss the matter."
 
 Then he said, in tones in which satisfaction and relief were equally represented, "There's Alpha again in real space. And to its left, and slightly upward, is almost as bright a star and one that isn't in the computer's Galactic map. That is Earth's sun. I'll wager all my fortune on it."
-
-72.
 
 "WELL, Now," said Bliss, "we won't take any part of your fortune if you lose, so why not settle the matter in a forthright manner? Let's visit the star as soon as you can make the Jump."
 
