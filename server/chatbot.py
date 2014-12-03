@@ -4,16 +4,18 @@ import re
 import os
 import nltk
 from nltk.probability import *
+from nltk.tokenize import RegexpTokenizer
 from ngram import NgramModel
 #from kneserney import KneserNeyProbDist
 
 
 class ChatBot:
 
-    def __init__(self, characters, models, ngram, debug=False):
+    def __init__(self, characters, models, ngram, tokenizer, debug=False):
         self.characters = characters
         self.models = models
         self.n = ngram
+        self.tokenizer = tokenizer
         self.debug = debug
 
     @staticmethod
@@ -134,7 +136,7 @@ class ChatBot:
             if inp.lower() == 'q':
                 break
 
-            words = nltk.word_tokenize(inp)
+            words = self.tokenizer.tokenize(inp)
             words = filter(lambda word: all([char not in string.punctuation.replace('-','') for char in word]), words)
             if self.debug:
                 print words
@@ -161,7 +163,7 @@ class ChatBot:
             except IOError:
                 print "Your input caused a bug. This is NOT part of the puzzle. Please report this bug in testsolving feedback so we can fix it."
 
-def load_corpora(characters):
+def load_corpora(characters, tokenizer):
 
     char_corps = {}
     for char in characters:
@@ -170,7 +172,7 @@ def load_corpora(characters):
         corpus = []
         for datafile in os.listdir(directory + char):
             data = open(directory + char + '/' + datafile, 'r').read()
-            data = nltk.word_tokenize(data)
+            data = tokenizer.tokenize(data)
             corpus += data
         char_corps[char] = corpus
     return char_corps
@@ -178,14 +180,15 @@ def load_corpora(characters):
 
 def initialize_bot(chars):
     n = 3
-    char_corps = load_corpora(chars)
+    tk = RegexpTokenizer('\w+|\$[\d\.]+|\S+')
+    char_corps = load_corpora(chars, tk)
     est = lambda fdist, bins: MLEProbDist(fdist)
 #    est = lambda fdist, bins: LidstoneProbDist(fdist, 0.2)
 #    est = lambda fdist, bins: WittenBellProbDist(fdist)
 #    est = lambda fdist, bins: KneserNeyProbDist(fdist)
     models = {character: NgramModel(n, corp, estimator=est)
               for character, corp in char_corps.iteritems()}
-    return ChatBot(chars, models, ngram=n, debug=False)
+    return ChatBot(chars, models, ngram=n, tokenizer=tk, debug=False)
 
 
 class memorize(dict):
