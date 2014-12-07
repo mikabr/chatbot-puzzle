@@ -39,5 +39,5 @@ def process_response(response):
     return output
 
 def tokenize(string):
-    tk = RegexpTokenizer('\w+|\$[\d\.]+|\S+')
+    tk = RegexpTokenizer('\w+|\$[\d\.,]+|\S+|Fig\. \d|Mr\.')
     return tk.tokenize(string)
