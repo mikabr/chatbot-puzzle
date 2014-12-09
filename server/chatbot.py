@@ -1,4 +1,6 @@
 import os
+import subprocess
+import random
 from nltk.probability import *
 from ngram import NgramModel
 from chatbot_helper import *
@@ -41,6 +43,13 @@ class ChatBot:
 
     # given an input string, scores it's similarity to each character and selects min scoring character
     def classify_input(self, words):
+        try:
+            search = subprocess.check_output(["grep", "-r", "-i", ' '.join(words), "TrainingSets"])
+            results = [result.split(':')[0].split('/')[1] for result in search.split('\n') if ':' in result]
+            if results and all([result == results[0] for result in results[1:]]):
+                return results[0]
+        except:
+            pass
         scores = {}
         if words:
             scores = {character: self.score_character(character, words) for character in self.characters}
@@ -50,6 +59,7 @@ class ChatBot:
         if scores:
             best = min(scores, key=lambda c: scores[c])
             return best
+        return random.choice(self.characters)
 
     # given a character, returns the next character in the characters list (wrapping last to first)
     def pick_responder(self, input_character):
