@@ -31,10 +31,19 @@ def process_response(response):
     if response:
         first = 0
         for i in range(len(response)):
-            if any([c not in string.punctuation for c in response[i]]):
+            if any([c in string.letters for c in response[i]]):
                 first = i
                 break
         response = response[first:]
+
+    # remove any trailing punctuation except for the sentence end mark
+    if response:
+        last = -1
+        for i in reversed(range(len(response)-1)):
+            if not all([char in string.punctuation for char in response[i]]):
+                last = i+1
+                break
+        response = response[:last] + [response[-1]]
 
     # capitalize the first letter of the first word
     if response:

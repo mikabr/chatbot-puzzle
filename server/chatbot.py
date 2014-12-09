@@ -1,6 +1,5 @@
 import os
 import subprocess
-import random
 from nltk.probability import *
 from ngram import NgramModel
 from chatbot_helper import *
@@ -59,7 +58,6 @@ class ChatBot:
         if scores:
             best = min(scores, key=lambda c: scores[c])
             return best
-        return random.choice(self.characters)
 
     # given a character, returns the next character in the characters list (wrapping last to first)
     def pick_responder(self, input_character):
@@ -158,4 +156,4 @@ def bot2():
 
 if __name__ == "__main__":
     print 'Please wait...'
-    bot1().run()
+    bot2().run()
