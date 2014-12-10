@@ -43,9 +43,10 @@ class ChatBot:
     # given an input string, scores it's similarity to each character and selects min scoring character
     def classify_input(self, words):
         try:
-            search = subprocess.check_output(["grep", "-r", "-i", ' '.join(words), "TrainingSets"])
+            directory = os.path.join(os.path.dirname(__file__), 'TrainingSets/')
+            search = subprocess.check_output(["grep", "-r", "-i", ' '.join(words), directory])
             results = [result.split(':')[0].split('/')[1] for result in search.split('\n') if ':' in result]
-            if results and all([result == results[0] for result in results[1:]]):
+            if results and all([result == results[0] for result in results[1:]]) and results[0] in self.characters:
                 return results[0]
         except:
             pass
