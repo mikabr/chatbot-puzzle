@@ -11,22 +11,28 @@ class ChatBot:
         self.characters = characters
         self.models = models
         self.n = ngram
+        self.current = 0
         self.debug = debug
+
+    def restart(self):
+        self.current = 0
 
     def generate_response(self, character, seed):
         model = self.models[character]
-        len_seed = len(seed)
         response = seed[:]
         end = {'.', '!', '?', '?!'}
-        while response and not response[-1] in end and not len(response) > 20:
+        while len(response) < (8 + len(seed)):
+            word = model._generate_one(response)
+            response.append(word)
+        while response[-1] not in end and len(response) < 25:
             word = model._generate_one(response)
             response.append(word)
         if response[-1] not in end:
             response.append('.')
-        response = response[len_seed:]
+        response = response[len(seed):]
         response = process_response(response)
-        if len(tokenize(response)) < 3 or all([char in string.punctuation for char in response]):
-            response = self.generate_response(character, seed)
+#        if len(tokenize(response)) < 3 or all([char in string.punctuation for char in response]):
+#            response = self.generate_response(character, seed)
         return response
 
     # given a character and an input string, scores how similar the string is to that character's corpus
@@ -65,27 +71,22 @@ class ChatBot:
         return self.characters[(self.characters.index(input_character) + 1) % len(self.characters)]
 
     def response(self, inp):
+
         print inp
         tokens = tokenize(inp)
 
         if self.debug:
             print tokens
+            print self.current, self.characters[self.current]
 
-        try:
-            # classify input as character it's most similar to
-            input_character = self.classify_input(tokens)
-            if self.debug:
-                print input_character
-            if input_character:
-                # deterministically pick character to respond as
-                responder = self.pick_responder(input_character)
-                # generate response from selected character, seeded with user's input
-                words = filter(lambda word: all([char not in string.punctuation.replace('-', '') for char in word]), tokens)
-                return self.generate_response(responder, words)
-            else:
-                return "That's not very interesting..."
-        except IOError:
-            return "Your input caused a bug. This is NOT part of the puzzle. Please report this bug in testsolving feedback so we can fix it."
+        # deterministically pick character to respond as
+        responder = self.characters[self.current]
+        self.current = (self.current + 1) % len(self.characters)
+
+        # generate response from selected character, seeded with user's input
+        words = filter(lambda word: all([char not in string.punctuation.replace('-', '') for char in word]), tokens)
+        response = self.generate_response(responder, words)
+        return response
 
     # runs chatbot input/response interface
     def run(self):
@@ -142,6 +143,12 @@ class memorize(dict):
         return result
 
 @memorize
+def bot():
+    print 'Initializing bot'
+    chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic', 'Grande', 'Asimov', 'Marx', 'Einstein']
+    return initialize_bot(chars)
+
+@memorize
 def bot1():
     print 'Initializing bot1'
     chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic']
@@ -157,4 +164,4 @@ def bot2():
 
 if __name__ == "__main__":
     print 'Please wait...'
-    bot2().run()
+    bot().run()
