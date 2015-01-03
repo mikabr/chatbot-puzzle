@@ -3,7 +3,7 @@
     <div class="col-md-5">
       <div class="panel panel-primary chatbox" id='chatbox' data-chatbot='chatbot'>
         <div class="panel-heading">
-          <span class="glyphicon glyphicon-comment"></span> Chat
+          <span class="glyphicon glyphicon-comment"></span> Chat <a class="chat-reset"'>reset</a>
         </div>
         <div class="panel-body">
           <ul class="chat">
@@ -88,6 +88,12 @@
     color: #777777;
   }
 
+  .chat-reset {
+    float: right;
+    color: #eee;
+    cursor: pointer;
+  }
+
 
 
 </style>
@@ -108,6 +114,12 @@ function clickChat(chatbox){
     
     
   }
+}
+
+function resetChat(chatbox){
+  $.get(chatbox.data('chatbot') + '/reset', {}, function(data) {
+    chatbox.find('.chat').empty();
+  });
 }
 
 function scrollchat(chatbox){
@@ -134,6 +146,12 @@ document.addEventListener("DOMContentLoaded", function(event) {
         e.preventDefault();
     }
   });
+
+  $('.chat-reset').on('click', function(e){
+        resetChat($(this).parents('.chatbox'));
+        e.preventDefault();
+  });
+
 });
 //]]>
 </script>

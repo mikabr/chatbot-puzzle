@@ -11,11 +11,7 @@ class ChatBot:
         self.characters = characters
         self.models = models
         self.n = ngram
-        self.current = 0
         self.debug = debug
-
-    def restart(self):
-        self.current = 0
 
     def generate_response(self, character, seed):
         model = self.models[character]
@@ -70,18 +66,18 @@ class ChatBot:
     def pick_responder(self, input_character):
         return self.characters[(self.characters.index(input_character) + 1) % len(self.characters)]
 
-    def response(self, inp):
+    def response(self, inp, current):
+        current = current % len(self.characters)
 
         print inp
         tokens = tokenize(inp)
 
         if self.debug:
             print tokens
-            print self.current, self.characters[self.current]
+            print current, self.characters[current]
 
         # deterministically pick character to respond as
-        responder = self.characters[self.current]
-        self.current = (self.current + 1) % len(self.characters)
+        responder = self.characters[current]
 
         # generate response from selected character, seeded with user's input
         words = filter(lambda word: all([char not in string.punctuation.replace('-', '') for char in word]), tokens)
@@ -92,6 +88,7 @@ class ChatBot:
     def run(self):
 
         print 'Talk with your new friends. Quit with Q or q.'
+        character = 0
 
         while True:
 
@@ -100,8 +97,9 @@ class ChatBot:
             if inp.lower() == 'q':
                 break
 
-            response = self.response(inp)
+            response = self.response(inp, character)
             print response
+            character = character + 1
 
 def load_corpora(characters):
 
