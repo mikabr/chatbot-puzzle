@@ -1,9 +1,10 @@
 <div class="container">
+    <p>How about a round of imitation? You can find out what you have in common with your neighbors!</p>
   <div class="row">
     <div class="col-md-5">
-      <div class="panel panel-primary chatbox" id='chatbox' data-chatbot='chatbot'>
+      <div class="panel panel-primary chatbox" id='chatbox-1' data-chatbot='chatbot-1'>
         <div class="panel-heading">
-          <span class="glyphicon glyphicon-comment"></span> Chat <a class="chat-reset"'>reset</a>
+          <span class="glyphicon glyphicon-comment"></span> Chat <a class="chat-reset">reset</a>
         </div>
         <div class="panel-body">
           <ul class="chat">
@@ -20,38 +21,28 @@
         </div>
       </div>
     </div>
+
     <div class="col-md-5">
-      <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
-      </p>
-      <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
-      </p>
-      <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
-      </p>
-      <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
-      </p>
-      <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
-      </p>
-      <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
-      </p>
-      <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
-      </p>
-      <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
-      </p>
-      <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
-      </p>
-      <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
-      </p>
+      <div class="panel panel-primary chatbox" id='chatbox-2' data-chatbot='chatbot-2'>
+        <div class="panel-heading">
+          <span class="glyphicon glyphicon-comment"></span> Chat <a class="chat-reset">reset</a>
+        </div>
+        <div class="panel-body">
+          <ul class="chat">
+        </ul>
+      </div>
+      <div class="panel-footer">
+        <div class="input-group">
+          <input id="btn-input" type="text" class="form-control input-sm btn-input" placeholder="Type your message here..." />
+          <span class="input-group-btn">
+            <button class="btn btn-warning btn-sm btn-chat">
+              Send</button>
+            </span>
+          </div>
+        </div>
+      </div>
     </div>
+
   </div>
 </div>
 
@@ -116,12 +107,6 @@ function clickChat(chatbox){
   }
 }
 
-function resetChat(chatbox){
-  $.get(chatbox.data('chatbot') + '/reset', {}, function(data) {
-    chatbox.find('.chat').empty();
-  });
-}
-
 function scrollchat(chatbox){
   var panel = chatbox.find('.panel-body');
   panel.animate({ scrollTop: panel[0].scrollHeight}, 200);
@@ -145,11 +130,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
         clickChat($(this).parents('.chatbox'));
         e.preventDefault();
     }
-  });
-
-  $('.chat-reset').on('click', function(e){
-        resetChat($(this).parents('.chatbox'));
-        e.preventDefault();
   });
 
 });

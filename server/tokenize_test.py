@@ -17,5 +17,6 @@ def tokenize_test(string):
     print "resulting string:", output
     
 if __name__ == '__main__':
+    tokenize_test(test)
 #    tokenize_test('hi?!')
-    tokenize_test(sys.argv[1])
+#    tokenize_test(sys.argv[1])

@@ -7,11 +7,14 @@ from chatbot_helper import *
 
 class ChatBot:
 
-    def __init__(self, characters, models, ngram, debug=False):
+    def __init__(self, characters, nicknames, intros, models, ngram, debug=False):
         self.characters = characters
+        self.nicknames = nicknames
+        self.intros = intros
         self.models = models
         self.n = ngram
         self.debug = debug
+        self.current_intro = 0
 
     def generate_response(self, character, seed):
         model = self.models[character]
@@ -66,29 +69,36 @@ class ChatBot:
     def pick_responder(self, input_character):
         return self.characters[(self.characters.index(input_character) + 1) % len(self.characters)]
 
-    def response(self, inp, current):
-        current = current % len(self.characters)
+#    def response(self, inp, current):
+#        current = current % len(self.characters)
+    def response(self, inp):
 
         print inp
         tokens = tokenize(inp)
+        if len(tokens) < 5:
+            return "Can you say more?"
 
-        if self.debug:
-            print tokens
-            print current, self.characters[current]
+        input_character = self.classify_input(tokens)
+        if not input_character:
+            return "That doesn't sound like something any of us would say..."
 
         # deterministically pick character to respond as
-        responder = self.characters[current]
+        responder = self.pick_responder(input_character)
 
         # generate response from selected character, seeded with user's input
         words = filter(lambda word: all([char not in string.punctuation.replace('-', '') for char in word]), tokens)
         response = self.generate_response(responder, words)
-        return response
+        nickname = self.nicknames[input_character]
+        intro = self.intros[self.current_intro]
+        self.current_intro = (self.current_intro + 1) % len(self.intros)
+        message = '%s, %s: %s' % (intro, nickname, response)
+
+        return message
 
     # runs chatbot input/response interface
     def run(self):
 
         print 'Talk with your new friends. Quit with Q or q.'
-        character = 0
 
         while True:
 
@@ -97,9 +107,9 @@ class ChatBot:
             if inp.lower() == 'q':
                 break
 
-            response = self.response(inp, character)
+#            response = self.response(inp, character)
+            response = self.response(inp)
             print response
-            character = character + 1
 
 def load_corpora(characters):
 
@@ -116,8 +126,12 @@ def load_corpora(characters):
     return char_corps
 #    return models
 
-def initialize_bot(chars):
+def initialize_bot(chars, nicks):
     n = 3
+    intros = ["So", "Hi", "In fact", "For what it's worth", "Think about it",
+              "Conversely", "On the other hand", "Debatably", "Especially", "Not to mention", "Although", "Moreover", "Equally",
+              "But", "Yes",
+              "See here", "Ultimately", "Rather", "Nevertheless", "As you said", "Mind you", "Even so"]
     char_corps = load_corpora(chars)
     est = lambda fdist, bins: MLEProbDist(fdist)
 #    est = lambda fdist, bins: LidstoneProbDist(fdist, 0.2)
@@ -125,7 +139,7 @@ def initialize_bot(chars):
 #    est = lambda fdist, bins: KneserNeyProbDist(fdist)
     models = {character: NgramModel(n, corp, estimator=est)
               for character, corp in char_corps.iteritems()}
-    return ChatBot(chars, models, ngram=n, debug=False)
+    return ChatBot(chars, nicks, intros, models, ngram=n, debug=False)
 
 
 class memorize(dict):
@@ -140,26 +154,28 @@ class memorize(dict):
         result = self[key] = self.func(*key)
         return result
 
-@memorize
-def bot():
-    print 'Initializing bot'
-    chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic', 'Grande', 'Asimov', 'Marx', 'Einstein']
-    return initialize_bot(chars)
+#@memorize
+#def bot():
+#    print 'Initializing bot'
+#    chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic', 'Grande', 'Asimov', 'Marx', 'Einstein']
+#    return initialize_bot(chars)
 
 @memorize
 def bot1():
     print 'Initializing bot1'
-    chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic']
-    return initialize_bot(chars)
+    chars = ['Shakespeare', 'Nash', 'Asimov', 'Marx', 'Rand', 'Grande']
+    nicks = {'Nash': 'Alum', 'Grande': 'Reed', 'Rand': 'Hymn', 'Marx': 'Skip', 'Asimov': 'Nova', 'Shakespeare': 'Fame'}
+    return initialize_bot(chars, nicks)
 #    print 'Initialized bot1'
 
 @memorize
 def bot2():
     print 'Initializing bot2'
-    chars = ['Grande', 'Asimov', 'Marx', 'Einstein']
-    return initialize_bot(chars)
+    chars = ['Einstein', 'Nixon', 'Cyrus', 'Yankovic']
+    nicks = {'Einstein': 'Bully', 'Cyrus': 'Knish', 'Yankovic': 'Plato', 'Nixon': 'Swarm'}
+    return initialize_bot(chars, nicks)
 #    print 'Initialized bot2'
 
 if __name__ == "__main__":
     print 'Please wait...'
-    bot().run()
+    bot1().run()
