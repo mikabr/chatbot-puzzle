@@ -167,7 +167,7 @@ class memorize(dict):
 def bot1():
     print 'Initializing bot1'
     chars = ['Nash', 'Nixon', 'Rand', 'Marx', 'Shakespeare', 'Cyrus']
-    nicks = {'Nash': 'Wonton', 'Nixon': 'Foreskin', 'Rand': 'Threesome', 'Marx': 'Toothbrush',
+    nicks = {'Nash': 'Wonton', 'Nixon': 'Forehead', 'Rand': 'Threesome', 'Marx': 'Toothbrush',
              'Shakespeare': 'Tentacle', 'Cyrus': 'Tupac'}
     return initialize_bot(chars, nicks)
 #    print 'Initialized bot1'
@@ -176,7 +176,7 @@ def bot1():
 def bot2():
     print 'Initializing bot2'
     chars = ['Grande', 'Yankovic', 'Asimov', 'Einstein']
-    nicks = {'Grande': 'Wonder Woman', 'Yankovic': 'Tulip', 'Asimov': 'Forehead', 'Einstein': 'Sick Soup'}
+    nicks = {'Grande': 'Wonder Woman', 'Yankovic': 'Tulip', 'Asimov': 'Foreigner', 'Einstein': 'Sick Soup'}
     return initialize_bot(chars, nicks)
 #    print 'Initialized bot2'
 
