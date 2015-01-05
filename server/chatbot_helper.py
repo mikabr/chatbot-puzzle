@@ -56,8 +56,8 @@ def process_response(response):
         response = response[:last] + [response[-1]]
 
     # capitalize the first letter of the first word
-#    if response:
-#        response[0] = response[0].capitalize()
+    if response:
+        response[0] = response[0].capitalize()
 
     output = response[0]
     # put the words into a string, inserting spaces where they should be

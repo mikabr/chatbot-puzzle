@@ -92,8 +92,8 @@ class ChatBot:
         nickname = self.nicknames[input_character]
 #        intro = self.intros[self.current_intro]
 #        self.current_intro = (self.current_intro + 1) % len(self.intros)
-        intro = "Hi"
-        message = '%s, %s: %s' % (intro, nickname, response)
+        intro = "You sound like"
+        message = "%s %s!\n%s" % (intro, nickname, response)
 
         return message
 
