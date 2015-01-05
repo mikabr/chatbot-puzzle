@@ -1,29 +1,10 @@
 <div class="container">
-    <p>Every person only likes responding to one other person.</p>
+    <p>How about a round of imitation? You can find out what you have in common with your neighbors!</p>
   <div class="row">
     <div class="col-md-5">
       <div class="panel panel-primary chatbox" id='chatbox-1' data-chatbot='chatbot-1'>
         <div class="panel-heading">
-          <span class="glyphicon glyphicon-comment"></span> Chat
-        <div class="panel-body">
-          <ul class="chat">
-        </ul>
-      </div>
-      <div class="panel-footer">
-        <div class="input-group">
-          <input id="btn-input" type="text" class="form-control input-sm btn-input" placeholder="Type your message here..." />
-          <span class="input-group-btn">
-            <button class="btn btn-warning btn-sm btn-chat">
-              Send</button>
-            </span>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-5">
-      <div class="panel panel-primary chatbox" id='chatbox-2' data-chatbot='chatbot-2'>
-        <div class="panel-heading">
-          <span class="glyphicon glyphicon-comment"></span> Chat
+          <span class="glyphicon glyphicon-comment"></span> Chat <a class="chat-reset">reset</a>
         </div>
         <div class="panel-body">
           <ul class="chat">
@@ -41,7 +22,30 @@
       </div>
     </div>
 
-  <div class="row">
+    <div class="col-md-5">
+      <div class="panel panel-primary chatbox" id='chatbox-2' data-chatbot='chatbot-2'>
+        <div class="panel-heading">
+          <span class="glyphicon glyphicon-comment"></span> Chat <a class="chat-reset">reset</a>
+        </div>
+        <div class="panel-body">
+          <ul class="chat">
+        </ul>
+      </div>
+      <div class="panel-footer">
+        <div class="input-group">
+          <input id="btn-input" type="text" class="form-control input-sm btn-input" placeholder="Type your message here..." />
+          <span class="input-group-btn">
+            <button class="btn btn-warning btn-sm btn-chat">
+              Send</button>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+    <div class="row">
       <p>
         <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
       </p>
@@ -72,7 +76,7 @@
       <p>
         <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
       </p>
-  </div>
+    </div>
 </div>
 
 <style>
@@ -106,6 +110,12 @@
   {
     margin: 0;
     color: #777777;
+  }
+
+  .chat-reset {
+    float: right;
+    color: #eee;
+    cursor: pointer;
   }
 
 
@@ -154,6 +164,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
         e.preventDefault();
     }
   });
+
 });
 //]]>
 </script>
