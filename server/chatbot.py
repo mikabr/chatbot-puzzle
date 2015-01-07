@@ -7,14 +7,15 @@ from chatbot_helper import *
 
 class ChatBot:
 
-    def __init__(self, characters, nicknames, intros, models, ngram, debug=False):
+#    def __init__(self, characters, nicknames, intros, models, ngram, debug=False):
+    def __init__(self, characters, nicknames, models, ngram, debug=False):
         self.characters = characters
         self.nicknames = nicknames
-        self.intros = intros
+#        self.intros = intros
         self.models = models
         self.n = ngram
         self.debug = debug
-        self.current_intro = 0
+#        self.current_intro = 0
 
     def generate_response(self, character, seed):
         model = self.models[character]
@@ -89,9 +90,10 @@ class ChatBot:
         words = filter(lambda word: all([char not in string.punctuation.replace('-', '') for char in word]), tokens)
         response = self.generate_response(responder, words)
         nickname = self.nicknames[input_character]
-        intro = self.intros[self.current_intro]
-        self.current_intro = (self.current_intro + 1) % len(self.intros)
-        message = '%s, %s: %s' % (intro, nickname, response)
+#        intro = self.intros[self.current_intro]
+#        self.current_intro = (self.current_intro + 1) % len(self.intros)
+        intro = "You sound like"
+        message = "%s %s!\n%s" % (intro, nickname, response)
 
         return message
 
@@ -128,10 +130,10 @@ def load_corpora(characters):
 
 def initialize_bot(chars, nicks):
     n = 3
-    intros = ["So", "Hi", "In fact", "For what it's worth", "Think about it",
-              "Conversely", "On the other hand", "Debatably", "Especially", "Not to mention", "Although", "Moreover", "Equally",
-              "But", "Yes",
-              "See here", "Ultimately", "Rather", "Nevertheless", "As you said", "Mind you", "Even so"]
+#    intros = ["So", "Hi", "In fact", "For what it's worth", "Think about it",
+#              "Conversely", "On the other hand", "Debatably", "Especially", "Not to mention", "Although", "Moreover", "Equally",
+#              "But", "Yes",
+#              "See here", "Ultimately", "Rather", "Nevertheless", "As you said", "Mind you", "Even so"]
     char_corps = load_corpora(chars)
     est = lambda fdist, bins: MLEProbDist(fdist)
 #    est = lambda fdist, bins: LidstoneProbDist(fdist, 0.2)
@@ -139,7 +141,8 @@ def initialize_bot(chars, nicks):
 #    est = lambda fdist, bins: KneserNeyProbDist(fdist)
     models = {character: NgramModel(n, corp, estimator=est)
               for character, corp in char_corps.iteritems()}
-    return ChatBot(chars, nicks, intros, models, ngram=n, debug=False)
+#    return ChatBot(chars, nicks, intros, models, ngram=n, debug=False)
+    return ChatBot(chars, nicks, models, ngram=n, debug=False)
 
 
 class memorize(dict):
@@ -163,16 +166,17 @@ class memorize(dict):
 @memorize
 def bot1():
     print 'Initializing bot1'
-    chars = ['Shakespeare', 'Nash', 'Asimov', 'Marx', 'Rand', 'Grande']
-    nicks = {'Nash': 'Alum', 'Grande': 'Reed', 'Rand': 'Hymn', 'Marx': 'Skip', 'Asimov': 'Nova', 'Shakespeare': 'Fame'}
+    chars = ['Nash', 'Nixon', 'Rand', 'Marx', 'Shakespeare', 'Cyrus']
+    nicks = {'Nash': 'Wonton', 'Nixon': 'Forehead', 'Rand': 'Threesome', 'Marx': 'Toothbrush',
+             'Shakespeare': 'Tentacle', 'Cyrus': 'Tupac'}
     return initialize_bot(chars, nicks)
 #    print 'Initialized bot1'
 
 @memorize
 def bot2():
     print 'Initializing bot2'
-    chars = ['Einstein', 'Nixon', 'Cyrus', 'Yankovic']
-    nicks = {'Einstein': 'Bully', 'Cyrus': 'Knish', 'Yankovic': 'Plato', 'Nixon': 'Swarm'}
+    chars = ['Grande', 'Yankovic', 'Asimov', 'Einstein']
+    nicks = {'Grande': 'Wonder Woman', 'Yankovic': 'Tulip', 'Asimov': 'Foreigner', 'Einstein': 'Sick Soup'}
     return initialize_bot(chars, nicks)
 #    print 'Initialized bot2'
 
