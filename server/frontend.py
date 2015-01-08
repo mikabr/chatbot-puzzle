@@ -2,6 +2,7 @@ from django.http import HttpResponse
 #from chatbot import bot1, bot2
 from chatbot import bot
 
+import json
 
 def chatbot(request):
     return chatbot_request(request, bot())
@@ -25,8 +26,9 @@ def chatbot_request(request, bot):
 #            request.session[session_key] = 0
 #        character = request.session[session_key]
 #        response = bot.response(data, character)
-        response = bot.response(data)
+        response, name = bot.response(data)
 #        request.session[session_key] = character + 1
-        return HttpResponse(response, mimetype='application/text')
+        response_obj = {'response' : response, 'name' : name}
     else:
-        return HttpResponse('Please enter some text', mimetype='application/text')
+        response_obj = {'response' : 'Please enter some text', 'name' : 'Nobody'}
+    return HttpResponse(json.dumps(response_obj), mimetype='application/json')
