@@ -7,15 +7,12 @@ from chatbot_helper import *
 
 class ChatBot:
 
-#    def __init__(self, characters, nicknames, intros, models, ngram, debug=False):
     def __init__(self, characters, nicknames, models, ngram, debug=False):
         self.characters = characters
         self.nicknames = nicknames
-#        self.intros = intros
         self.models = models
         self.n = ngram
         self.debug = debug
-#        self.current_intro = 0
 
     def generate_response(self, character, seed):
         model = self.models[character]
@@ -48,14 +45,14 @@ class ChatBot:
 
     # given an input string, scores it's similarity to each character and selects min scoring character
     def classify_input(self, words):
-        try:
-            directory = os.path.join(os.path.dirname(__file__), 'TrainingSets/')
-            search = subprocess.check_output(["grep", "-r", "-i", ' '.join(words), directory])
-            results = [result.split(':')[0].split('/')[1] for result in search.split('\n') if ':' in result]
-            if results and all([result == results[0] for result in results[1:]]) and results[0] in self.characters:
-                return results[0]
-        except:
-            pass
+        # try:
+        #     directory = os.path.join(os.path.dirname(__file__), 'TrainingSets/')
+        #     search = subprocess.check_output(["grep", "-r", "-i", ' '.join(words), directory])
+        #     results = [result.split(':')[0].split('/')[1] for result in search.split('\n') if ':' in result]
+        #     if results and all([result == results[0] for result in results[1:]]) and results[0] in self.characters:
+        #         return results[0]
+        # except:
+        #     pass
         scores = {}
         if words:
             scores = {character: self.score_character(character, words) for character in self.characters}
@@ -76,15 +73,16 @@ class ChatBot:
 
         print inp
         tokens = tokenize(inp)
-        if len(tokens) < 5:
-            return "Can you say more?"
+#        if len(tokens) < 5:
+#            return "Can you say more?"
 
         input_character = self.classify_input(tokens)
         if not input_character:
-            return "That doesn't sound like something any of us would say..."
+            return "That doesn't sound like something any of us would say...", "Nobody"
 
         # deterministically pick character to respond as
-        responder = self.pick_responder(input_character)
+#        responder = self.pick_responder(input_character)
+        responder = input_character
 
         # generate response from selected character, seeded with user's input
         words = filter(lambda word: all([char not in string.punctuation.replace('-', '') for char in word]), tokens)
@@ -92,10 +90,11 @@ class ChatBot:
         nickname = self.nicknames[input_character]
 #        intro = self.intros[self.current_intro]
 #        self.current_intro = (self.current_intro + 1) % len(self.intros)
-        intro = "You sound like"
-        message = "%s %s!\n%s" % (intro, nickname, response)
+#        intro = "Hi"
+#        message = "%s %s! %s" % (intro, nickname, response)
 
-        return message
+#        return message
+        return response, nickname
 
     # runs chatbot input/response interface
     def run(self):
@@ -110,8 +109,8 @@ class ChatBot:
                 break
 
 #            response = self.response(inp, character)
-            response = self.response(inp)
-            print response
+            response, responder = self.response(inp)
+            print responder + ': ' + response
 
 def load_corpora(characters):
 
@@ -157,29 +156,31 @@ class memorize(dict):
         result = self[key] = self.func(*key)
         return result
 
-#@memorize
-#def bot():
-#    print 'Initializing bot'
-#    chars = ['Nash', 'Orwell', 'Nixon', 'Aguilera', 'Rand', 'Yankovic', 'Grande', 'Asimov', 'Marx', 'Einstein']
-#    return initialize_bot(chars)
-
 @memorize
-def bot1():
-    print 'Initializing bot1'
-    chars = ['Nash', 'Nixon', 'Rand', 'Marx', 'Shakespeare', 'Cyrus']
-    nicks = {'Nash': 'Wonton', 'Nixon': 'Forehead', 'Rand': 'Threesome', 'Marx': 'Toothbrush',
-             'Shakespeare': 'Tentacle', 'Cyrus': 'Tupac'}
+def bot():
+    print 'Initializing bot'
+    chars = ['Whitman', 'Nixon', 'Rand', 'Nash', 'Aguilera', 'Shakespeare']
+    nicks = {'Whitman': 'Wonderland', 'Nixon': 'Tulip', 'Rand': 'Threesome',
+             'Nash': 'Wonton', 'Aguilera': 'Sick Soup', 'Shakespeare': 'Tentacle'}
     return initialize_bot(chars, nicks)
-#    print 'Initialized bot1'
 
-@memorize
-def bot2():
-    print 'Initializing bot2'
-    chars = ['Grande', 'Yankovic', 'Asimov', 'Einstein']
-    nicks = {'Grande': 'Wonder Woman', 'Yankovic': 'Tulip', 'Asimov': 'Foreigner', 'Einstein': 'Sick Soup'}
-    return initialize_bot(chars, nicks)
+# @memorize
+# def bot1():
+#     print 'Initializing bot1'
+#     chars = ['Nash', 'Nixon', 'Rand', 'Marx', 'Shakespeare', 'Cyrus']
+#     nicks = {'Nash': 'Wonton', 'Nixon': 'Forehead', 'Rand': 'Threesome', 'Marx': 'Toothbrush',
+#              'Shakespeare': 'Tentacle', 'Cyrus': 'Tupac'}
+#     return initialize_bot(chars, nicks)
+# #    print 'Initialized bot1'
+#
+# @memorize
+# def bot2():
+#     print 'Initializing bot2'
+#     chars = ['Grande', 'Yankovic', 'Asimov', 'Einstein']
+#     nicks = {'Grande': 'Wonder Woman', 'Yankovic': 'Tulip', 'Asimov': 'Foreigner', 'Einstein': 'Sick Soup'}
+#     return initialize_bot(chars, nicks)
 #    print 'Initialized bot2'
 
 if __name__ == "__main__":
     print 'Please wait...'
-    bot1().run()
+    bot().run()

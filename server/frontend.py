@@ -1,16 +1,16 @@
 from django.http import HttpResponse
-from chatbot import bot1, bot2
-#from chatbot import bot
+#from chatbot import bot1, bot2
+from chatbot import bot
 
 
-#def chatbot(request):
-#    return chatbot_request(request, bot())
+def chatbot(request):
+    return chatbot_request(request, bot())
 
-def chatbot_1(request):
-    return chatbot_request(request, bot1())
+#def chatbot_1(request):
+#    return chatbot_request(request, bot1())
 
-def chatbot_2(request):
-    return chatbot_request(request, bot2())
+#def chatbot_2(request):
+#    return chatbot_request(request, bot2())
 
 #def chatbot_reset(request):
 #    session_key = 'chatbot'
