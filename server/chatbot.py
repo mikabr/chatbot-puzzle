@@ -159,9 +159,9 @@ class memorize(dict):
 @memorize
 def bot():
     print 'Initializing bot'
-    chars = ['Whitman', 'Nixon', 'Rand', 'Nash', 'Aguilera', 'Shakespeare']
+    chars = ['Whitman', 'Nixon', 'Rand', 'Grande', 'Aguilera', 'Shakespeare']
     nicks = {'Whitman': 'Wonderland', 'Nixon': 'Tulip', 'Rand': 'Threesome',
-             'Nash': 'Wonton', 'Aguilera': 'Sick Soup', 'Shakespeare': 'Tentacle'}
+             'Grande': 'Forehead', 'Aguilera': 'Sick Soup', 'Shakespeare': 'Tentacle'}
     return initialize_bot(chars, nicks)
 
 # @memorize
