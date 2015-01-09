@@ -1,5 +1,6 @@
 <div class="container">
   <div class="row">
+
     <div class="col-md-5">
       <div class="panel panel-primary chatbox" id='chatbox' data-chatbot='chatbot'>
         <div class="panel-heading">
@@ -21,9 +22,7 @@
       </div>
     </div>
 
-  </div>
-
-    <div class="row">
+    <div class="col-md-5">
       <p>
         <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
       </p>
@@ -43,6 +42,9 @@
         <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
       </p>
     </div>
+
+  </div>
+
 </div>
 
 <style>
@@ -108,7 +110,7 @@ function clickChat(chatbox){
 
 function scrollchat(chatbox){
   var panel = chatbox.find('.panel-body');
-  panel.animate({ scrollTop: panel[0].scrollHeight}, 200);
+  panel.animate({ scrollTop: panel[0].scrollHeight}, 300);
 }
 
 function insertChat(chatbox, user, text){
