@@ -100,7 +100,7 @@ function clickChat(chatbox){
     input.val('');
     scrollchat(chatbox);
     $.get(chatbox.data('chatbot'), { data: text }, function(data) {
-      insertChat(chatbox, data.name, data.response);
+      insertChat(chatbox, data.result.name, data.result.response);
       scrollchat(chatbox);
     });
     
