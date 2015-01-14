@@ -32,9 +32,7 @@
 
     <div class="col-md-5">
       <div class="panel panel-primary chatbox" id='chatbox' data-chatbot='/dynamic/puzzle/shark_blood/chat'>
-        <div class="panel-heading">
-          <span class="glyphicon glyphicon-comment"></span> Chat
-        </div>
+        <div class="panel-heading">Chat</div>
         <div class="panel-body">
           <ul class="chat">
         </ul>
@@ -42,10 +40,6 @@
       <div class="panel-footer">
         <div class="input-group">
           <input id="btn-input" type="text" class="form-control input-sm btn-input" placeholder="Type your message here..." />
-          <span class="input-group-btn">
-            <button class="btn btn-warning btn-sm btn-chat">
-              Send</button>
-            </span>
           </div>
         </div>
       </div>
@@ -83,25 +77,38 @@
     margin: 0 5px;
     border-bottom: 1px solid;
   }
-
-  .panel-body
+  .chatbox {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    border-radius: 2px;
+  }
+  .chatbox .panel-heading
+  {
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+  }
+  .chatbox .panel-body
   {
     overflow-y: scroll;
     height: 300px;
   }
+  .chatbox .input-group
+  {
+    width: 100%;
+  }
+  .chatbox .panel-footer
+  {
+    padding: 5px;
+  }
   .chat
-{
+  {
     list-style: none;
     margin: 0;
     padding: 0;
-}
+  }
 
   .chat li
   {
-    margin-bottom: 10px;
-    padding-bottom: 5px;
-    border-bottom: 1px dotted #B3A9A9;
-    text-indent: 0;
+    padding: 0 0 10px 1.1em;
   }
 
   .chat li .chat-body p
@@ -114,6 +121,23 @@
     float: right;
     color: #eee;
     cursor: pointer;
+  }
+
+  .chatbox input
+  {
+    border-radius: 0;
+  }
+
+  .chatbox ::-webkit-scrollbar
+  {
+    -webkit-appearance: none;
+    width: 7px;
+  }
+
+  .chatbox ::-webkit-scrollbar-thumb
+  {
+    background-color: rgba(0,0,0,.5);
+    -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
   }
 
   .puzzle td, .puzzle .th {
