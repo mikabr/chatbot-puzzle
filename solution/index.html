@@ -47,22 +47,22 @@
 
     <div class="col-md-5">
       <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
+        <span class='underscore selected_u'>W</span><span class='underscore'>H</span><span class='underscore'>I</span><span class='underscore'>T</span><span class='underscore'>M</span><span class='underscore'>A</span><span class='underscore'>N</span>
       </p>
       <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
+        <span class='underscore'>N</span><span class='underscore selected_u'>I</span><span class='underscore'>X</span><span class='underscore'>O</span><span class='underscore'>N</span>
       </p>
       <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
+        <span class='underscore'>R</span><span class='underscore'>A</span><span class='underscore selected_u'>N</span><span class='underscore'>D</span>
       </p>
       <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
+        <span class='underscore'>G</span><span class='underscore'>R</span><span class='underscore'>A</span><span class='underscore selected_u'>N</span><span class='underscore'>D</span><span class='underscore'>E</span>
       </p>
       <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
+        <span class='underscore'>A</span><span class='underscore'>Q</span><span class='underscore'>U</span><span class='underscore'>I</span><span class='underscore'>L</span><span class='underscore selected_u'>E</span><span class='underscore'>R</span><span class='underscore'>A</span>
       </p>
       <p>
-        <span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span><span class='underscore'></span>
+        <span class='underscore'>S</span><span class='underscore'>H</span><span class='underscore'>A</span><span class='underscore'>K</span><span class='underscore'>E</span><span class='underscore'>S</span><span class='underscore'>P</span><span class='underscore'>E</span><span class='underscore'>A</span><span class='underscore selected_u'>R</span><span class='underscore'>E</span>
       </p>
     </div>
 
@@ -73,9 +73,13 @@
 <style>
   .underscore{
     width: 10px;
-    padding: 10px;
+    padding: 5px;
     margin: 0 5px;
     border-bottom: 1px solid;
+  }
+  .selected_u
+  {
+    border: 1px solid;
   }
   .chatbox {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -175,7 +179,7 @@ function scrollchat(chatbox){
 }
 
 function insertChat(chatbox, user, text){
-  var chat = $('<li><div class="header"><strong class="primary-font chat-name"></strong></div><p class="chat-body"></p></li>');
+  var chat = $('<li><strong class="primary-font chat-name"></strong>: <span class="chat-body"></span></li>');
   chat.find('.chat-body').text(text);
   chat.find('.chat-name').text(user);
   chatbox.find('.chat').append(chat); 
@@ -193,6 +197,20 @@ document.addEventListener("DOMContentLoaded", function(event) {
         e.preventDefault();
     }
   });
+
+  var chatbox = $('.chatbox');
+  insertChat(chatbox, 'You', 'Over the traffic of cities--over the rumble of wheels in the streets');
+  insertChat(chatbox, 'Wonderland', 'The same the wiry threads to weave, forever equal.');
+  insertChat(chatbox, 'You', 'It was 5 years ago on the steps of this Capitol that I took the oath of office as your President.');
+  insertChat(chatbox, 'Tulip', 'Or at least half that experienced under.');
+  insertChat(chatbox, 'You', 'Contradictions do not exist. Whenever you think that you are facing a contradiction, check your premises. You will find that one of them is wrong.');
+  insertChat(chatbox, 'Threesome', "As our head and looked at Liberty 5.");
+  insertChat(chatbox, 'You', 'Hey baby even though I hate ya!');
+  insertChat(chatbox, 'Forehead', 'I got you all I want.');
+  insertChat(chatbox, 'You', "Baby there's a price to pay.");
+  insertChat(chatbox, 'Sick Soup', "I'm a little tipsy play along with me.");
+  insertChat(chatbox, 'You', 'In manners, as in shape! thy blood and virtue');
+  insertChat(chatbox, 'Tentacle', 'None, Rousillon, HELENA, disguised like a saucy lackey and under that you have.');
 
 });
 //]]>
